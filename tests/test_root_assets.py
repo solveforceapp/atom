@@ -9,6 +9,8 @@ if str(REPO_ROOT) not in sys.path:
 
 from tools import ROOT, SYNCED_FILES, WEB_DIR
 
+SCRIPT_FILE = next((name for name in SYNCED_FILES if name.endswith(".js")), "scripts.js")
+
 
 @pytest.mark.parametrize("relative", SYNCED_FILES)
 def test_root_asset_matches_web(relative: str) -> None:
@@ -23,4 +25,7 @@ def test_root_asset_matches_web(relative: str) -> None:
     assert root_text == web_text
 
     if relative == "index.html":
-        assert "<script src=\"scripts.js\"></script>" in root_text
+        expected_tag = f'<script src="{SCRIPT_FILE}"></script>'
+        assert (
+            expected_tag in root_text
+        ), f"index.html should reference {SCRIPT_FILE} via {expected_tag!r}"
