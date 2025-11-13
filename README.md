@@ -100,16 +100,6 @@ Run tests (placeholder):
 pytest
 ```
 
-If you update the microsite markup in `web/index.html`, copy it to the
-repository root so visitors hitting `/` see the same content:
-
-```bash
-cp web/index.html ./index.html
-```
-
-After copying, adjust the stylesheet and script paths in the root copy so they
-reference `web/styles.css` and `web/scripts.js`.
-
 ---
 
 ## 5. Reuse as template
