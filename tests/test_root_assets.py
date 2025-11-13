@@ -7,6 +7,9 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
+from tools import ROOT, SCRIPT_FILE, SYNCED_FILES, WEB_DIR
+
+SCRIPT_TAG = f'<script src="{SCRIPT_FILE}"></script>'
 from tools import ROOT, SYNCED_FILES, WEB_DIR
 
 SCRIPT_FILE = next((name for name in SYNCED_FILES if name.endswith(".js")), "scripts.js")

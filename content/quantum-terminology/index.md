@@ -1,0 +1,219 @@
+# SolveForce A–Z Directory of Quantum Computing and Physics Terminology
+
+This directory collects concise definitions for quantum computing and physics concepts. Each term links to an individual page for deeper reading.
+
+- [Ab Initio](ab-initio.md) — Mathematical model solving Schrödinger equation for atomic nuclei, yielding precise results for light nuclei.
+- [Abbe Number](abbe-number.md) — Measure of transparent material's dispersion in optics; high values indicate low dispersion.
+- [Absolute Electrode Potential](absolute-electrode-potential.md) — Electrode potential measured against a universal reference in electrochemistry.
+- [Absolute Humidity](absolute-humidity.md) — Ratio of water vapor in air sample to sample volume.
+- [Absolute Motion](absolute-motion.md) — Concept of motion relative to absolute space (discredited in modern physics).
+- [Absolute Pressure](absolute-pressure.md) — Zero-referenced against vacuum, equal to gauge plus atmospheric pressure.
+- [Absolute Scale](absolute-scale.md) — Measurement system starting at zero (natural minimum) progressing unidirectionally.
+- [Absolute Zero](absolute-zero.md) — Theoretical lowest temperature (0 K or -273.15°C) where molecular energy minimizes.
+- [Absorption Spectroscopy](absorption-spectroscopy.md) — Technique measuring electromagnetic absorption by samples across spectrum.
+- [Absorptivity](absorptivity.md) — Fraction of incident radiation absorbed by a surface.
+- [Accelerating Expansion of the Universe](accelerating-expansion-of-the-universe.md) — Observation that universe's expansion velocity increases over time.
+- [Acceleration](acceleration.md) — Rate of velocity change with time.
+- [Acceleration Due to Gravity](acceleration-due-to-gravity.md) — Acceleration caused by gravitational force on an object.
+- [Accelerometer](accelerometer.md) — Instrument measuring proper acceleration irrespective of other forces.
+- [Accretion Disk](accretion-disk.md) — Material orbiting a central body (e.g., black hole) spiraling inward, emitting radiation.
+- [Acoustics](acoustics.md) — Branch of physics on sound production, transmission, and effects.
+- [Adhesion](adhesion.md) — Force making things stick together, like tape or glue.
+- [Adiabatic Cooling](adiabatic-cooling.md) — Temperature decrease without heat exchange, via expansion.
+- [Adiabatic Heating](adiabatic-heating.md) — Temperature increase without heat exchange, via compression.
+- [Adiabatic Process](adiabatic-process.md) — No heat or mass transfer between system and surroundings; energy via work only.
+- [Aerodynamics](aerodynamics.md) — Study of air motion interacting with solid objects, subfield of fluid dynamics.
+- [Aerophysics](aerophysics.md) — Study of air and rapid-motion devices like aircraft or rockets.
+- [Afocal System](afocal-system.md) — Optical system with infinite focal length, no net beam convergence/divergence.
+- [Air Mass](air-mass.md) — In meteorology, volume of air defined by temperature and vapor; in astronomy, atmospheric path length.
+- [Air Mass Coefficient](air-mass-coefficient.md) — Ratio of optical path through atmosphere to vertical zenith path.
+- [Albedo](albedo.md) — Fraction of incident light reflected by a surface.
+- [Alloy](alloy.md) — Chemical mixture of metal with other metals or elements.
+- [Alpha Decay](alpha-decay.md) — Radioactive decay emitting alpha particle, reducing mass by 4 and atomic number by 2.
+- [Alpha Particle](alpha-particle.md) — Helium-4 nucleus (2 protons, 2 neutrons) emitted in alpha decay.
+- [Alternating Current](alternating-current.md) — Electric current periodically reversing direction.
+- [Ammeter](ammeter.md) — Instrument measuring electric current.
+- [Amorphous Solid](amorphous-solid.md) — Solid without definite geometric shape.
+- [Ampere](ampere.md) — SI unit of electric current, one coulomb per second.
+- [Amplifier](amplifier.md) — Device increasing signal power using external supply.
+- [Amplitude](amplitude.md) — Height of wave from center position.
+- [Angular Acceleration](angular-acceleration.md) — Rate of angular velocity change, in rad/s².
+- [Angular Displacement](angular-displacement.md) — Angle rotated about an axis.
+- [Angular Frequency](angular-frequency.md) — Rotation rate, ω = 2πf, in radians per second.
+- [Angular Momentum](angular-momentum.md) — Rotational equivalent of linear momentum, conserved in closed systems.
+- [Angular Velocity](angular-velocity.md) — Rate of angular position change, in rad/s.
+- [Anion](anion.md) — Negatively charged ion.
+- [Annihilation](annihilation.md) — Subatomic particle-antiparticle collision producing other particles.
+- [Anode](anode.md) — Electrode where conventional current enters a device.
+- [Anthropic Principle](anthropic-principle.md) — Universe's constants tuned for life and observation.
+- [Anti-Gravity](anti-gravity.md) — Hypothetical gravity-free region or object.
+- [Antimatter](antimatter.md) — Antiparticles (e.g., positrons) with opposite charges to normal matter.
+- [Antineutron](antineutron.md) — Neutron antiparticle with opposite baryon number.
+- [Antiparticle](antiparticle.md) — Particle with same mass but opposite charges as its partner.
+- [Antiproton](antiproton.md) — Proton antiparticle with negative charge.
+- [Antiquark](antiquark.md) — Quark counterpart with opposite properties.
+- [Archimedes' Principle](archimedes-principle.md) — Buoyant force equals weight of displaced fluid.
+- [Area Moment of Inertia](area-moment-of-inertia.md) — Measure of object's resistance to bending.
+- [Astrophysics](astrophysics.md) — Astronomy branch dealing with celestial physics.
+- [Atom](atom.md) — Basic matter unit: nucleus of protons/neutrons orbited by electrons.
+- [Attenuation Coefficient](attenuation-coefficient.md) — Measure of beam weakening by material.
+- [Bacon–Shor Code](bacon-shor-code.md) — Subsystem error-correcting code simplifying quantum error procedures.
+- [Baryon Asymmetry Problem](baryon-asymmetry-problem.md) — Why universe has more matter than antimatter.
+- [Bell’s Theorem](bell-s-theorem.md) — Quantum predictions cannot be explained by local hidden variables.
+- [Beta Decay](beta-decay.md) — Neutron-to-proton conversion emitting electron/antineutrino.
+- [Beta Particles](beta-particles.md) — High-energy electrons/positrons from radioactive decay.
+- [Big Bang](big-bang.md) — Universe's origin 13.7 billion years ago from singularity, expanding since.
+- [Big Crunch](big-crunch.md) — Hypothetical universe collapse reversing expansion.
+- [Black Body](black-body.md) — Ideal absorber/emitter of radiation, spectrum depending on temperature.
+- [Black Hole](black-hole.md) — Space-time region with event horizon trapping light.
+- [BQP](bqp.md) — Bounded-error quantum polynomial time complexity class.
+- [Buoyancy](buoyancy.md) — Upward fluid force on immersed object.
+- [Classical Noise](classical-noise.md) — Unwanted interference in classical signals from environmental factors.
+- [Classical Physics](classical-physics.md) — Pre-relativity/quantum mechanics principles (e.g., Newtonian).
+- [Classical Shadow](classical-shadow.md) — Protocol predicting quantum state functions via few measurements.
+- [Coherence](coherence.md) — Stable phase relationship in quantum systems preserving interference.
+- [Complementarity](complementarity.md) — Quantum properties analyzed separately as contradictory (e.g., wave-particle).
+- [Copernican Principle](copernican-principle.md) — No special position in universe; generalized heliocentrism.
+- [Cosmic Inflation](cosmic-inflation.md) — Exponential early universe expansion smoothing irregularities.
+- [Cosmic Microwave Background Radiation](cosmic-microwave-background-radiation.md) — Big Bang remnant uniform microwave glow.
+- [Cosmic Rays](cosmic-rays.md) — High-energy space particles (mostly protons) hitting atmosphere.
+- [Cosmic String](cosmic-string.md) — Hypothetical dense one-dimensional topological defects from early universe.
+- [Cosmological Constant](cosmological-constant.md) — Einstein's term for space's energy density, driving acceleration.
+- [Cosmological Principle](cosmological-principle.md) — Universe homogeneous/isotropic on large scales.
+- [Critical Density](critical-density.md) — Matter density allowing continued universe expansion without collapse.
+- [Cross-Entropy Benchmarking](cross-entropy-benchmarking.md) — Protocol demonstrating quantum supremacy via circuit sampling.
+- [Current](current.md) — Flow of electric charge.
+- [Dark Energy](dark-energy.md) — Repulsive energy accelerating universe expansion, ~74% of mass-energy.
+- [Dark Matter](dark-matter.md) — Non-luminous matter inferred from gravity, ~23% of universe.
+- [Decoherence](decoherence.md) — Loss of quantum coherence via environment interaction.
+- [Density](density.md) — Mass per unit volume.
+- [Dimensional](dimensional.md) — Spatial extent (e.g., 1D length only).
+- [Dimensions](dimensions.md) — Independent space-time directions (3 space + 1 time standard).
+- [Eastin–Knill Theorem](eastin-knill-theorem.md) — No quantum code transversely implements universal gates.
+- [Electric Charge](electric-charge.md) — Positive/negative property causing attraction/repulsion.
+- [Electric Field](electric-field.md) — Force field around charges.
+- [Electromagnetic Force](electromagnetic-force.md) — Fundamental force between charged particles, mediated by photons.
+- [Electromagnetic Radiation](electromagnetic-radiation.md) — Light waves including radio to gamma rays.
+- [Electron](electron.md) — Negatively charged elementary particle orbiting nucleus.
+- [Element](element.md) — Pure substance of same atomic number atoms.
+- [Elementary Particle](elementary-particle.md) — Indivisible building block (e.g., quarks, leptons).
+- [Energy](energy.md) — Capacity for work; conserved, convertible forms.
+- [Entanglement](entanglement.md) — Correlated particles influencing each other instantly.
+- [Entropy](entropy.md) — Measure of system randomness/disorder.
+- [Event Horizon](event-horizon.md) — Black hole boundary beyond which escape is impossible.
+- [Expansion of the Universe](expansion-of-the-universe.md) — Ongoing increase in space between galaxies.
+- [Fidelity](fidelity.md) — Measure of quantum state preservation during operations.
+- [Five-Qubit Error Correcting Code](five-qubit-error-correcting-code.md) — Smallest code protecting against single qubit errors.
+- [Force](force.md) — Push/pull interaction changing motion.
+- [Frequency](frequency.md) — Waves per unit time.
+- [Galaxy](galaxy.md) — Gravity-bound stars, gas, dust, dark matter collection.
+- [Gas](gas.md) — Freely moving unbound particles state.
+- [General Theory of Relativity](general-theory-of-relativity.md) — Gravity as space-time curvature by mass/energy.
+- [Generation Efficiency](generation-efficiency.md) — Ratio of true random bits to total generated in QRNG.
+- [Gravitational Force](gravitational-force.md) — Mass attraction, inverse-square law.
+- [Gravitational Singularity](gravitational-singularity.md) — Infinite density point (e.g., Big Bang origin).
+- [Gravitational Time Dilation](gravitational-time-dilation.md) — Slower time in strong gravity.
+- [Gravity](gravity.md) — Fundamental attraction between masses.
+- [Ground State](ground-state.md) — Lowest energy quantum system state.
+- [Hadamard Test](hadamard-test.md) — Method estimating real part of quantum state expectation value.
+- [Hashing](hashing.md) — Function producing fixed-length output from input for cryptography.
+- [Homogeneous](homogeneous.md) — Uniform composition/structure.
+- [Hubble Constant](hubble-constant.md) — Current universe expansion rate.
+- [Intrinsic Randomness](intrinsic-randomness.md) — Inherent system randomness, not external.
+- [Isotropic](isotropic.md) — Same properties all directions.
+- [Isotropy](isotropy.md) — Directional uniformity.
+- [Jitter](jitter.md) — Signal timing/amplitude variability affecting randomness.
+- [Key Generation](key-generation.md) — Creating secret cryptographic keys from random bits.
+- [Kinetic Energy](kinetic-energy.md) — Motion energy, ½mv².
+- [Lifetime](lifetime.md) — Timescale quantum state persists before decay.
+- [Light](light.md) — Electromagnetic radiation visible to eyes.
+- [Magic State Distillation](magic-state-distillation.md) — Process purifying noisy quantum states for fault tolerance.
+- [Magnetic Field](magnetic-field.md) — Force field around magnets/moving charges.
+- [Matter](matter.md) — Mass-occupying space.
+- [Measurement](measurement.md) — Quantum property info extraction, collapsing state.
+- [Momentum](momentum.md) — Mass times velocity.
+- [Mølmer–Sørensen Gate](molmer-sorensen-gate.md) — Two-qubit trapped ion gate.
+- [Nebula](nebula.md) — Space gas/dust cloud, often supernova remnant.
+- [Neutrino](neutrino.md) — Nearly massless weakly interacting particle.
+- [Neutron](neutron.md) — Neutral nucleus subatomic particle.
+- [No-Cloning Theorem](no-cloning-theorem.md) — Impossibility copying unknown quantum state.
+- [Non-Deterministic](non-deterministic.md) — Unpredictable, non-repeatable process.
+- [Nucleus](nucleus.md) — Atom's proton/neutron core.
+- [Oracle](oracle.md) — Quantum algorithm function providing problem info.
+- [Orbital Angular Velocity](orbital-angular-velocity.md) — Center of rotation revolution rate.
+- [Particle](particle.md) — Discrete matter/energy unit.
+- [Phase Change](phase-change.md) — Matter state transformation (e.g., liquid to gas).
+- [Photon](photon.md) — Light massless particle.
+- [Planck Length](planck-length.md) — ~10⁻³⁵ m quantum gravity scale.
+- [Plasma](plasma.md) — Ionized gas state.
+- [Post-Quantum Cryptography (PQC)](post-quantum-cryptography-pqc.md) — Quantum-resistant algorithms.
+- [Potential Energy](potential-energy.md) — Stored position energy.
+- [Power](power.md) — Energy rate, work per time.
+- [Pressure](pressure.md) — Force per unit area.
+- [Proton](proton.md) — Positively charged nucleus particle.
+- [Pseudo Random Number Generator (PRNG)](pseudo-random-number-generator-prng.md) — Deterministic apparent-random sequence.
+- [Quantum Algorithm](quantum-algorithm.md) — Procedure using quantum phenomena like superposition.
+- [Quantum Computing](quantum-computing.md) — Computation harnessing quantum mechanics (superposition, entanglement).
+- [Quantum Error Correction](quantum-error-correction.md) — Protecting quantum info from noise/decoherence.
+- [Quantum Gravity](quantum-gravity.md) — Reconciling quantum mechanics with general relativity.
+- [Quantum Image Processing](quantum-image-processing.md) — Quantum-based image creation/handling.
+- [Quantum Key Distribution (QKD)](quantum-key-distribution-qkd.md) — Secure key exchange detecting eavesdroppers.
+- [Quantum Programming](quantum-programming.md) — Assembling instructions for quantum computers.
+- [Quantum Simulator](quantum-simulator.md) — Programmable device studying quantum systems.
+- [Quantum State](quantum-state.md) — Complete quantum system description, collapses on measurement.
+- [Quantum State Discrimination](quantum-state-discrimination.md) — Inferring state from measurement probabilities.
+- [Quantum Supremacy](quantum-supremacy.md) — Quantum solving classically infeasible problems.
+- [Quantum Turing Machine](quantum-turing-machine.md) — Abstract universal quantum computer model.
+- [Quantum Volume](quantum-volume.md) — Metric for quantum computer capabilities/error rates.
+- [Quark](quark.md) — Proton/neutron fundamental constituent.
+- [Qubit](qubit.md) — Quantum bit, superposition of 0/1 states.
+- [Quil](quil.md) — Quantum instruction set with shared memory model.
+- [Qutrit](qutrit.md) — 3-level quantum information unit.
+- [Radiation](radiation.md) — Energy electromagnetic emission.
+- [Random Number Generator (RNG)](random-number-generator-rng.md) — Device producing random numbers.
+- [Reflection](reflection.md) — Wave direction change at boundary.
+- [Refraction](refraction.md) — Wave speed/direction change entering medium.
+- [Relativity](relativity.md) — Space-time interdependence with motion/mass.
+- [Resistance](resistance.md) — Current opposition in conductor.
+- [RSA Algorithm](rsa-algorithm.md) — Public-key encryption based on large number factoring.
+- [Scalar](scalar.md) — Magnitude-only quantity.
+- [Seed](seed.md) — PRNG initial value for reproducibility.
+- [Shor’s Algorithm](shor-s-algorithm.md) — Quantum factoring breaking RSA encryption.
+- [Solovay–Kitaev Theorem](solovay-kitaev-theorem.md) — Dense gate set approximates any SU(2) gate quickly.
+- [Space-Time](space-time.md) — 4D space + time continuum.
+- [Speed of Light](speed-of-light.md) — Vacuum constant ~3×10⁸ m/s.
+- [Spin](spin.md) — Intrinsic angular momentum.
+- [Star](star.md) — Fusion-powered luminous gas sphere.
+- [String Theory](string-theory.md) — Fundamental particles as vibrating 1D strings.
+- [Strong Nuclear Force](strong-nuclear-force.md) — Quark/proton-neutron binding force.
+- [Superconductivity](superconductivity.md) — Zero-resistance current flow.
+- [Superfluidity](superfluidity.md) — Zero-viscosity fluid flow.
+- [Supernova](supernova.md) — Massive star cataclysmic explosion.
+- [Superposition](superposition.md) — Quantum multiple simultaneous states.
+- [Symmetry](symmetry.md) — Invariance under transformation.
+- [Temperature](temperature.md) — Molecular kinetic energy average.
+- [Tensor](tensor.md) — Multi-index quantity.
+- [Thermodynamics](thermodynamics.md) — Heat/work energy laws.
+- [Topology](topology.md) — Space connectivity study.
+- [True Random Number Generator (TRNG)](true-random-number-generator-trng.md) — Physical phenomena-based randomness.
+- [Tunnel Effect](tunnel-effect.md) — Quantum barrier penetration.
+- [Uncertainty Principle](uncertainty-principle.md) — Simultaneous position/momentum imprecision limit.
+- [Universe](universe.md) — All space, time, matter, energy.
+- [Up Quark](up-quark.md) — +2/3 charge fundamental quark.
+- [Vacuum](vacuum.md) — Space devoid of matter.
+- [Vector](vector.md) — Magnitude + direction quantity.
+- [Velocity](velocity.md) — Speed with direction.
+- [Virtual Particle](virtual-particle.md) — Uncertainty principle brief existence.
+- [Voltage](voltage.md) — Electric potential difference.
+- [Wave](wave.md) — Propagating disturbance.
+- [Wave-Particle Duality](wave-particle-duality.md) — Matter/energy wave/particle behavior.
+- [Weak Nuclear Force](weak-nuclear-force.md) — Beta decay mediating force.
+- [White Hole](white-hole.md) — Matter/energy expelling space-time region.
+- [Wigner Function](wigner-function.md) — Phase space quantum state description.
+- [Work](work.md) — Force times displacement.
+- [Wormhole](wormhole.md) — Space-time shortcut tunnel.
+- [X-Basis Measurement](x-basis-measurement.md) — Qubit measurement in X direction.
+- [X-Ray](x-ray.md) — High-energy electromagnetic radiation.
+- [Yao’s Millionaires’ Problem](yao-s-millionaires-problem.md) — Secure comparison without revelation.
+- [Zeno Effect](zeno-effect.md) — Continuous observation preventing quantum evolution.
+- [Zero-Dimensional](zero-dimensional.md) — Point-like, no spatial extent.

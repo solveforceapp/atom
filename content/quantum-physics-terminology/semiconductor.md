@@ -1,0 +1,3 @@
+# Semiconductor
+
+High-resistance conductor.

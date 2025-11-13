@@ -1,0 +1,3 @@
+# Damping
+
+Oscillation amplitude reduction.

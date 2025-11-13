@@ -51,6 +51,14 @@ This repo is designed as the reference template for all future SolveForce micros
 │  ├─ atom-overview.md
 │  ├─ telecom-definitions.md
 │  ├─ solveforce-network-map.md
+│  ├─ edge-modules/
+│  │  └─ fiber-intelligence.md
+│  ├─ quantum-terminology/
+│  │  ├─ index.md
+│  │  └─ *.md
+│  └─ quantum-physics-terminology/
+│     ├─ index.md
+│     └─ *.md
 │  └─ edge-modules/
 │     └─ fiber-intelligence.md
 ├─ docs/
@@ -90,6 +98,15 @@ Then open: [http://localhost:8080](http://localhost:8080)
 
 ## 4. Development
 
+- Edit `web/index.html`, `styles.css`, and `scripts.js` for the public site. After
+  making changes run `python -m tools.sync_root` to refresh the repository root
+  landing page and accompanying assets.
+- Edit `content/*.md` for long-form descriptions, service catalogs, and playbooks.
+- Add or update terminology pages in `content/quantum-terminology/` to extend the
+  SolveForce A–Z glossary for quantum computing and physics.
+- Contribute new or refined quantum and atomic physics definitions in
+  `content/quantum-physics-terminology/`, where each term lives in its own file for
+  precise linking across SolveForce properties.
 - Edit `web/index.html`, `styles.css`, and `scripts.js` for the public site.
 - Edit `index.html` in the repository root after updating `web/index.html` so the
   homepage at `/` mirrors the canonical microsite content. Copy the markup from

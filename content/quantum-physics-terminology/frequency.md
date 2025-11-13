@@ -1,0 +1,3 @@
+# Frequency
+
+Cycles per second.

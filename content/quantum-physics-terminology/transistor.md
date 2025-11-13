@@ -1,0 +1,3 @@
+# Transistor
+
+Semiconductor amplifier/switch.

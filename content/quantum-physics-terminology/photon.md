@@ -1,0 +1,3 @@
+# Photon
+
+Massless light particle.

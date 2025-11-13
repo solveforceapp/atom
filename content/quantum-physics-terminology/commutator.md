@@ -1,0 +1,3 @@
+# Commutator
+
+Rotating motor switch.

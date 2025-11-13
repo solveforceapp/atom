@@ -1,0 +1,3 @@
+# Scalar
+
+Magnitude-only quantity.
