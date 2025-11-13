@@ -1,0 +1,3 @@
+# Symmetry
+
+Invariance under transformation.

@@ -1,0 +1,3 @@
+# Vector
+
+Magnitude + direction quantity.

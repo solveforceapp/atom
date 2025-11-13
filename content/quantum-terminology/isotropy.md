@@ -1,0 +1,3 @@
+# Isotropy
+
+Directional uniformity.
