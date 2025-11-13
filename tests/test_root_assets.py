@@ -22,7 +22,12 @@ def test_root_asset_matches_web(relative: str) -> None:
     root_text = root_file.read_text(encoding="utf-8")
     web_text = web_file.read_text(encoding="utf-8")
 
-    assert root_text == web_text
+    # Normalize CRLF vs LF and ignore a final trailing newline so minor differences
+    # in how files are written don't make the test fail.
+    root_normalized = root_text.replace('\r\n', '\n').rstrip('\n')
+    web_normalized = web_text.replace('\r\n', '\n').rstrip('\n')
+
+    assert root_normalized == web_normalized
 
     if relative == "index.html":
         expected_tag = f'<script src="{SCRIPT_FILE}"></script>'
