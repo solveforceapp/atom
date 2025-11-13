@@ -90,7 +90,7 @@ Then open: [http://localhost:8080](http://localhost:8080)
 
 ## 4. Development
 
-- Edit both `index.html` and `web/index.html` when changing the landing page so the root and `/web` views stay identical.
+- Edit both `index.html` and `web/index.html` when changing the landing page so the root and `/web` views stay identical (note: resource paths differ—root references `web/styles.css`, `/web` references `styles.css`).
 - Edit `web/styles.css` and `web/scripts.js` for presentation and interactions on the public site.
 - Edit `content/*.md` for long-form descriptions, service catalogs, and playbooks.
 - Use `docs/architecture.md` and ADRs to record structural decisions.
