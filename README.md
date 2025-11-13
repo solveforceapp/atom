@@ -98,6 +98,7 @@ Then open: [http://localhost:8080](http://localhost:8080)
 Run tests (placeholder):
 
 ```bash
+pip install pytest
 pytest
 ```
 
