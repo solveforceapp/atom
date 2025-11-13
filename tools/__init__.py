@@ -13,8 +13,4 @@ SYNCED_FILES = [
     "scripts.js",
 ]
 
-# Keep the canonical JavaScript asset path in a single place so tests and helper
-# scripts cannot drift from the value embedded in ``index.html``.
-SCRIPT_FILE = "web/scripts.js"
-
-__all__ = ["ROOT", "WEB_DIR", "SYNCED_FILES", "SCRIPT_FILE"]
+__all__ = ["ROOT", "WEB_DIR", "SYNCED_FILES"]
