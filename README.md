@@ -100,14 +100,15 @@ Run tests (placeholder):
 pytest
 ```
 
-If you update the microsite markup in `web/index.html`, mirror the change to the
-repository root with:
+If you update the microsite markup in `web/index.html`, copy it to the
+repository root so visitors hitting `/` see the same content:
 
 ```bash
-python tools/sync_root_index.py
+cp web/index.html ./index.html
 ```
 
-This keeps the `/` landing page and the `web/` directory version in sync.
+After copying, adjust the stylesheet and script paths in the root copy so they
+reference `web/styles.css` and `web/scripts.js`.
 
 ---
 
