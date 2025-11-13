@@ -7,9 +7,9 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
-from tools import ROOT, SCRIPT_FILE, SYNCED_FILES, WEB_DIR
+from tools import ROOT, SYNCED_FILES, WEB_DIR
 
-SCRIPT_TAG = f'<script src="{SCRIPT_FILE}"></script>'
+SCRIPT_FILE = next((name for name in SYNCED_FILES if name.endswith(".js")), "scripts.js")
 
 
 @pytest.mark.parametrize("relative", SYNCED_FILES)
@@ -25,9 +25,7 @@ def test_root_asset_matches_web(relative: str) -> None:
     assert root_text == web_text
 
     if relative == "index.html":
-        message = (
-            "index.html should include the shared script via "
-            f"{SCRIPT_TAG!r} so root and web copies stay aligned"
-        )
-        assert SCRIPT_TAG in root_text, message
-        assert SCRIPT_TAG in web_text, message
+        expected_tag = f'<script src="{SCRIPT_FILE}"></script>'
+        assert (
+            expected_tag in root_text
+        ), f"index.html should reference {SCRIPT_FILE} via {expected_tag!r}"
