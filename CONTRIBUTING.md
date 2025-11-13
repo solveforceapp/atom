@@ -19,7 +19,7 @@ Thank you for your interest in improving ATOM.
 3. Make your changes.
 4. Run tests (when present):
    ```bash
-   pip install pytest && pytest
+   pytest
    ```
 5. Submit a pull request with:
    - A clear title

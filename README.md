@@ -90,15 +90,16 @@ Then open: [http://localhost:8080](http://localhost:8080)
 
 ## 4. Development
 
-- Edit both `index.html` and `web/index.html` when changing the landing page so the root and `/web` views stay identical (note: resource paths differ—root references `web/styles.css`, `/web` references `styles.css`).
-- Edit `web/styles.css` and `web/scripts.js` for presentation and interactions on the public site.
+- Edit `web/index.html`, `styles.css`, and `scripts.js` for the public site.
+- Edit `index.html` in the repository root after updating `web/index.html` so the
+  homepage at `/` mirrors the canonical microsite content. Copy the markup from
+  `web/index.html` and adjust the stylesheet/script paths to point at `web/`.
 - Edit `content/*.md` for long-form descriptions, service catalogs, and playbooks.
 - Use `docs/architecture.md` and ADRs to record structural decisions.
 
 Run tests (placeholder):
 
 ```bash
-pip install pytest
 pytest
 ```
 
