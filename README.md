@@ -1,5 +1,4 @@
 # ATOM — Adaptive Telecom Operations Module  
-# ATOM — Adaptive Telecom Operations Module
 A SolveForce Infrastructure System  
 Published by SolveForce  
 Author: Ronald Joseph Legarski, Jr.
@@ -31,7 +30,6 @@ This repo is designed as the reference template for all future SolveForce micros
 ## 2. Repository layout
 
 ```text
-```
 .
 ├─ README.md
 ├─ LICENSE
@@ -87,13 +85,15 @@ python -m http.server 8080 --directory web
 ```
 
 Then open: [http://localhost:8080](http://localhost:8080)
-Then open: http://localhost:8080
 
 ---
 
 ## 4. Development
 
 - Edit `web/index.html`, `styles.css`, and `scripts.js` for the public site.
+- Edit `index.html` in the repository root after updating `web/index.html` so the
+  homepage at `/` mirrors the canonical microsite content. Copy the markup from
+  `web/index.html` and adjust the stylesheet/script paths to point at `web/`.
 - Edit `content/*.md` for long-form descriptions, service catalogs, and playbooks.
 - Use `docs/architecture.md` and ADRs to record structural decisions.
 
