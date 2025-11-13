@@ -1,44 +1,47 @@
-"""Synchronize the repository root index.html with the microsite copy.
+"""Synchronize the repository root landing page with the microsite copy.
 
-This keeps https://atom.solveforce.com/ (root) consistent with the content that
-lives under the /web directory, while rewriting asset paths so both entry points
-share the same CSS and JavaScript bundles.
+Unlike the first iteration of this helper, we now mirror the microsite assets
+(`styles.css` and `scripts.js`) into the repository root so that
+``https://atom.solveforce.com/`` renders correctly without depending on nested
+paths. The HTML itself stays identical between locations which keeps authoring
+simple while guaranteeing the homepage works when the repository root is
+deployed as-is.
 """
 
 from __future__ import annotations
 
 from pathlib import Path
+from shutil import copy2
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-WEB_INDEX = REPO_ROOT / "web" / "index.html"
+WEB_DIR = REPO_ROOT / "web"
+WEB_INDEX = WEB_DIR / "index.html"
 ROOT_INDEX = REPO_ROOT / "index.html"
 
-STYLE_REWRITE = {
-    'href="styles.css"': 'href="web/styles.css"',
-    "href='styles.css'": "href='web/styles.css'",
-    'src="scripts.js"': 'src="web/scripts.js"',
-    "src='scripts.js'": "src='web/scripts.js'",
-}
+# Assets that must exist alongside index.html at both the root and the web copy.
+ASSET_FILES = ["styles.css", "scripts.js"]
 
 
 def _load(path: Path) -> str:
     return path.read_text(encoding="utf-8")
 
 
-def _rewrite_assets(html: str) -> str:
-    """Rewrite asset paths so they resolve from the repository root."""
-
-    updated = html
-    for old, new in STYLE_REWRITE.items():
-        updated = updated.replace(old, new)
-    return updated
-
-
 def render_root_index(web_html: str) -> str:
     """Return the root index markup based on the microsite source."""
 
-    rewritten = _rewrite_assets(web_html)
-    return rewritten if rewritten.endswith("\n") else f"{rewritten}\n"
+    return web_html if web_html.endswith("\n") else f"{web_html}\n"
+
+
+def _sync_assets() -> None:
+    """Copy shared assets into the repository root."""
+
+    for filename in ASSET_FILES:
+        source = WEB_DIR / filename
+        target = REPO_ROOT / filename
+        if not source.exists():
+            raise FileNotFoundError(f"Missing expected asset: {source}")
+        target.parent.mkdir(parents=True, exist_ok=True)
+        copy2(source, target)
 
 
 def sync() -> None:
@@ -46,6 +49,7 @@ def sync() -> None:
 
     web_html = _load(WEB_INDEX)
     ROOT_INDEX.write_text(render_root_index(web_html), encoding="utf-8")
+    _sync_assets()
 
 
 if __name__ == "__main__":

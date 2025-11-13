@@ -90,7 +90,7 @@ Then open: [http://localhost:8080](http://localhost:8080)
 
 ## 4. Development
 
-- Edit `web/index.html` for landing page changes, then run `python -m tools.sync_index` to refresh the repository-root `index.html`.
+- Edit `web/index.html` for landing page changes, then run `python -m tools.sync_index` to refresh the repository-root `index.html`, `styles.css`, and `scripts.js`.
 - Edit `web/styles.css` and `web/scripts.js` for presentation and interactions on the public site.
 - Edit `content/*.md` for long-form descriptions, service catalogs, and playbooks.
 - Use `docs/architecture.md` and ADRs to record structural decisions.

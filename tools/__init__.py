@@ -11,6 +11,10 @@ WEB_INDEX = WEB_DIR / "index.html"
 STYLES_PATH = WEB_DIR / "styles.css"
 SCRIPTS_PATH = WEB_DIR / "scripts.js"
 
+
+def _asset_files() -> list[str]:
+    return [path.name for path in (STYLES_PATH, SCRIPTS_PATH)]
+
 __all__ = [
     "REPO_ROOT",
     "WEB_DIR",
@@ -20,7 +24,10 @@ __all__ = [
     "SCRIPTS_PATH",
     "render_root_index",
     "sync",
+    "ASSET_FILES",
 ]
+
+ASSET_FILES = _asset_files()
 
 
 def __getattr__(name: str):
