@@ -1,3 +1,4 @@
+# ATOM — Adaptive Telecom Operations Module  
 # ATOM — Adaptive Telecom Operations Module
 A SolveForce Infrastructure System  
 Published by SolveForce  
@@ -29,6 +30,7 @@ This repo is designed as the reference template for all future SolveForce micros
 
 ## 2. Repository layout
 
+```text
 ```
 .
 ├─ README.md
@@ -84,6 +86,7 @@ cd atom
 python -m http.server 8080 --directory web
 ```
 
+Then open: [http://localhost:8080](http://localhost:8080)
 Then open: http://localhost:8080
 
 ---
