@@ -26,4 +26,4 @@ jobs:
 
       - name: Run tests
         run: |
-          if [ -d tests ]; then pytest; else echo "No tests directory found"; fi
+          if [ -d tests ]; then python -m pip install pytest && pytest; else echo "No tests directory found"; fi
