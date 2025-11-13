@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Primary ATOM microsite markup. Run `python -m tools.sync_root` to refresh the repository root assets. -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <base href="/" />
     <!-- Primary ATOM microsite markup. Keep synchronized with the repository root index.html. -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -85,6 +89,7 @@
         </div>
     </footer>
 
-    <script src="scripts.js"></script>
+    <!-- Load the shared JavaScript asset referenced by both root and /web pages. -->
+    <script src="web/scripts.js"></script>
 </body>
 </html>
