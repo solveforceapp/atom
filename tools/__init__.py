@@ -18,3 +18,4 @@ SYNCED_FILES = [
 SCRIPT_FILE = "scripts.js"
 
 __all__ = ["ROOT", "WEB_DIR", "SYNCED_FILES", "SCRIPT_FILE"]
+__all__ = ["ROOT", "WEB_DIR", "SYNCED_FILES"]
