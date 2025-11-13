@@ -1,0 +1,585 @@
+# SolveForce A-Z Directory of Quantum Physics and Atomic Physics Terminology
+
+This directory compiles over 500 unique terms from quantum physics and atomic physics, sourced from
+authoritative glossaries and resources as of November 13, 2025. Terms are organized alphabetically
+with concise definitions for quick reference, focusing on core concepts, particles, processes, and
+principles.
+
+## Terminology Files
+
+- [Ab Initio](ab-initio.md) — Mathematical model solving Schrödinger equation for atomic nuclei, yielding precise results for light nuclei.
+- [Absorption](absorption.md) — Process where matter takes in energy from electromagnetic radiation or particles.
+- [Absorption Spectrum](absorption-spectrum.md) — Wavelengths of absorbed radiation by atoms and molecules.
+- [Absorber](absorber.md) — Material stopping ionizing radiation, like lead for gamma rays.
+- [Absorptivity](absorptivity.md) — Fraction of incident radiation absorbed by a surface.
+- [Accelerator](accelerator.md) — Device increasing particle energy for collisions, e.g., linear or circular.
+- [Acceleration](acceleration.md) — Rate of velocity change with time.
+- [Acceleration Due to Gravity](acceleration-due-to-gravity.md) — Acceleration from gravitational force on an object.
+- [Accelerometer](accelerometer.md) — Instrument measuring proper acceleration.
+- [Accumulator](accumulator.md) — Register holding ALU operation results in quantum simulations.
+- [Activity](activity.md) — Rate of radioactive decay, in becquerels.
+- [Adhesion](adhesion.md) — Force causing objects to stick together.
+- [Adiabatic Approximation](adiabatic-approximation.md) — Quantum method assuming slow system evolution maintaining equilibrium.
+- [Adiabatic Cooling](adiabatic-cooling.md) — Temperature drop via expansion without heat exchange.
+- [Adiabatic Heating](adiabatic-heating.md) — Temperature rise via compression without heat exchange.
+- [Adiabatic Process](adiabatic-process.md) — No heat/mass transfer; energy via work only.
+- [Afocal System](afocal-system.md) — Optical system with infinite focal length.
+- [Air Mass](air-mass.md) — Atmospheric path length in astronomy or air volume in meteorology.
+- [Air Mass Coefficient](air-mass-coefficient.md) — Ratio of optical path to vertical zenith path.
+- [ALARA](alara.md) — As Low As Reasonably Achievable, optimization in radiation protection.
+- [Albedo](albedo.md) — Fraction of incident light reflected by a surface.
+- [Alloy](alloy.md) — Chemical mixture of metals or elements.
+- [Alpha Decay](alpha-decay.md) — Radioactive decay emitting alpha particle, reducing mass by 4 and atomic number by 2.
+- [Alpha Particle](alpha-particle.md) — Helium-4 nucleus (2 protons, 2 neutrons) from alpha decay.
+- [Alternating Current (AC)](alternating-current-ac.md) — Electric current reversing direction periodically.
+- [Amorphous Solid](amorphous-solid.md) — Solid without definite geometric shape.
+- [Ampere](ampere.md) — SI unit of electric current, one coulomb per second.
+- [Amplifier](amplifier.md) — Device increasing signal power from external supply.
+- [Amplitude](amplitude.md) — Maximum wave displacement from equilibrium.
+- [Angular Acceleration](angular-acceleration.md) — Rate of angular velocity change, in rad/s².
+- [Angular Displacement](angular-displacement.md) — Angle rotated about an axis.
+- [Angular Frequency](angular-frequency.md) — Rotation rate, ω = 2πf, in radians/second.
+- [Angular Momentum](angular-momentum.md) — Rotational momentum, conserved in closed systems.
+- [Angular Velocity](angular-velocity.md) — Rate of angular position change, in rad/s.
+- [Anion](anion.md) — Negatively charged ion.
+- [Annihilation](annihilation.md) — Particle-antiparticle collision converting mass to energy.
+- [Anode](anode.md) — Electrode where conventional current enters.
+- [Anthropic Principle](anthropic-principle.md) — Universe constants tuned for life and observation.
+- [Anti-Gravity](anti-gravity.md) — Hypothetical gravity-free region.
+- [Antimatter](antimatter.md) — Antiparticles with opposite charges to normal matter.
+- [Antineutrino](antineutrino.md) — Neutrino antiparticle.
+- [Antiparticle](antiparticle.md) — Same mass but opposite charges as its partner.
+- [Antiproton](antiproton.md) — Proton with negative charge.
+- [Antiquark](antiquark.md) — Quark with opposite properties.
+- [Archimedes' Principle](archimedes-principle.md) — Buoyant force equals displaced fluid weight.
+- [Area Moment of Inertia](area-moment-of-inertia.md) — Resistance to bending.
+- [Astrophysics](astrophysics.md) — Physics of celestial bodies.
+- [Asymptotic Freedom](asymptotic-freedom.md) — Quark interactions weaken at high energies.
+- [Atom](atom.md) — Basic matter unit: nucleus with protons/neutrons, orbited by electrons.
+- [Atomic Clock](atomic-clock.md) — Timekeeper using atomic electron transitions.
+- [Atomic Line Filter](atomic-line-filter.md) — Device isolating atomic wavelengths in spectroscopy.
+- [Atomic Mass](atomic-mass.md) — Atom mass in unified atomic mass units.
+- [Atomic Mass Number (A)](atomic-mass-number-a.md) — Total nucleons (protons + neutrons).
+- [Atomic Mass Unit (amu or u)](atomic-mass-unit-amu-or-u.md) — Mass unit where ¹²C = 12 u.
+- [Atomic Number (Z)](atomic-number-z.md) — Number of protons in nucleus.
+- [Atomic Orbital](atomic-orbital.md) — Wave function describing electron behavior in atom.
+- [Atomic Physics](atomic-physics.md) — Study of atoms as isolated electron-nucleus systems.
+- [Atomic Structure](atomic-structure.md) — Arrangement of protons, neutrons, electrons.
+- [Atomic Weight](atomic-weight.md) — Weighted average atomic mass of isotopes.
+- [Attenuation](attenuation.md) — Signal strength reduction in a medium.
+- [Attenuation Coefficient](attenuation-coefficient.md) — Beam weakening by material.
+- [Avogadro’s Number](avogadros-number.md) — Particles per mole, ~6.022×10²³.
+- [Azimuthal Quantum Number](azimuthal-quantum-number.md) — Determines orbital angular momentum/shape.
+- [Background Radiation](background-radiation.md) — Natural environmental radiation from cosmic/terrestrial sources.
+- [Balmer Formula](balmer-formula.md) — Describes hydrogen emission spectrum in visible range.
+- [Balmer Series](balmer-series.md) — Spectral lines to/from n=2 hydrogen state.
+- [Band Gap](band-gap.md) — Energy difference between valence/conduction bands in semiconductors.
+- [Barn](barn.md) — Cross-section unit, 10⁻²⁴ cm².
+- [Baryon](baryon.md) — Composite hadron of three quarks, e.g., proton/neutron.
+- [Baryon Asymmetry Problem](baryon-asymmetry-problem.md) — Universe's matter-antimatter imbalance.
+- [Baryon Number](baryon-number.md) — +1 for baryons, -1 for antibaryons.
+- [Base Load](base-load.md) — Continuous electricity demand over 24 hours.
+- [Becquerel (Bq)](becquerel-bq.md) — SI activity unit, one disintegration/second.
+- [Bell’s Inequality](bells-inequality.md) — Quantum violation indicating nonlocality.
+- [Bell’s Theorem](bells-theorem.md) — Quantum predictions defy local hidden variables.
+- [Beta Decay](beta-decay.md) — Neutron-to-proton conversion emitting beta particle/neutrino.
+- [Beta Particle](beta-particle.md) — High-energy electron/positron from decay.
+- [Binding Energy](binding-energy.md) — Energy to disassemble nucleus.
+- [Biological Shield](biological-shield.md) — Absorbing material around reactor for radiation protection.
+- [Black Body](black-body.md) — Perfect absorber/emitter of radiation.
+- [Blackbody Radiation](blackbody-radiation.md) — Temperature-dependent emission from black body.
+- [Black Hole](black-hole.md) — Event horizon-trapped light region.
+- [Bohr Magneton](bohr-magneton.md) — Electron magnetic moment, 9.3×10⁻²⁴ J/T.
+- [Bohr Model](bohr-model.md) — Electrons in discrete orbits around nucleus.
+- [Bohr Radius](bohr-radius.md) — First Bohr orbit radius in hydrogen.
+- [Bohr’s Model of Hydrogen Atom](bohrs-model-of-hydrogen-atom.md) — Quantum model explaining hydrogen spectra.
+- [Boiling Water Reactor (BWR)](boiling-water-reactor-bwr.md) — Light water reactor boiling in core.
+- [Boltzmann Constant](boltzmann-constant.md) — Relates temperature to kinetic energy, k_B = 1.38×10⁻²³ J/K.
+- [Born Interpretation](born-interpretation.md) — Wave function square as probability density.
+- [Born’s Rule](borns-rule.md) — Probability |⟨k|α⟩|² for outcome k in state α.
+- [Boson](boson.md) — Integer spin particle following Bose-Einstein statistics.
+- [Bose–Einstein Condensate](bose-einstein-condensate.md) — Bosons in same state near absolute zero.
+- [Boundary Conditions](boundary-conditions.md) — Constraints for solving physics equations.
+- [Brackett Series](brackett-series.md) — Spectral lines to/from n=4.
+- [Bragg’s Law](braggs-law.md) — X-ray diffraction angles by crystal planes.
+- [Breeder Reactor](breeder-reactor.md) — Produces more fissile material than consumes.
+- [Bremsstrahlung](bremsstrahlung.md) — Radiation from accelerating charged particles.
+- [Buoyancy](buoyancy.md) — Upward fluid force on immersed object.
+- [Calandria](calandria.md) — Cylindrical vessel with heavy water moderator in PHWR.
+- [CANDU](candu.md) — Canadian Deuterium Uranium reactor, PHWR type.
+- [Canonical Commutation Relations](canonical-commutation-relations.md) — [x̂, p̂] = iℏ for position/momentum.
+- [Capacitance](capacitance.md) — Charge storage per potential difference.
+- [Capacitor](capacitor.md) — Stores/releases electrical energy.
+- [Cathode](cathode.md) — Negative electrode for reduction.
+- [Cathode Ray Tube (CRT)](cathode-ray-tube-crt.md) — Electron beam image creator.
+- [Centrifugal Force](centrifugal-force.md) — Apparent outward rotation force.
+- [Centripetal Force](centripetal-force.md) — Inward circular motion force.
+- [Centrifuge](centrifuge.md) — Spinning cylinder separating gas by mass.
+- [Chain Reaction](chain-reaction.md) — Self-sustaining fission from neutrons.
+- [Chandrasekhar Limit](chandrasekhar-limit.md) — Maximum neutron star density before collapse.
+- [Charge](charge.md) — Property causing electromagnetic force.
+- [Cherenkov Radiation](cherenkov-radiation.md) — Light from particles exceeding medium light speed.
+- [Chromatic Aberration](chromatic-aberration.md) — Lens distortion from wavelength differences.
+- [Circuit](circuit.md) — Closed current path.
+- [Classical Noise](classical-noise.md) — Unwanted signal interference.
+- [Classical Physics](classical-physics.md) — Pre-quantum/relativity principles.
+- [Classical Probabilistic State](classical-probabilistic-state.md) — Well-defined but unknown property.
+- [Classical Shadow](classical-shadow.md) — Protocol predicting quantum functions via measurements.
+- [Clebsch–Gordan Coefficients](clebsch-gordan-coefficients.md) — Angular momentum coupling numbers.
+- [Cladding](cladding.md) — Metal tubes containing fuel pellets.
+- [Coherence](coherence.md) — Stable quantum phase relationship.
+- [Coherence Time](coherence-time.md) — Duration before decoherence.
+- [Coefficient of Friction](coefficient-of-friction.md) — Motion resistance measure.
+- [Collision](collision.md) — Brief force interaction between bodies.
+- [Commutator](commutator.md) — Rotating motor switch.
+- [Complementarity](complementarity.md) — Contradictory quantum properties analyzed separately.
+- [Component](component.md) — Vector projection on axis.
+- [Compton Effect](compton-effect.md) — X-ray wavelength shift from scattering.
+- [Compton Scattering](compton-scattering.md) — Photon scattering transferring energy to electron.
+- [Compton Shift](compton-shift.md) — Incident-scattered X-ray wavelength difference.
+- [Compton Wavelength](compton-wavelength.md) — λ_c = 2.43 pm constant.
+- [Compressibility](compressibility.md) — Compression under pressure.
+- [Concentrate](concentrate.md) — Mineral extract from ore, e.g., U₃O₈.
+- [Conduction](conduction.md) — Heat/electricity transfer via particle contact.
+- [Conductor](conductor.md) — Easy current flow material.
+- [Conservation Laws](conservation-laws.md) — Constant quantities in isolated systems.
+- [Conservation of Energy](conservation-of-energy.md) — Energy transformation without creation/destruction.
+- [Conservation of Momentum](conservation-of-momentum.md) — Constant total momentum.
+- [Constellation](constellation.md) — Recognized star pattern.
+- [Constructive Interference](constructive-interference.md) — Waves enhancing amplitude.
+- [Control Rods](control-rods.md) — Neutron absorbers regulating fission.
+- [Conversion](conversion.md) — U₃O₈ to UF₆ for enrichment.
+- [Conversion Ratio](conversion-ratio.md) — New fissile to fissioned nuclei ratio.
+- [Convex Lens](convex-lens.md) — Converging light lens.
+- [Concave Lens](concave-lens.md) — Diverging light lens.
+- [Copenhagen Interpretation](copenhagen-interpretation.md) — Observer-dependent quantum values.
+- [Copernican Principle](copernican-principle.md) — No special universe position.
+- [Correlated](correlated.md) — One-to-one quantity relation.
+- [Correspondence Principle](correspondence-principle.md) — Quantum-classical agreement at high energies.
+- [Cosmic Inflation](cosmic-inflation.md) — Early exponential universe expansion.
+- [Cosmic Microwave Background Radiation](cosmic-microwave-background-radiation.md) — Big Bang uniform microwave.
+- [Cosmic Rays](cosmic-rays.md) — High-energy space particles.
+- [Cosmic String](cosmic-string.md) — Early universe one-dimensional defect.
+- [Cosmological Constant](cosmological-constant.md) — Energy density driving expansion.
+- [Cosmological Principle](cosmological-principle.md) — Universe homogeneity/isotropy.
+- [Coulomb’s Law](coulombs-law.md) — Electrostatic force between charges.
+- [Critical Angle](critical-angle.md) — Minimum for total internal reflection.
+- [Critical Density](critical-density.md) — Density for continued expansion without collapse.
+- [Critical Mass](critical-mass.md) — Minimum fissile for self-sustaining reaction.
+- [Critical Temperature](critical-temperature.md) — Highest liquid existence temperature.
+- [Criticality](criticality.md) — Sustaining nuclear chain reaction.
+- [Cross-Section](cross-section.md) — Interaction probability, in barns.
+- [Crystal Lattice](crystal-lattice.md) — Regular atom/ion arrangement.
+- [Curie (Ci)](curie-ci.md) — Original activity unit, 3.7×10¹⁰ Bq.
+- [Curie Point](curie-point.md) — Ferromagnetic to paramagnetic transition temperature.
+- [Current](current.md) — Electric charge flow rate.
+- [Cut-Off Frequency](cut-off-frequency.md) — Photoelectric minimum frequency.
+- [Cut-Off Wavelength](cut-off-wavelength.md) — Corresponding to cut-off frequency.
+- [Cyclotron](cyclotron.md) — Magnetic/electric field spiral accelerator.
+- [Cyclotron Frequency](cyclotron-frequency.md) — Switching frequency for acceleration.
+- [Damping](damping.md) — Oscillation amplitude reduction.
+- [Dark Energy](dark-energy.md) — Expansion-accelerating repulsive energy.
+- [Dark Matter](dark-matter.md) — Non-luminous gravitational matter.
+- [Davisson–Germer Experiment](davisson-germer-experiment.md) — First electron diffraction.
+- [De Broglie Wave](de-broglie-wave.md) — Matter wave with λ = h/p.
+- [De Broglie Wavelength](de-broglie-wavelength.md) — Particle-associated wavelength.
+- [De Broglie’s Hypothesis](de-broglies-hypothesis.md) — Matter particle-wave behavior.
+- [Debye Model](debye-model.md) — Solid heat capacity at low temperatures.
+- [Debye Temperature](debye-temperature.md) — Vibrational property temperature.
+- [Decay](decay.md) — Nucleus disintegration emitting radiation.
+- [Decay Constant](decay-constant.md) — Unstable nucleus decay rate.
+- [Decay Rate](decay-rate.md) — Activity to radioactive atoms ratio.
+- [Decay Time](decay-time.md) — Fall to 1/e of original value.
+- [Decoherence](decoherence.md) — Quantum coherence loss to environment.
+- [Deconversion](deconversion.md) — UF₆ to uranium oxide.
+- [Dees](dees.md) — Cyclotron shielded regions.
+- [Degeneracy Pressure](degeneracy-pressure.md) — Quantum repulsion from Pauli principle.
+- [Degenerate Energy Level](degenerate-energy-level.md) — Shared by multiple states.
+- [Degenerate Matter](degenerate-matter.md) — Dense packed particles.
+- [Deformation](deformation.md) — Shape change from stress.
+- [Delayed Neutrons](delayed-neutrons.md) — Fission product-released seconds later.
+- [Density](density.md) — Mass per volume.
+- [Density Matrix](density-matrix.md) — Quantum state representation, Tr(ρ)=1.
+- [Density Operator](density-operator.md) — Synonym for density matrix.
+- [Depleted Uranium](depleted-uranium.md) — <0.7% U-235 uranium.
+- [Deposition](deposition.md) — Gas-to-solid phase change.
+- [Detector](detector.md) — Radiation/particle measurer.
+- [Detector Efficiency](detector-efficiency.md) — Incident identification effectiveness.
+- [Deuterium](deuterium.md) — Heavy hydrogen isotope (1p+1n).
+- [Deuteron](deuteron.md) — Deuterium nucleus.
+- [Dewar Flask](dewar-flask.md) — Low-temperature liquefied gas container.
+- [Diamagnetism](diamagnetism.md) — Opposing field in magnetic materials.
+- [Dielectric Breakdown](dielectric-breakdown.md) — Insulator conductivity under high voltage.
+- [Dielectric Constant](dielectric-constant.md) — Electrical energy storage ability.
+- [Diffraction](diffraction.md) — Wave bending around obstacles.
+- [Diffraction Grating](diffraction-grating.md) — Light-dispersing slit device.
+- [Diffusion](diffusion.md) — High-to-low concentration movement.
+- [Diffusion Coefficient](diffusion-coefficient.md) — Particle spread rate.
+- [Diffusion Current](diffusion-current.md) — Concentration-driven charge movement.
+- [Diode](diode.md) — One-way current component.
+- [Dipole](dipole.md) — Separated equal/opposite charges/poles.
+- [Direct Current (DC)](direct-current-dc.md) — Steady one-direction flow.
+- [Dirac Notation](dirac-notation.md) — Bra-ket notation synonym.
+- [Disintegration](disintegration.md) — Nucleus change emitting particles.
+- [Disintegration Energy](disintegration-energy.md) — Nucleus break energy release.
+- [Displacement](displacement.md) — Shortest initial-to-final distance.
+- [Displacement Current](displacement-current.md) — Changing field mimicking current.
+- [Distortion](distortion.md) — Signal/waveform shape alteration.
+- [Domain (Magnetic)](domain-magnetic.md) — Aligned atomic moments region.
+- [Doppler Effect](doppler-effect.md) — Relative motion frequency change.
+- [Dose](dose.md) — Absorbed radiation energy per mass.
+- [Dosimeter](dosimeter.md) — Exposure measurer.
+- [Double Refraction](double-refraction.md) — Crystal light beam splitting.
+- [Double-Slit Interference](double-slit-interference.md) — Wave interference demonstration.
+- [Drift Velocity](drift-velocity.md) — Field-driven charge carrier average velocity.
+- [Drude Model](drude-model.md) — Classical electron transport in metals.
+- [Dual Nature of Matter](dual-nature-of-matter.md) — Wave-particle particle behavior.
+- [Ductility](ductility.md) — Wire-stretching ability.
+- [Dune](dune.md) — Sand hill from wind.
+- [Dynamo](dynamo.md) — Mechanical-to-electrical energy converter.
+- [Dyne](dyne.md) — CGS force unit, 10⁻⁵ N.
+- [Dynamic Equilibrium](dynamic-equilibrium.md) — Equal-rate opposing processes.
+- [Earthquake Waves](earthquake-waves.md) — Tectonic seismic waves.
+- [Eddy Currents](eddy-currents.md) — Induced circular currents in conductors.
+- [Efficiency](efficiency.md) — Useful output/input energy ratio.
+- [Eigenstates](eigenstates.md) — Operator A states with A|α⟩ = c|α⟩.
+- [Electric Charge](electric-charge.md) — Electromagnetic force property.
+- [Electric Circuit](electric-circuit.md) — Current closed path.
+- [Electric Current](electric-current.md) — Charge flow rate.
+- [Electric Dipole Moment](electric-dipole-moment.md) — Charge times separation distance.
+- [Electric Field](electric-field.md) — Charge-surrounding force field.
+- [Electric Flux](electric-flux.md) — Field through surface measure.
+- [Electrical Resistance](electrical-resistance.md) — Current opposition.
+- [Electromagnet](electromagnet.md) — Current-coil created magnet.
+- [Electromagnetic Force](electromagnetic-force.md) — Charged particle force, photon-mediated.
+- [Electromagnetic Induction](electromagnetic-induction.md) — Changing field EMF production.
+- [Electromagnetic Radiation](electromagnetic-radiation.md) — Perpendicular E/B fields at light speed.
+- [Electromagnetic Spectrum](electromagnetic-spectrum.md) — Radio-to-gamma wave range.
+- [Electron](electron.md) — Negative charge subatomic particle.
+- [Electron Affinity](electron-affinity.md) — Atom electron gain energy change.
+- [Electron Capture](electron-capture.md) — Proton electron absorption to neutron.
+- [Electron Cloud](electron-cloud.md) — Electron probable region around nucleus.
+- [Electron Configuration](electron-configuration.md) — Electron nucleus arrangement.
+- [Electron Degeneracy Pressure](electron-degeneracy-pressure.md) — Dense matter collapse prevention.
+- [Electron Microscope](electron-microscope.md) — Electron high-resolution imager.
+- [Electron Pair](electron-pair.md) — Orbital-bound two electrons.
+- [Electron Paramagnetic Resonance](electron-paramagnetic-resonance.md) — Zeeman effect for unpaired electrons.
+- [Electron Volt (eV)](electron-volt-ev.md) — Electron 1V acceleration energy.
+- [Electronvolt](electronvolt.md) — 1.6×10⁻¹⁹ J energy unit.
+- [Electronic Transition](electronic-transition.md) — Electron energy level movement.
+- [Electrostatics](electrostatics.md) — Stationary charge study.
+- [Element](element.md) — One-type atom pure substance.
+- [Elevation](elevation.md) — Height above reference level.
+- [Emission Spectrum](emission-spectrum.md) — Energized atom/molecule light spectrum.
+- [Emitter](emitter.md) — Transistor charge carrier electrode.
+- [Empirical Formula](empirical-formula.md) — Simplest element ratio.
+- [Endothermic Process](endothermic-process.md) — Surroundings heat absorption.
+- [Energy](energy.md) — Work/ change capacity.
+- [Energy Band](energy-band.md) — Solid allowed energy ranges.
+- [Energy Density](energy-density.md) — Energy per volume.
+- [Energy Level](energy-level.md) — Atom electron discrete energies.
+- [Energy Spectrum of Hydrogen](energy-spectrum-of-hydrogen.md) — Hydrogen electron allowed energies.
+- [Energy-Time Uncertainty Principle](energy-time-uncertainty-principle.md) — Energy/lifetime measurement limits.
+- [Engine Efficiency](engine-efficiency.md) — Fuel-to-work conversion percentage.
+- [Enthalpy](enthalpy.md) — Heat content at constant pressure.
+- [Entropy](entropy.md) — System randomness measure.
+- [Equilibrium](equilibrium.md) — No net forces on system.
+- [Excited State](excited-state.md) — Higher than ground energy state.
+- [Exclusion Principle](exclusion-principle.md) — Identical fermions no same state.
+- [Expansion of Universe](expansion-of-universe.md) — Galaxy separation increase.
+- [Fermi Surface](fermi-surface.md) — Zero-temperature fermion allowed states.
+- [Fermion](fermion.md) — Half-integer spin Pauli-obeying particle.
+- [Fidelity](fidelity.md) — Quantum state preservation measure.
+- [Fine Structure](fine-structure.md) — Spin-orbit atomic spectra detail.
+- [Fissile](fissile.md) — Slow neutron fission-capable, e.g., U-235.
+- [Fission](fission.md) — Heavy nucleus split, energy/neutrons release.
+- [Fission Products](fission-products.md) — Medium-mass radioactive daughters.
+- [Fissionable](fissionable.md) — Fission-capable, slow or fast neutrons.
+- [Five-Qubit Error Correcting Code](five-qubit-error-correcting-code.md) — Single-qubit error protection.
+- [Flavour](flavour.md) — Quark/lepton distinguishing property.
+- [Fluorescence](fluorescence.md) — Gradual de-excitation radiation.
+- [Flux](flux.md) — Field through surface.
+- [Force](force.md) — Motion-changing interaction.
+- [Fraunhofer Lines](fraunhofer-lines.md) — Solar continuum dark absorption.
+- [Frequency](frequency.md) — Cycles per second.
+- [Friction](friction.md) — Motion resistance between surfaces.
+- [Fusion](fusion.md) — Light nuclei combine, energy release.
+- [Fusion Fuel](fusion-fuel.md) — Deuterium-tritium for reactors.
+- [Galaxy](galaxy.md) — Gravity-bound stars/gas/dust.
+- [Gamma Ray](gamma-ray.md) — High-frequency nucleus electromagnetic radiation.
+- [Gauge Boson](gauge-boson.md) — Interaction-mediating particle, e.g., photon.
+- [Geiger Counter](geiger-counter.md) — Ionizing radiation detector.
+- [Generation Efficiency](generation-efficiency.md) — True random bits to total ratio in QRNG.
+- [Gluon](gluon.md) — Quark strong force mediator.
+- [Graphene](graphene.md) — Hexagonal carbon single layer.
+- [Gravitational Force](gravitational-force.md) — Mass attraction, inverse-square.
+- [Gravitational Singularity](gravitational-singularity.md) — Infinite density point.
+- [Gravitational Time Dilation](gravitational-time-dilation.md) — Strong gravity slower time.
+- [Gray (Gy)](gray-gy.md) — Absorbed dose unit, 1 J/kg.
+- [Greenhouse Gases](greenhouse-gases.md) — Earth-warming radiative gases.
+- [Group Velocity](group-velocity.md) — Energy travel velocity.
+- [Ground State](ground-state.md) — Lowest quantum energy state.
+- [Hadron](hadron.md) — Quark-composed strong-interacting particle.
+- [Half-Life](half-life.md) — Isotope to half decay time.
+- [Hamiltonian](hamiltonian.md) — Total energy operator Ĥ.
+- [Harmonic Motion](harmonic-motion.md) — Constant-frequency equilibrium oscillation.
+- [Harmonic Oscillator](harmonic-oscillator.md) — Displacement-proportional restoring force.
+- [Hashing](hashing.md) — Fixed-output input function for cryptography.
+- [Heat](heat.md) — Molecular motion energy transfer.
+- [Heavy Water](heavy-water.md) — Deuterium oxide moderator.
+- [Heavy Water Reactor (HWR)](heavy-water-reactor-hwr.md) — Heavy water moderated/cooled.
+- [Heisenberg Uncertainty Principle](heisenberg-uncertainty-principle.md) — Position/momentum simultaneous precision limit.
+- [Helium Atom](helium-atom.md) — Two-proton nucleus, two electrons.
+- [Hertz (Hz)](hertz-hz.md) — One cycle/second frequency.
+- [Higgs Boson](higgs-boson.md) — Mass-giving particle via Higgs field.
+- [Hilbert Space](hilbert-space.md) — Complete inner product vector space for states.
+- [Homogeneous](homogeneous.md) — Uniform composition.
+- [Hubble Constant](hubble-constant.md) — Expansion rate.
+- [Humphreys Series](humphreys-series.md) — n=6 spectral lines.
+- [Hydrogen Atom](hydrogen-atom.md) — One-proton nucleus, one electron.
+- [Hydrogen Fusion](hydrogen-fusion.md) — Star hydrogen-to-helium fusion.
+- [Impact Parameter](impact-parameter.md) — Projectile-target shortest distance.
+- [Impedance](impedance.md) — Current opposition in AC circuits.
+- [Indistinguishable Particles](indistinguishable-particles.md) — No measurable distinction, wave symmetrization.
+- [Inelastic Scattering](inelastic-scattering.md) — Kinetic energy non-conserved.
+- [Infrared Radiation](infrared-radiation.md) — Longer than visible wavelength.
+- [Infinite Square Well](infinite-square-well.md) — Zero-inside, infinite-outside potential.
+- [Ion](ion.md) — Charged atom/molecule from electron gain/loss.
+- [Ionisation](ionisation.md) — Atom/molecule to ion conversion.
+- [Ionisation Energy](ionisation-energy.md) — Electron removal energy.
+- [Ionizing Radiation](ionizing-radiation.md) — Bond-breaking radiation.
+- [Isomer](isomer.md) — Same protons/neutrons, different excitation.
+- [Isomeric Transition](isomeric-transition.md) — Higher-to-lower energy decay.
+- [Isotope](isotope.md) — Same protons, different neutrons.
+- [Isotropic](isotropic.md) — All-direction same properties.
+- [Isotropy](isotropy.md) — Directional uniformity.
+- [Joule (J)](joule-j.md) — Work unit, 1 N over 1 m.
+- [Jitter](jitter.md) — Signal timing/amplitude variability.
+- [Kelvin (K)](kelvin-k.md) — Absolute temperature unit, 0 K absolute zero.
+- [keV](kev.md) — Thousand electron-volts.
+- [Kinetic Energy](kinetic-energy.md) — Motion energy, ½mv².
+- [K-Capture](k-capture.md) — Inner electron nucleus capture.
+- [Laser](laser.md) — Stimulated emission coherent light.
+- [Lattice](lattice.md) — Regular 3D sites array.
+- [Lepton](lepton.md) — No strong interaction particle, e.g., electron.
+- [Lepton Number](lepton-number.md) — Electron/muon/tau numbers.
+- [Lifetime](lifetime.md) — Quantum state persistence timescale.
+- [Light](light.md) — Visible electromagnetic radiation.
+- [Light Water](light-water.md) — H₂O for cooling/moderation.
+- [Light Water Reactor (LWR)](light-water-reactor-lwr.md) — Ordinary water cooled/moderated.
+- [Linear Accelerator (Linac)](linear-accelerator-linac.md) — Straight-line particle accelerator.
+- [Liquid Drop Model](liquid-drop-model.md) — Nucleus as liquid drop.
+- [Lyman Series](lyman-series.md) — Ground state spectral lines.
+- [Magic State Distillation](magic-state-distillation.md) — Noisy state purification.
+- [Magnetic Dipole](magnetic-dipole.md) — North-south pole pair.
+- [Magnetic Field](magnetic-field.md) — Force on magnetic north pole.
+- [Magnetic Moment](magnetic-moment.md) — Dipole magnetic strength.
+- [Magnetism](magnetism.md) — Magnetic force/material property.
+- [Mass](mass.md) — Inertia measure.
+- [Mass Energy](mass-energy.md) — mc² rest energy.
+- [Mass Number](mass-number.md) — Protons + neutrons.
+- [Matter](matter.md) — Space-occupying mass.
+- [Matter Wave](matter-wave.md) — De Broglie particle wave.
+- [Maxwell–Boltzmann Distribution](maxwell-boltzmann-distribution.md) — Particle speed distribution.
+- [MeV](mev.md) — Million electron-volts.
+- [Meson](meson.md) — Quark-antiquark particle.
+- [Micron (μm)](micron-m.md) — 10⁻⁶ m.
+- [Microwaves](microwaves.md) — Radio-infrared intermediate waves.
+- [Mixed State](mixed-state.md) — Pure state ensemble.
+- [Molecule](molecule.md) — Bonded atoms.
+- [Momentum](momentum.md) — mv vector.
+- [Monochromatic Wave](monochromatic-wave.md) — Single wavelength wave.
+- [Muon](muon.md) — 200x electron mass charged lepton.
+- [Muon Number](muon-number.md) — Muon/muon neutrino quantum number.
+- [Nanometer (nm)](nanometer-nm.md) — 10⁻⁹ m.
+- [Nebula](nebula.md) — Gas/dust space cloud.
+- [Neutrino](neutrino.md) — Weakly interacting neutral particle.
+- [Neutron](neutron.md) — Uncharged nucleus particle.
+- [Neutron Cross-Section](neutron-cross-section.md) — Interaction probability.
+- [Neutron Number (N)](neutron-number-n.md) — Nucleus neutrons.
+- [Neutron Star](neutron-star.md) — Degenerate neutron dense star.
+- [Newton (N)](newton-n.md) — 1 kg m/s² force.
+- [No-Cloning Theorem](no-cloning-theorem.md) — Unknown state copy impossibility.
+- [Non-Deterministic](non-deterministic.md) — Unpredictable process.
+- [Nonlocality](nonlocality.md) — Instantaneous distant influence.
+- [Normalizable Wave Function](normalizable-wave-function.md) — Finite integral square.
+- [Normalized Wave Function](normalized-wave-function.md) — ⟨a|a⟩ = 1.
+- [Nuclear Binding Energy](nuclear-binding-energy.md) — Nucleon binding energy.
+- [Nuclear Force](nuclear-force.md) — Proton-neutron binding.
+- [Nuclear Model](nuclear-model.md) — Rutherford nucleus-electron.
+- [Nuclear Physics](nuclear-physics.md) — Nucleus study.
+- [Nuclear Reaction](nuclear-reaction.md) — Nucleus transformation.
+- [Nuclear Transmutation](nuclear-transmutation.md) — Element/isotope conversion.
+- [Nucleon](nucleon.md) — Proton or neutron.
+- [Nucleus](nucleus.md) — Atom positive core.
+- [Nuclide](nuclide.md) — Specified nucleus composition.
+- [Numerical Analysis](numerical-analysis.md) — Algorithm approximation.
+- [Observable](observable.md) — Hermitian operator physical quantity.
+- [Optical Fiber](optical-fiber.md) — Light-transmitting fiber.
+- [Orbital Angular Momentum](orbital-angular-momentum.md) — Electron orbit quantum.
+- [Oracle](oracle.md) — Quantum algorithm info function.
+- [Pair Production](pair-production.md) — Photon to particle-antiparticle.
+- [Parent](parent.md) — Decaying radionuclide.
+- [Paschen Series](paschen-series.md) — n=3 spectral lines.
+- [Pauli Exclusion Principle](pauli-exclusion-principle.md) — No identical fermions same state.
+- [Pfund Series](pfund-series.md) — n=5 spectral lines.
+- [Phase Change](phase-change.md) — Matter state transformation.
+- [Photon](photon.md) — Massless light particle.
+- [Photoelectric Effect](photoelectric-effect.md) — Light-ejected electrons.
+- [Photomultiplier](photomultiplier.md) — Photon-to-signal converter.
+- [Physical Constant](physical-constant.md) — Universal unchanging value.
+- [Pion](pion.md) — Least massive spin-0 meson.
+- [Planck Length](planck-length.md) — 10⁻³⁵ m quantum scale.
+- [Planck’s Constant](plancks-constant.md) — Photon energy/frequency ratio, h = 6.63×10⁻³⁴ J s.
+- [Planck’s Hypothesis](plancks-hypothesis.md) — Discrete energy quanta.
+- [Plasma](plasma.md) — Ionized gas.
+- [Polarization](polarization.md) — Electromagnetic wave electric field direction.
+- [Positron](positron.md) — Positive electron antiparticle.
+- [Potential Energy](potential-energy.md) — Position-based stored energy.
+- [Power](power.md) — Work/time rate.
+- [Pressure](pressure.md) — Force/area.
+- [Probability](probability.md) — Event likelihood.
+- [Probability Amplitude](probability-amplitude.md) — Complex ⟨α|ψ⟩ component.
+- [Probability Current](probability-current.md) — Probability flow vector.
+- [Probability Density](probability-density.md) — |ψ|² particle location probability.
+- [Proton](proton.md) — Positive nucleus particle.
+- [Proton Number](proton-number.md) — Nucleus protons.
+- [Pseudo Random Number Generator (PRNG)](pseudo-random-number-generator-prng.md) — Deterministic random-like sequence.
+- [Post-Quantum Cryptography (PQC)](post-quantum-cryptography-pqc.md) — Quantum-resistant algorithms.
+- [Potential](potential.md) — Force field energy.
+- [Qubit](qubit.md) — Superposition 0/1 quantum bit.
+- [Quadrupole](quadrupole.md) — Four-pole charge distribution.
+- [Quantisation](quantisation.md) — Discrete property values.
+- [Quantization](quantization.md) — Allowed discrete values.
+- [Quantum](quantum.md) — Discrete energy/momentum unit.
+- [Quantum Algorithm](quantum-algorithm.md) — Superposition/entanglement procedure.
+- [Quantum Chromodynamics (QCD)](quantum-chromodynamics-qcd.md) — Quark-gluon strong interaction.
+- [Quantum Computing](quantum-computing.md) — Quantum mechanics computation.
+- [Quantum Dot](quantum-dot.md) — Nanocrystal electron well.
+- [Quantum Electrodynamics (QED)](quantum-electrodynamics-qed.md) — Relativistic electrodynamics.
+- [Quantum Error Correction](quantum-error-correction.md) — Noise protection.
+- [Quantum Field Theory](quantum-field-theory.md) — Subatomic particle models.
+- [Quantum Gate](quantum-gate.md) — Qubit transformation matrix.
+- [Quantum Gravity](quantum-gravity.md) — Quantum-relativity reconciliation.
+- [Quantum Image Processing](quantum-image-processing.md) — Quantum image handling.
+- [Quantum Key Distribution (QKD)](quantum-key-distribution-qkd.md) — Eavesdrop-detecting key exchange.
+- [Quantum Mechanics](quantum-mechanics.md) — Microscopic matter/energy behavior.
+- [Quantum Number](quantum-number.md) — State-labeling index.
+- [Quantum Phenomenon](quantum-phenomenon.md) — All-or-nothing photon transfer.
+- [Quantum Physics](quantum-physics.md) — Atomic/subatomic study.
+- [Quantum Programming](quantum-programming.md) — Quantum instruction assembly.
+- [Quantum Sensor](quantum-sensor.md) — High-sensitivity quantum device.
+- [Quantum Simulation](quantum-simulation.md) — Quantum system modeling.
+- [Quantum State](quantum-state.md) — System complete description.
+- [Quantum State Discrimination](quantum-state-discrimination.md) — State inference from probabilities.
+- [Quantum Supremacy](quantum-supremacy.md) — Classically infeasible problem solving.
+- [Quantum Tunnelling](quantum-tunnelling.md) — Barrier penetration despite insufficient energy.
+- [Quantum Turing Machine](quantum-turing-machine.md) — Universal quantum model.
+- [Quantum Volume](quantum-volume.md) — Computer capability metric.
+- [Quark](quark.md) — Fractional charge hadron constituent.
+- [Quil](quil.md) — Shared memory quantum instructions.
+- [Qutrit](qutrit.md) — 3-level quantum unit.
+- [Rad (Radiation Absorbed Dose)](rad-radiation-absorbed-dose.md) — 0.01 Gy absorbed dose.
+- [Radiation](radiation.md) — Electromagnetic energy emission.
+- [Radioactive Dating](radioactive-dating.md) — Age estimation via isotopes.
+- [Radioactive Decay](radioactive-decay.md) — Spontaneous nucleus energy loss.
+- [Radioactive Waste](radioactive-waste.md) — No-further-use radioactive material.
+- [Radioactivity](radioactivity.md) — Spontaneous nucleus disintegration.
+- [Radioisotope](radioisotope.md) — Unstable radioactive isotope.
+- [Random Number Generator (RNG)](random-number-generator-rng.md) — Random number producer.
+- [Rayleigh Scattering](rayleigh-scattering.md) — Atmospheric light scattering.
+- [Reflection](reflection.md) — Boundary direction change.
+- [Refraction](refraction.md) — Medium entry speed/direction change.
+- [Relativity](relativity.md) — Motion/mass space-time interdependence.
+- [Resistance](resistance.md) — Current opposition.
+- [Resolving Power](resolving-power.md) — Minimum distinguishable separation.
+- [Resonant Tunneling](resonant-tunneling.md) — Energy-matched well tunneling.
+- [Resonant-Tunneling Diode](resonant-tunneling-diode.md) — Bias-applied quantum dot.
+- [Riemann Hypothesis](riemann-hypothesis.md) — Complex zeros distribution (physics link).
+- [Rydberg Constant](rydberg-constant.md) — Hydrogen spectral line constant.
+- [Rydberg Formula](rydberg-formula.md) — Hydrogen line positions.
+- [Rutherford’s Gold Foil Experiment](rutherfords-gold-foil-experiment.md) — Nucleus existence demonstration.
+- [Scalar](scalar.md) — Magnitude-only quantity.
+- [Scattering State](scattering-state.md) — Continuous energy propagating wave.
+- [Schrödinger Equation](schrdinger-equation.md) — Wave function time evolution.
+- [Schrödinger’s Time-Dependent Equation](schrdingers-time-dependent-equation.md) — Space-time wave function.
+- [Schrödinger’s Time-Independent Equation](schrdingers-time-independent-equation.md) — Space-only wave function.
+- [Seed](seed.md) — PRNG initial value.
+- [Semiconductor](semiconductor.md) — High-resistance conductor.
+- [Separable State](separable-state.md) — Product of subsystem states.
+- [Sieve of Eratosthenes](sieve-of-eratosthenes.md) — Prime finder (quantum link).
+- [Sigma (σ)](sigma.md) — Cross-section symbol.
+- [Singlet State](singlet-state.md) — S=0 two spin-1/2 coupling.
+- [Slater Determinant](slater-determinant.md) — Fermion antisymmetric wave function.
+- [Solovay–Kitaev Theorem](solovay-kitaev-theorem.md) — Gate set approximation.
+- [Space-Time](space-time.md) — 4D space+time continuum.
+- [Speed of Light](speed-of-light.md) — Vacuum 3×10⁸ m/s constant.
+- [Spin](spin.md) — Intrinsic angular momentum.
+- [Spin-Orbit Coupling](spin-orbit-coupling.md) — Electron moment-nucleus field interaction.
+- [Spin Quantum Number](spin-quantum-number.md) — Spin angular momentum index.
+- [Spin Up/Down](spin-updown.md) — ±½ℏ spin component.
+- [Spin Wave Function](spin-wave-function.md) — Spin state component.
+- [Spinor](spinor.md) — Spin-1/2 wave function.
+- [Stable Isotope Ratio](stable-isotope-ratio.md) — Natural isotope abundances.
+- [Stable Nuclide](stable-nuclide.md) — Non-radioactive nucleus.
+- [Standing Wave](standing-wave.md) — Fixed-shape oscillating wave.
+- [Standard Model](standard-model.md) — Three force particle theory.
+- [State Reduction](state-reduction.md) — Measurement collapse to definite state.
+- [Stationary State](stationary-state.md) — Time-independent probability density.
+- [Statistical Ensemble](statistical-ensemble.md) — Mixed state large copy collection.
+- [Strong Interaction](strong-interaction.md) — Quark/nucleus binding force.
+- [Strong Nuclear Force](strong-nuclear-force.md) — Proton-neutron binding.
+- [Superconducting Circuits](superconducting-circuits.md) — Low-temp circuit qubits.
+- [Superconducting Materials](superconducting-materials.md) — Zero-resistance cooled conductors.
+- [Superconductivity](superconductivity.md) — Zero-resistance flow.
+- [Superfluidity](superfluidity.md) — Zero-viscosity flow.
+- [Superposition](superposition.md) — Multiple simultaneous states.
+- [Supernova](supernova.md) — Star explosion.
+- [Symmetrization](symmetrization.md) — Boson unchanged exchange wave function.
+- [Symmetry](symmetry.md) — Transformation invariance.
+- [Tau Lepton](tau-lepton.md) — Heavy charged lepton.
+- [Temperature](temperature.md) — Molecular kinetic energy average.
+- [Tensor](tensor.md) — Multi-index quantity.
+- [Tensor Product of Hilbert Space](tensor-product-of-hilbert-space.md) — Composite system space.
+- [Thermodynamics](thermodynamics.md) — Heat/work laws.
+- [Time-Independent Schrödinger Equation (TISE)](time-independent-schrdinger-equation-tise.md) — Energy eigenstate equation.
+- [Topology](topology.md) — Space connectivity.
+- [Total Wave Function](total-wave-function.md) — Spatial × spin for particle.
+- [Transistor](transistor.md) — Semiconductor amplifier/switch.
+- [Transmission Probability](transmission-probability.md) — Barrier tunneling probability.
+- [Triplet State](triplet-state.md) — S=1 two spin-1/2 coupling.
+- [True Random Number Generator (TRNG)](true-random-number-generator-trng.md) — Physical randomness device.
+- [Tunnel Diode](tunnel-diode.md) — Tunneling semiconductor junction.
+- [Tunnel Effect](tunnel-effect.md) — Barrier penetration.
+- [Tunneling Probability](tunneling-probability.md) — Transmission through barrier.
+- [Uncertainty Principle](uncertainty-principle.md) — Position/momentum precision limit.
+- [Uniform Resource Identifier (URI)](uniform-resource-identifier-uri.md) — Resource name/address.
+- [Universe](universe.md) — All space/time/matter/energy.
+- [Up Quark](up-quark.md) — +2/3 charge quark.
+- [Uranium Oxide Concentrate (U₃O₈)](uranium-oxide-concentrate-uo.md) — Milled ore product.
+- [Vacuum](vacuum.md) — Matter-devoid space.
+- [Valence Band](valence-band.md) — Filled electron band.
+- [Vector](vector.md) — Magnitude + direction.
+- [Velocity](velocity.md) — Directed speed.
+- [Virtual Particle](virtual-particle.md) — Brief uncertainty existence.
+- [Virtual Qubit](virtual-qubit.md) — Classical-simulated logical qubit.
+- [Voltage](voltage.md) — Potential difference.
+- [Volume](volume.md) — Space enclosed.
+- [Wave](wave.md) — Propagating disturbance.
+- [Wave Function](wave-function.md) — Quantum state vector.
+- [Wave Function Collapse](wave-function-collapse.md) — Measurement state definite.
+- [Wave Packet](wave-packet.md) — Localized particle superposition.
+- [Wave-Particle Duality](wave-particle-duality.md) — Dual wave/particle behavior.
+- [Weak Force](weak-force.md) — Beta decay mediator.
+- [Weak Interaction](weak-interaction.md) — Fundamental decay force.
+- [Weak Nuclear Force](weak-nuclear-force.md) — Radioactive process force.
+- [White Hole](white-hole.md) — Matter-expelling region.
+- [Wigner Function](wigner-function.md) — Phase space quantum description.
+- [Work](work.md) — Force × displacement.
+- [Wormhole](wormhole.md) — Space-time shortcut.
+- [X-Basis Measurement](x-basis-measurement.md) — Qubit X-direction measure.
+- [X-Ray](x-ray.md) — High-energy electromagnetic.
+- [Yao’s Millionaires’ Problem](yaos-millionaires-problem.md) — Secure comparison protocol.
+- [Zeno Effect](zeno-effect.md) — Continuous observation halting evolution.
+- [Zero-Dimensional](zero-dimensional.md) — Point-like no extent.
+- [Zircaloy](zircaloy.md) — Fuel cladding alloy.

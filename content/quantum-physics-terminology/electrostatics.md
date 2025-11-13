@@ -1,0 +1,3 @@
+# Electrostatics
+
+Stationary charge study.

@@ -1,0 +1,3 @@
+# Power
+
+Work/time rate.

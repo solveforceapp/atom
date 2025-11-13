@@ -53,7 +53,10 @@ This repo is designed as the reference template for all future SolveForce micros
 │  ├─ solveforce-network-map.md
 │  ├─ edge-modules/
 │  │  └─ fiber-intelligence.md
-│  └─ quantum-terminology/
+│  ├─ quantum-terminology/
+│  │  ├─ index.md
+│  │  └─ *.md
+│  └─ quantum-physics-terminology/
 │     ├─ index.md
 │     └─ *.md
 ├─ docs/
@@ -99,6 +102,9 @@ Then open: [http://localhost:8080](http://localhost:8080)
 - Edit `content/*.md` for long-form descriptions, service catalogs, and playbooks.
 - Add or update terminology pages in `content/quantum-terminology/` to extend the
   SolveForce A–Z glossary for quantum computing and physics.
+- Contribute new or refined quantum and atomic physics definitions in
+  `content/quantum-physics-terminology/`, where each term lives in its own file for
+  precise linking across SolveForce properties.
 - Use `docs/architecture.md` and ADRs to record structural decisions.
 
 Run tests (placeholder):
