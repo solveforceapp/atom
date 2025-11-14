@@ -1,0 +1,3 @@
+# Rickettsia
+
+Obligate intracellular.

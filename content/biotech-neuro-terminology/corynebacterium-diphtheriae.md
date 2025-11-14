@@ -1,0 +1,3 @@
+# Corynebacterium diphtheriae
+
+Diphtheria bacterium.

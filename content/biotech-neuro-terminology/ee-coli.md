@@ -1,0 +1,3 @@
+# EE. coli
+
+Model bacterium.

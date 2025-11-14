@@ -1,0 +1,3 @@
+# Chondrocyte
+
+Cartilage cell.

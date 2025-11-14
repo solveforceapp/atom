@@ -1,0 +1,3 @@
+# Somatic Cell
+
+Body cell.

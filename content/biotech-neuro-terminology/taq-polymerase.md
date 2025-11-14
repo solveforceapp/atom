@@ -1,0 +1,3 @@
+# Taq Polymerase
+
+Thermostable enzyme.

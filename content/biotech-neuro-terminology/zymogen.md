@@ -1,0 +1,3 @@
+# Zymogen
+
+Inactive enzyme.

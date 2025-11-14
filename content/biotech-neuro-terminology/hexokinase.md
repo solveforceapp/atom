@@ -1,0 +1,3 @@
+# Hexokinase
+
+Glucose phosphorylator.

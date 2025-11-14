@@ -1,0 +1,3 @@
+# Seed
+
+PRNG initial value.

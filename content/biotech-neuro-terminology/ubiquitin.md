@@ -1,0 +1,3 @@
+# Ubiquitin
+
+Degradation tag.

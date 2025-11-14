@@ -1,0 +1,3 @@
+# Neprilysin
+
+Amyloid degrader.

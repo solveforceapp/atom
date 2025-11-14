@@ -1,0 +1,3 @@
+# Dominant Negative
+
+Mutant inhibitor.

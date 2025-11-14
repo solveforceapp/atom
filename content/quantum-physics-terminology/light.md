@@ -1,0 +1,3 @@
+# Light
+
+Visible electromagnetic radiation.

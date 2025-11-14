@@ -1,0 +1,3 @@
+# Drug Resistance
+
+Efficacy loss.

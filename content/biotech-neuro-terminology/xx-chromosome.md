@@ -1,0 +1,3 @@
+# XX Chromosome
+
+Female sex.

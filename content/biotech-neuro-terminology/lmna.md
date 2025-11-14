@@ -1,0 +1,3 @@
+# LMNA
+
+Lamin gene.

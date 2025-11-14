@@ -1,0 +1,3 @@
+# Liposome
+
+Lipid vesicle.

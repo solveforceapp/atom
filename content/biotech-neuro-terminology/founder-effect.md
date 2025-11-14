@@ -1,0 +1,3 @@
+# Founder Effect
+
+Population bottleneck.

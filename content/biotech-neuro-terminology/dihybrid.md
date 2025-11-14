@@ -1,0 +1,3 @@
+# Dihybrid
+
+Two-trait cross.

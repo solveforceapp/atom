@@ -1,0 +1,3 @@
+# Allergen
+
+Immune-triggering substance.

@@ -1,0 +1,3 @@
+# Inverted Repeat
+
+Palindromic sequence.

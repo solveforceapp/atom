@@ -1,0 +1,3 @@
+# Diffusion
+
+Concentration spread.

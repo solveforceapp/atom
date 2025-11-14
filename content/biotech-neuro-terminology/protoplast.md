@@ -1,0 +1,3 @@
+# Protoplast
+
+Wall-less cell.

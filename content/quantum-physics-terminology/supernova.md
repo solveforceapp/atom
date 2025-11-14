@@ -1,0 +1,3 @@
+# Supernova
+
+Star explosion.

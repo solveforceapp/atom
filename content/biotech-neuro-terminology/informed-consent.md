@@ -1,0 +1,3 @@
+# Informed Consent
+
+Voluntary agreement.

@@ -1,0 +1,3 @@
+# Valence Electron
+
+Outer shell.

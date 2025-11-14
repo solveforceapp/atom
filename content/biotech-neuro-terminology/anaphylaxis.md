@@ -1,0 +1,3 @@
+# Anaphylaxis
+
+Severe allergic reaction.

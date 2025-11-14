@@ -1,0 +1,3 @@
+# Polygenic
+
+Multi-gene trait.

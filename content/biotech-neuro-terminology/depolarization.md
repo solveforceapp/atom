@@ -1,0 +1,3 @@
+# Depolarization
+
+Positive membrane change.

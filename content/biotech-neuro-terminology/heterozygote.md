@@ -1,0 +1,3 @@
+# Heterozygote
+
+Different alleles.

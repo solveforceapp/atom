@@ -1,0 +1,3 @@
+# Dichotomy
+
+Two-part division.

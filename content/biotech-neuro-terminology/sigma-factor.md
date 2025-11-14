@@ -1,0 +1,3 @@
+# Sigma Factor
+
+Promoter recognizer.

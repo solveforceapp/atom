@@ -1,0 +1,3 @@
+# Self-Organization
+
+Emergent order.

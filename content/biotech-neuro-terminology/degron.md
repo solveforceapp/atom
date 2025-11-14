@@ -1,0 +1,3 @@
+# Degron
+
+Degradation signal.

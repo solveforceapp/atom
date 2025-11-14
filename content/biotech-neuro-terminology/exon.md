@@ -1,0 +1,3 @@
+# Exon
+
+Coding sequence.

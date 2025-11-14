@@ -1,0 +1,3 @@
+# Ploidy
+
+Chromosome set number.

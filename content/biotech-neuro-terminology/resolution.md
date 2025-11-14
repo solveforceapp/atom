@@ -1,0 +1,3 @@
+# Resolution
+
+Detail level.

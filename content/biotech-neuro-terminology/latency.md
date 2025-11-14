@@ -1,0 +1,3 @@
+# Latency
+
+Virus dormant.

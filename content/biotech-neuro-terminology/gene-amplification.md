@@ -1,0 +1,3 @@
+# Gene Amplification
+
+Copy increase.

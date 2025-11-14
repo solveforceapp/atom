@@ -1,0 +1,3 @@
+# Diamagnetism
+
+Field opposing.

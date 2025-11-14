@@ -1,0 +1,3 @@
+# Motif
+
+Sequence pattern.

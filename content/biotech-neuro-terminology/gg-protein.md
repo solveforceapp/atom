@@ -1,0 +1,3 @@
+# GG Protein
+
+Signal transducer.

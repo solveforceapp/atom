@@ -1,0 +1,3 @@
+# Akinesia
+
+Voluntary movement loss.

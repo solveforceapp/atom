@@ -1,0 +1,3 @@
+# DAPI
+
+DNA fluorescent stain.

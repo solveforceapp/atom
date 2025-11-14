@@ -1,0 +1,3 @@
+# Somatostatin
+
+Inhibitory hormone.

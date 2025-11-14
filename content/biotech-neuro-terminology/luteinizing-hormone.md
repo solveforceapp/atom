@@ -1,0 +1,3 @@
+# Luteinizing Hormone
+
+Ovulation trigger.

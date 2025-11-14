@@ -1,0 +1,3 @@
+# Carrier
+
+Recessive mutation holder.

@@ -1,0 +1,3 @@
+# Genotype
+
+Allele set.

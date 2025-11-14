@@ -1,0 +1,3 @@
+# Half-Life
+
+Decay time.

@@ -1,0 +1,3 @@
+# Cowpox
+
+Smallpox vaccine origin.

@@ -1,0 +1,3 @@
+# Peptide Bond
+
+Amino link.

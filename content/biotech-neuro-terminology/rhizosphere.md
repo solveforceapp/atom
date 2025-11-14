@@ -1,0 +1,3 @@
+# Rhizosphere
+
+Root microbe zone.

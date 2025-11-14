@@ -1,0 +1,3 @@
+# Hot Spot
+
+Mutation prone.

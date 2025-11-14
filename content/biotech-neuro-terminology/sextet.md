@@ -1,0 +1,3 @@
+# Sextet
+
+Six-electron system.

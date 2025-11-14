@@ -1,0 +1,3 @@
+# Extinction
+
+Trait loss.

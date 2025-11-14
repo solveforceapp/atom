@@ -1,0 +1,3 @@
+# Aptamer
+
+Nucleic acid ligand.

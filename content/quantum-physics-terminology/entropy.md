@@ -1,0 +1,3 @@
+# Entropy
+
+System randomness measure.

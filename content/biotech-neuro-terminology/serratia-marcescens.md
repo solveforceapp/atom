@@ -1,0 +1,3 @@
+# Serratia marcescens
+
+Pigmented bacterium.

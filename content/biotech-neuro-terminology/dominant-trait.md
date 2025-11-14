@@ -1,0 +1,3 @@
+# Dominant Trait
+
+Expressed allele.

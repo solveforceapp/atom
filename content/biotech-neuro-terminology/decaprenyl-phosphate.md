@@ -1,0 +1,3 @@
+# Decaprenyl-Phosphate
+
+Lipid carrier.

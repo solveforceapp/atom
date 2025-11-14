@@ -1,0 +1,3 @@
+# Kymograph
+
+Motion record.

@@ -1,0 +1,3 @@
+# Sticky End
+
+Overhang DNA.

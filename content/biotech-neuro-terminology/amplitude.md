@@ -1,0 +1,3 @@
+# Amplitude
+
+Wave displacement max.

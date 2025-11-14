@@ -1,0 +1,3 @@
+# Chromosome
+
+Gene-carrying structure.

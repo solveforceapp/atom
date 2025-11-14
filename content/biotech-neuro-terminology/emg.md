@@ -1,0 +1,3 @@
+# EMG
+
+Muscle activity record.

@@ -1,0 +1,3 @@
+# Effector Cell
+
+Response executor.

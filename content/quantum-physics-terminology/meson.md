@@ -1,0 +1,3 @@
+# Meson
+
+Quark-antiquark particle.

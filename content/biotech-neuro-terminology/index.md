@@ -1,0 +1,1718 @@
+# SolveForce A-Z Directory of Biotechnology and Neurotechnology Terminology
+
+This directory compiles over 500 unique terms from biotechnology and neurotechnology fields, sourced from authoritative
+glossaries and resources as of November 13, 2025. Terms are organized alphabetically with concise definitions for quick
+reference, blending concepts from genetic engineering, molecular biology, neural interfaces, and brain science.
+
+## Terminology Files
+
+- [A2D PAGE](a2d-page.md) — Two-dimensional polyacrylamide gel electrophoresis for protein separation by size and charge.
+- [22q Deletion Syndrome](22q-deletion-syndrome.md) — Genetic disorder from a small chromosome 22 deletion, causing developmental issues.
+- [32P (Phosphorus-32)](32p-phosphorus-32.md) — Radioactive isotope labeling biological molecules for tumor detection.
+- [35S (Sulfur-35)](35s-sulfur-35.md) — Low-energy beta emitter for labeling biological molecules in detection assays.
+- [5S Ribosomal RNA](5s-ribosomal-rna.md) — Integral large ribosomal subunit component, ~120 nucleotides long, stabilizing protein synthesis.
+- [8M Urea](8m-urea.md) — Organic compound for proteomics, making brain tissue transparent for deep imaging.
+- [A/B Testing](a-b-testing.md) — Experimental method comparing two versions to optimize biotech processes or neurotech interfaces.
+- [ABA (Abscisic Acid)](aba-abscisic-acid.md) — Plant hormone regulating stress responses in biotech crop engineering.
+- [Ab Initio](ab-initio.md) — Computational method solving Schrödinger equation for atomic structures in biotech modeling.
+- [Abbe Number](abbe-number.md) — Measure of material dispersion in optical neurotechnology lenses.
+- [Absolute Electrode Potential](absolute-electrode-potential.md) — Reference potential in electrochemical biosensors.
+- [Absolute Humidity](absolute-humidity.md) — Water vapor ratio in air for controlled biotech environments.
+- [Absolute Zero](absolute-zero.md) — Lowest theoretical temperature (-273.15°C) for cryogenic neurotech.
+- [Absorption](absorption.md) — Matter energy intake from radiation in biotech assays.
+- [Absorption Spectrum](absorption-spectrum.md) — Absorbed wavelengths by biomolecules in spectroscopy.
+- [Absorber](absorber.md) — Material stopping ionizing radiation in biotech safety.
+- [Absorptivity](absorptivity.md) — Incident radiation fraction absorbed by surfaces in optical biotech.
+- [Accelerator](accelerator.md) — Particle energy increaser for biotech radiation studies.
+- [Acceleration](acceleration.md) — Velocity change rate in neurotech motion sensors.
+- [Acceleration Due to Gravity](acceleration-due-to-gravity.md) — Gravitational acceleration in biotech instrument calibration.
+- [Accelerometer](accelerometer.md) — Proper acceleration measurer in neuroprosthetics.
+- [Accumulator](accumulator.md) — ALU result holder in computational biotech.
+- [ACE2 (Angiotensin-Converting Enzyme 2)](ace2-angiotensin-converting-enzyme-2.md) — Receptor for SARS-CoV-2 entry in viral biotech research.
+- [Acetylcholine](acetylcholine.md) — Neurotransmitter for muscle activation, attention, and memory in neurotech.
+- [Acetylcholine Receptor](acetylcholine-receptor.md) — Nicotinic/muscarinic sites for neural signaling in biotech drugs.
+- [Achromatopsia](achromatopsia.md) — Color vision loss from visual cortex damage in neurostudies.
+- [Acinetobacter baumannii](acinetobacter-baumannii.md) — Multidrug-resistant bacteria in antibiotic biotech.
+- [Acoustic Neuroma](acoustic-neuroma.md) — Benign hearing nerve tumor in neurotech diagnostics.
+- [Acoustics](acoustics.md) — Sound transmission study in neurotech auditory implants.
+- [Acrylamide Gel](acrylamide-gel.md) — Electrophoresis matrix for protein separation in biotech.
+- [Act](act.md) — Parliamentary law for biotech regulations.
+- [Action Potential](action-potential.md) — Electrical signal traveling along neuron axon.
+- [Action Potential Amplitude](action-potential-amplitude.md) — Constant spike maximum >0mV, ~70mV total.
+- [Activation](activation.md) — Ion channel opening to stimulus, like depolarization.
+- [Activation Energy](activation-energy.md) — Minimum energy for biotech reactions.
+- [Active Immunity](active-immunity.md) — Disease/vaccine-acquired resistance.
+- [Active Site](active-site.md) — Protein shape-maintained functional part.
+- [Adaptation](adaptation.md) — Sensory adjustment to stimulation levels.
+- [Adaptor Protein](adaptor-protein.md) — Links signaling molecules in cellular biotech.
+- [Addiction](addiction.md) — Chronic drug-seeking despite consequences in neurotech.
+- [Adduct](adduct.md) — Chemical addition product in biotech synthesis.
+- [Adhesion](adhesion.md) — Molecular sticking force in tissue engineering.
+- [Adiabatic Approximation](adiabatic-approximation.md) — Slow quantum evolution equilibrium.
+- [Adiabatic Cooling](adiabatic-cooling.md) — Expansion temperature drop.
+- [Adiabatic Heating](adiabatic-heating.md) — Compression temperature rise.
+- [Adiabatic Process](adiabatic-process.md) — Work-only energy transfer.
+- [Adjuvant](adjuvant.md) — Agent enhancing vaccine immune response.
+- [ADMET](admet.md) — Absorption, distribution, metabolism, excretion, toxicity in drug biotech.
+- [Adrenal Cortex](adrenal-cortex.md) — Outer adrenal layer secreting cortisol.
+- [Adrenal Glands](adrenal-glands.md) — Stress-regulating hormone producers.
+- [Adrenal Medulla](adrenal-medulla.md) — Inner adrenal secreting epinephrine.
+- [Adrenaline](adrenaline.md) — Stress hormone for arousal.
+- [Adenylyl Cyclase](adenylyl-cyclase.md) — G-protein activated cAMP synthesizer.
+- [Adolescent Brain](adolescent-brain.md) — Developing prefrontal cortex for risk/reward.
+- [ADP (Adenosine Diphosphate)](adp-adenosine-diphosphate.md) — Energy carrier in biotech metabolism.
+- [Adsorption](adsorption.md) — Surface adherence of molecules.
+- [Aedes Mosquito](aedes-mosquito.md) — Dengue vector in biotech vector control.
+- [Afferent Nerve Fiber](afferent-nerve-fiber.md) — Central-bound peripheral axon.
+- [Affiliation](affiliation.md) — Biotech collaboration agreement.
+- [Affinity Chromatography](affinity-chromatography.md) — Ligand-based protein purification.
+- [Affinity Maturation](affinity-maturation.md) — Antibody improvement in B cells.
+- [Affinity Tag](affinity-tag.md) — Recombinant protein purification aid.
+- [Affymetrix](affymetrix.md) — Microarray tech company.
+- [Agamous](agamous.md) — Plant gene for flower development.
+- [Agglutinin](agglutinin.md) — Antibody causing clumping.
+- [Agnosia](agnosia.md) — Naming inability from brain damage.
+- [Agonist](agonist.md) — Receptor-activating mimic.
+- [Agrobacterium](agrobacterium.md) — Plant transformation bacterium.
+- [Akinesia](akinesia.md) — Voluntary movement loss.
+- [Albedo](albedo.md) — Reflected light fraction.
+- [Allele](allele.md) — Gene variant form.
+- [Allele-Specific Oligonucleotide Hybridization](allele-specific-oligonucleotide-hybridization.md) — Sequence determination via probe.
+- [Allelic Exclusion](allelic-exclusion.md) — Single immunoglobulin gene transcription.
+- [Allergen](allergen.md) — Immune-triggering substance.
+- [Allergy](allergy.md) — Abnormal immune response.
+- [Allodynia](allodynia.md) — Non-painful stimuli as painful.
+- [Allosteric Site](allosteric-site.md) — Modulator binding site.
+- [Alpha Decay](alpha-decay.md) — Alpha particle emission.
+- [Alpha Particle](alpha-particle.md) — Helium-4 nucleus.
+- [Alpha Wave](alpha-wave.md) — 8–13 Hz relaxed brainwave.
+- [Alzheimer's Disease](alzheimers-disease.md) — Neurodegenerative with plaques/tangles.
+- [Amalgamation](amalgamation.md) — Biotech merger.
+- [Amine](amine.md) — Nitrogen organic compound in neurotransmitters.
+- [Amino Acid](amino-acid.md) — Protein building block.
+- [Amino Acid Neurotransmitter](amino-acid-neurotransmitter.md) — Excitatory/inhibitory like glutamate.
+- [Ammonia](ammonia.md) — Neurotoxic waste product.
+- [Amnesia](amnesia.md) — Memory impairment.
+- [Amniocentesis](amniocentesis.md) — Prenatal chromosome sample.
+- [Amorphous Solid](amorphous-solid.md) — Non-geometric solid.
+- [AMP (Adenosine Monophosphate)](amp-adenosine-monophosphate.md) — Energy molecule.
+- [Ampere](ampere.md) — Current unit.
+- [Amplifier](amplifier.md) — Signal power increaser.
+- [Amplitude](amplitude.md) — Wave displacement max.
+- [Amygdala](amygdala.md) — Emotion/fear structure.
+- [Amyloid Plaque](amyloid-plaque.md) — Alzheimer’s beta-aggregate.
+- [Amyloid-Beta Protein](amyloid-beta-protein.md) — Alzheimer’s plaque component.
+- [Amyotrophic Lateral Sclerosis (ALS)](amyotrophic-lateral-sclerosis-als.md) — Motor neuron degeneration.
+- [Anabolism](anabolism.md) — Building synthesis.
+- [Anaerobic](anaerobic.md) — Oxygen-free.
+- [Analgesic](analgesic.md) — Pain reliever.
+- [Analog](analog.md) — Continuous signal in biotech sensors.
+- [Analyte](analyte.md) — Sample analyzed molecule.
+- [Anaphase](anaphase.md) — Chromosome separation.
+- [Anaphylaxis](anaphylaxis.md) — Severe allergic reaction.
+- [Anatomical MRI](anatomical-mri.md) — Structural brain imaging.
+- [Anchor Protein](anchor-protein.md) — Membrane tether.
+- [Aneuploid](aneuploid.md) — Non-multiple-of-23 chromosomes.
+- [Angiogenesis](angiogenesis.md) — New vessel formation in tumors.
+- [Angiotensin-Converting Enzyme 2 (ACE2)](angiotensin-converting-enzyme-2-ace2.md) — SARS-CoV-2 receptor.
+- [Anhedonia](anhedonia.md) — Pleasure inability.
+- [Annealing](annealing.md) — DNA strand rejoining.
+- [Anode](anode.md) — Current entry electrode.
+- [Anonymization](anonymization.md) — Identifier removal.
+- [Anterograde Amnesia](anterograde-amnesia.md) — New memory formation loss.
+- [Anterior](anterior.md) — Front/toward head.
+- [Anterior Cingulate Cortex](anterior-cingulate-cortex.md) — Emotion/cognitive control.
+- [Antibiotic](antibiotic.md) — Bacteria-killing chemical.
+- [Antibiotic Resistance](antibiotic-resistance.md) — Survival to antibiotics.
+- [Antibiotic Susceptibility Test (AST)](antibiotic-susceptibility-test-ast.md) — Drug effectiveness test.
+- [Antibody](antibody.md) — Immune Y-protein.
+- [Antibody-Drug Conjugate](antibody-drug-conjugate.md) — Targeted toxin delivery.
+- [Antibody Fragment](antibody-fragment.md) — Fc/ Fab parts.
+- [Antibody Phage Display](antibody-phage-display.md) — Library screening.
+- [Anticodon](anticodon.md) — tRNA mRNA matcher.
+- [Antigen](antigen.md) — Antibody binder.
+- [Antigen-Presenting Cell](antigen-presenting-cell.md) — MHC displayer.
+- [Antimicrobial Resistance (AMR)](antimicrobial-resistance-amr.md) — Microbe drug survival.
+- [Antimicrobial Peptide](antimicrobial-peptide.md) — Innate defense molecule.
+- [Antiparticle](antiparticle.md) — Opposite charge partner.
+- [Antisense Oligonucleotide](antisense-oligonucleotide.md) — mRNA blocker.
+- [Antiserum](antiserum.md) — Antibody-containing serum.
+- [Antiviral](antiviral.md) — Virus inhibitor.
+- [Aphasia](aphasia.md) — Language impairment.
+- [Apoptosis](apoptosis.md) — Programmed cell death.
+- [Apparent Diffusion Coefficient](apparent-diffusion-coefficient.md) — Diffusion measure in DTI.
+- [Application](application.md) — Biotech software tool.
+- [Aptamer](aptamer.md) — Nucleic acid ligand.
+- [Aqueous Humor](aqueous-humor.md) — Eye fluid.
+- [Arachnoid Mater](arachnoid-mater.md) — Middle meningeal layer.
+- [Arachnoiditis](arachnoiditis.md) — Meningeal inflammation.
+- [Arcuate Nucleus](arcuate-nucleus.md) — Hunger regulator.
+- [Area Postrema](area-postrema.md) — Vomiting center.
+- [Arginine](arginine.md) — Semi-essential amino acid.
+- [Arousal](arousal.md) — Alertness state.
+- [Array Card](array-card.md) — Microfluidic PCR card.
+- [Arterial Spin Labeling](arterial-spin-labeling.md) — Blood flow MRI.
+- [Astrocyte](astrocyte.md) — Neuron-supporting glial cell.
+- [Astrocytoma](astrocytoma.md) — Astrocyte tumor.
+- [Asymmetric Cell Division](asymmetric-cell-division.md) — Unequal daughter cells.
+- [Asymmetric Synthesis](asymmetric-synthesis.md) — Chiral molecule production.
+- [Asymptomatic](asymptomatic.md) — Symptom-free.
+- [Ataxia](ataxia.md) — Coordination loss.
+- [ATP (Adenosine Triphosphate)](atp-adenosine-triphosphate.md) — Energy currency.
+- [Atrial Natriuretic Peptide](atrial-natriuretic-peptide.md) — Blood pressure regulator.
+- [Auditory Cortex](auditory-cortex.md) — Sound processing.
+- [Auditory Nerve](auditory-nerve.md) — Cochlea-brain transmitter.
+- [Autoantibody](autoantibody.md) — Self-antigen binder.
+- [Autoclave](autoclave.md) — Sterilization device.
+- [Autograd](autograd.md) — Automatic differentiation.
+- [Autonomic Nervous System](autonomic-nervous-system.md) — Involuntary control.
+- [Autophagosome](autophagosome.md) — Lysosome fusion for degradation.
+- [Autopolyploid](autopolyploid.md) — Multiple genome sets.
+- [Autoradiography](autoradiography.md) — Radioactive visualization.
+- [Autoradiograph](autoradiograph.md) — Radioactive image.
+- [Autosome](autosome.md) — Non-sex chromosome.
+- [Avirulent Bacteria](avirulent-bacteria.md) — Non-disease causing.
+- [Axon](axon.md) — Neuron signal sender.
+- [Axon Hillock](axon-hillock.md) — Potential initiation.
+- [Axon Terminal](axon-terminal.md) — Synapse site.
+- [Axonal Transport](axonal-transport.md) — Material axon movement.
+- [Azide](azide.md) — Click chemistry reagent.
+- [BBacillus thuringiensis (Bt)](bbacillus-thuringiensis-bt.md) — Insecticidal soil bacterium for GM crops.
+- [Backcrossing](backcrossing.md) — Hybrid to parent breeding.
+- [Bacteria](bacteria.md) — Prokaryotic single-cell.
+- [Bacterial Conjugation](bacterial-conjugation.md) — Plasmid transfer.
+- [Bacteriophage](bacteriophage.md) — Bacterial virus.
+- [Bacteriophage Lambda](bacteriophage-lambda.md) — E. coli phage vector.
+- [Barr Body](barr-body.md) — Inactivated X chromosome.
+- [Base Pair](base-pair.md) — Nucleotide pair in DNA.
+- [Base Excision Repair](base-excision-repair.md) — Damaged base removal.
+- [Basic Local Alignment Search Tool (BLAST)](basic-local-alignment-search-tool-blast.md) — Sequence similarity search.
+- [Bayesian Evolutionary Analysis Sampling Trees (BEAST)](bayesian-evolutionary-analysis-sampling-trees-beast.md) — Molecular sequence Bayesian analysis.
+- [B Cells](b-cells.md) — Antibody producers.
+- [BDNF (Brain-Derived Neurotrophic Factor)](bdnf-brain-derived-neurotrophic-factor.md) — Neuron growth factor.
+- [Bead Array](bead-array.md) — Microsphere-based assay.
+- [BeagleBoard](beagleboard.md) — Biotech development board.
+- [Beating Heart](beating-heart.md) — Cardiac motion in organoids.
+- [Bell’s Inequality](bells-inequality.md) — Quantum nonlocality.
+- [Beta Decay](beta-decay.md) — Electron emission.
+- [Beta-Lactamase](beta-lactamase.md) — Antibiotic degrader.
+- [Beta Wave](beta-wave.md) — 13–30 Hz concentration wave.
+- [Biacore](biacore.md) — Surface plasmon resonance for binding.
+- [Bifidobacterium](bifidobacterium.md) — Gut probiotic.
+- [Bilateral](bilateral.md) — Both sides.
+- [Bioassay](bioassay.md) — Effect quantification on organisms.
+- [Bioaugmentation](bioaugmentation.md) — Microbe addition for remediation.
+- [Bioavailability](bioavailability.md) — Absorption fraction.
+- [Biocatalyst](biocatalyst.md) — Enzyme catalyst.
+- [Biochemical Oxygen Demand (BOD)](biochemical-oxygen-demand-bod.md) — Oxygen for organic breakdown.
+- [Bioconjugation](bioconjugation.md) — Biomolecule linking.
+- [Biodegradable](biodegradable.md) — Environment breakdown.
+- [Biodiesel](biodiesel.md) — Vegetable oil fuel.
+- [Biodiversity](biodiversity.md) — Species variety.
+- [Bioelectric Medicine](bioelectric-medicine.md) — Electrical neural modulation.
+- [Bioenergy](bioenergy.md) — Biomass energy.
+- [Bioengineering](bioengineering.md) — Biology engineering application.
+- [Bioethics](bioethics.md) — Life sciences ethics.
+- [Biofilm](biofilm.md) — Microbial community.
+- [Bioinformatics](bioinformatics.md) — Biological data analysis.
+- [Biological Clock](biological-clock.md) — Circadian regulator.
+- [Biological Products](biological-products.md) — Virus/serum biologics.
+- [Biomass](biomass.md) — Organic renewable matter.
+- [Biome](biome.md) — Ecosystem type.
+- [Biomarker](biomarker.md) — Disease indicator.
+- [Biomaterial](biomaterial.md) — Tissue-compatible material.
+- [Biomedical Ethics](biomedical-ethics.md) — Health ethics.
+- [Biomimetic](biomimetic.md) — Nature-mimicking design.
+- [Bionanotechnology](bionanotechnology.md) — Nano-biotech.
+- [Biopesticides](biopesticides.md) — Natural pest control.
+- [Bioplastic](bioplastic.md) — Biodegradable plastic.
+- [Bioprocessing](bioprocessing.md) — Large-scale production.
+- [Bioprospecting](bioprospecting.md) — Natural product search.
+- [Bioreactor](bioreactor.md) — Cell growth vessel.
+- [Bioremediation](bioremediation.md) — Pollutant microbe breakdown.
+- [Biosafety Level](biosafety-level.md) — Containment level.
+- [Biosensor](biosensor.md) — Analyte-detecting device.
+- [Biostimulant](biostimulant.md) — Growth enhancer.
+- [Bioterrorism](bioterrorism.md) — Pathogen weapon use.
+- [Biotin](biotin.md) — Vitamin B7.
+- [Biotinylation](biotinylation.md) — Biotin tagging.
+- [Bipolar Cell](bipolar-cell.md) — Retinal photoreceptor to ganglion.
+- [Bipolar Disorder](bipolar-disorder.md) — Mood swings.
+- [BLAST](blast.md) — Sequence alignment tool.
+- [Blood-Brain Barrier](blood-brain-barrier.md) — Brain-protecting filter.
+- [Blood Volume](blood-volume.md) — Total body blood.
+- [Blue-Green Algae](blue-green-algae.md) — Cyanobacteria.
+- [Blunt End](blunt-end.md) — Non-sticky DNA end.
+- [BOD](bod.md) — Biochemical oxygen demand.
+- [Bohr Model](bohr-model.md) — Atomic orbits.
+- [Bonding](bonding.md) — Molecule joining.
+- [Borrelia burgdorferi](borrelia-burgdorferi.md) — Lyme disease bacterium.
+- [Botulinum Toxin](botulinum-toxin.md) — Muscle paralytic.
+- [Bovine Spongiform Encephalopathy (BSE)](bovine-spongiform-encephalopathy-bse.md) — Mad cow disease.
+- [Brain-Computer Interface (BCI)](brain-computer-interface-bci.md) — Brain-device direct link.
+- [Brain Organoid](brain-organoid.md) — Stem cell mini-brain.
+- [Brainstem](brainstem.md) — Brain-spinal connector.
+- [Brain Waves](brain-waves.md) — Neural oscillations.
+- [Branching](branching.md) — Tree-like structure.
+- [BRCA1/BRCA2](brca1-brca2.md) — Breast cancer genes.
+- [Broad-Spectrum Antibiotic](broad-spectrum-antibiotic.md) — Multi-bacteria killer.
+- [Broca’s Area](brocas-area.md) — Speech production.
+- [Brownian Motion](brownian-motion.md) — Particle random movement.
+- [Buffer](buffer.md) — pH stabilizer.
+- [Bulking Agent](bulking-agent.md) — Volume increaser in biotech.
+- [Burkitt's Lymphoma](burkitts-lymphoma.md) — Blood cancer.
+- [Burst Firing](burst-firing.md) — Rapid spike pattern.
+- [CcDNA](ccdna.md) — RNA-derived DNA copy.
+- [cDNA Library](cdna-library.md) — Cloned cDNA collection.
+- [Calandria](calandria.md) — PHWR moderator vessel.
+- [Calcium Channel](calcium-channel.md) — Ca²⁺ entry protein.
+- [Calmodulin](calmodulin.md) — Calcium-binding protein.
+- [CANDU](candu.md) — Deuterium uranium reactor.
+- [Capsaicin](capsaicin.md) — Heat sensation compound.
+- [Carbapenem](carbapenem.md) — Beta-lactam antibiotic.
+- [Carbohydrate](carbohydrate.md) — Energy storage molecule.
+- [Carbon Footprint](carbon-footprint.md) — GHG emissions.
+- [Cardiac Muscle](cardiac-muscle.md) — Heart involuntary muscle.
+- [Carrier](carrier.md) — Recessive mutation holder.
+- [Cascade](cascade.md) — Sequential reaction.
+- [Casein](casein.md) — Milk protein.
+- [Caspase](caspase.md) — Apoptosis protease.
+- [CASSI](cassi.md) — CRISPR-associated system.
+- [Catabolism](catabolism.md) — Breakdown metabolism.
+- [Catalyst](catalyst.md) — Reaction speeder.
+- [Catalytic Antibody](catalytic-antibody.md) — Abzyme.
+- [Cation](cation.md) — Positive ion.
+- [Cauchy Distribution](cauchy-distribution.md) — Probability distribution.
+- [CD Marker](cd-marker.md) — Cell surface identifier.
+- [CDC](cdc.md) — Disease control center.
+- [Cell](cell.md) — Basic life unit.
+- [Cell Adhesion Molecule (CAM)](cell-adhesion-molecule-cam.md) — Cell sticking.
+- [Cell Cycle](cell-cycle.md) — Division phases.
+- [Cell Line](cell-line.md) — Immortalized culture.
+- [Cell Membrane](cell-membrane.md) — Lipid bilayer.
+- [Cell Signaling](cell-signaling.md) — Communication pathway.
+- [Cellomics](cellomics.md) — Cell component study.
+- [Cell Sorting](cell-sorting.md) — Flow cytometry separation.
+- [Cell Therapy](cell-therapy.md) — Cell-based treatment.
+- [Cell Wall](cell-wall.md) — Bacterial protection.
+- [Cellulase](cellulase.md) — Cellulose digester.
+- [Central Dogma](central-dogma.md) — DNA-RNA-protein flow.
+- [Central Nervous System (CNS)](central-nervous-system-cns.md) — Brain and spinal cord.
+- [Centrifugation](centrifugation.md) — Density separation.
+- [Cephalosporin](cephalosporin.md) — Antibiotic class.
+- [Ceramide](ceramide.md) — Lipid signaling.
+- [Cerebral Cortex](cerebral-cortex.md) — Outer brain layer.
+- [Cerebral Palsy](cerebral-palsy.md) — Motor disorder from brain damage.
+- [Cerebrospinal Fluid (CSF)](cerebrospinal-fluid-csf.md) — Brain cushion fluid.
+- [CGPS](cgps.md) — Genome pathogen surveillance.
+- [Chain Reaction](chain-reaction.md) — Fission sustaining.
+- [Chandrasekhar Limit](chandrasekhar-limit.md) — Star collapse density.
+- [Chaperone Protein](chaperone-protein.md) — Folding assistant.
+- [Chargaff's Rule](chargaffs-rule.md) — Base pairing equality.
+- [Charge](charge.md) — Electromagnetic property.
+- [Checkpoint](checkpoint.md) — Cell cycle control.
+- [Chemiluminescence](chemiluminescence.md) — Chemical light.
+- [Chemoattractant](chemoattractant.md) — Cell migration signal.
+- [Chemotaxis](chemotaxis.md) — Chemical-directed movement.
+- [Chimera](chimera.md) — Mixed genotype organism.
+- [ChIP (Chromatin Immunoprecipitation)](chip-chromatin-immunoprecipitation.md) — Protein-DNA interaction.
+- [Chloroplast](chloroplast.md) — Plant photosynthesis organelle.
+- [Cholera](cholera.md) — Vibrio cholerae disease.
+- [Cholesterol](cholesterol.md) — Membrane lipid.
+- [Chondrocyte](chondrocyte.md) — Cartilage cell.
+- [Chorionic Villus Sampling (CVS)](chorionic-villus-sampling-cvs.md) — Prenatal diagnosis.
+- [Chromatid](chromatid.md) — Replicated chromosome arm.
+- [Chromatin](chromatin.md) — DNA-protein complex.
+- [Chromatography](chromatography.md) — Mixture separation.
+- [Chromosome](chromosome.md) — Gene-carrying structure.
+- [Chromosome Walking](chromosome-walking.md) — Gene mapping.
+- [Chronic Encephalopathy Syndrome (CES)](chronic-encephalopathy-syndrome-ces.md) — Post-trauma symptoms.
+- [Chronobiology](chronobiology.md) — Biological rhythms.
+- [Chyme](chyme.md) — Stomach-digested food.
+- [CIE Lab* Color Space](cie-lab-color-space.md) — Perceptual color model.
+- [Ciliate](ciliate.md) — Protozoan with cilia.
+- [Cinchona](cinchona.md) — Quinine source.
+- [Ciprofloxacin](ciprofloxacin.md) — Fluoroquinolone antibiotic.
+- [Circadian Rhythm](circadian-rhythm.md) — 24-hour cycle.
+- [Circular DNA](circular-dna.md) — Plasmid form.
+- [Cis-Acting](cis-acting.md) — Local gene control.
+- [Cisplatin](cisplatin.md) — Cancer chemotherapy.
+- [Citric Acid Cycle](citric-acid-cycle.md) — Energy production.
+- [Click Chemistry](click-chemistry.md) — Efficient linking.
+- [Clinical Trial](clinical-trial.md) — Human intervention test.
+- [Clonal Selection](clonal-selection.md) — Antibody diversity.
+- [Clone](clone.md) — Identical copy.
+- [Cloning](cloning.md) — Genetic replica creation.
+- [Clostridium botulinum](clostridium-botulinum.md) — Botulism bacterium.
+- [Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR)](clustered-regularly-interspaced-short-palindromic-repeats-crispr.md) — Bacterial defense, gene editing tool.
+- [Coagulation](coagulation.md) — Blood clotting.
+- [Coat Protein](coat-protein.md) — Virus shell.
+- [Cobalamin](cobalamin.md) — Vitamin B12.
+- [Cochlea](cochlea.md) — Inner ear sound converter.
+- [Codon](codon.md) — Three-nucleotide code.
+- [Coenzyme](coenzyme.md) — Helper molecule.
+- [Cofactor](cofactor.md) — Non-protein assistant.
+- [Cognition](cognition.md) — Thinking/perceiving.
+- [Cognitive Behavioral Therapy](cognitive-behavioral-therapy.md) — Thought pattern change.
+- [Cognitive Enhancement](cognitive-enhancement.md) — Ability improvement.
+- [Cognitive Neuroscience](cognitive-neuroscience.md) — Brain-cognition biology.
+- [Cohort Study](cohort-study.md) — Group outcome tracking.
+- [Colony](colony.md) — Microbial growth cluster.
+- [Colorimetry](colorimetry.md) — Concentration color measure.
+- [Commensal](commensal.md) — Harmless host resident.
+- [Complement](complement.md) — Bacteria-killing protein.
+- [Complementary DNA (cDNA)](complementary-dna-cdna.md) — RNA copy DNA.
+- [Computational Biology](computational-biology.md) — Bio math modeling.
+- [Computational Neuroscience](computational-neuroscience.md) — Brain algorithm study.
+- [Computed Tomography (CT)](computed-tomography-ct.md) — X-ray cross-sections.
+- [Concanavalin A](concanavalin-a.md) — Lectin binder.
+- [Conjugation](conjugation.md) — Bacterial DNA transfer.
+- [Constitutive Expression](constitutive-expression.md) — Always on gene.
+- [Contact Inhibition](contact-inhibition.md) — Growth stop on touch.
+- [Contig](contig.md) — Overlapping sequence assembly.
+- [Continuous Wavelet Transform](continuous-wavelet-transform.md) — Signal analysis.
+- [Contractile Vacuole](contractile-vacuole.md) — Protozoan water expeller.
+- [Contrast-Enhanced Ultrasound](contrast-enhanced-ultrasound.md) — Vessel imaging.
+- [Control Group](control-group.md) — Untreated comparison.
+- [Convection](convection.md) — Fluid heat transfer.
+- [Conventional PCR](conventional-pcr.md) — DNA amplification.
+- [Convergent Evolution](convergent-evolution.md) — Similar function trait.
+- [Cooperative Binding](cooperative-binding.md) — Allosteric enhancement.
+- [Copolymer](copolymer.md) — Mixed monomer polymer.
+- [Copper Chaperone](copper-chaperone.md) — Protein metal deliverer.
+- [Copy Number Variation (CNV)](copy-number-variation-cnv.md) — DNA segment repeat.
+- [Coronary Artery](coronary-artery.md) — Heart blood vessel.
+- [Corpus Callosum](corpus-callosum.md) — Hemisphere connector.
+- [Cortical Column](cortical-column.md) — Cortex functional unit.
+- [Cortical Plasticity](cortical-plasticity.md) — Cortex reorganization.
+- [Corticospinal Tract](corticospinal-tract.md) — Motor pathway.
+- [Corticosteroid](corticosteroid.md) — Anti-inflammatory hormone.
+- [Corynebacterium diphtheriae](corynebacterium-diphtheriae.md) — Diphtheria bacterium.
+- [Cosmid](cosmid.md) — Plasmid-phage hybrid vector.
+- [Cost-Benefit Analysis](cost-benefit-analysis.md) — Outcome weighing.
+- [Covalent Bond](covalent-bond.md) — Electron-sharing bond.
+- [Cover Slip](cover-slip.md) — Microscope slide cover.
+- [Cowpox](cowpox.md) — Smallpox vaccine origin.
+- [CpG Island](cpg-island.md) — Methylation-sensitive promoter.
+- [CRISPR-Cas9](crispr-cas9.md) — Gene editing system.
+- [Critical Period](critical-period.md) — Stimulus-sensitive development.
+- [CRISPR Interference (CRISPRi)](crispr-interference-crispri.md) — Gene repression.
+- [Cross-Linking](cross-linking.md) — Molecule joining.
+- [Cross-Presentation](cross-presentation.md) — MHC class I antigen.
+- [Cross-Reactivity](cross-reactivity.md) — Non-target binding.
+- [Cryo-Electron Microscopy](cryo-electron-microscopy.md) — Frozen sample imaging.
+- [Cryopreservation](cryopreservation.md) — Low-temp storage.
+- [Cryptic Splice Site](cryptic-splice-site.md) — Hidden intron-exon.
+- [CSF (Cerebrospinal Fluid)](csf-cerebrospinal-fluid.md) — Brain cushion.
+- [CTLA-4](ctla-4.md) — T cell checkpoint.
+- [Curie (Ci)](curie-ci.md) — 3.7×10¹⁰ Bq activity.
+- [Curie Point](curie-point.md) — Ferromagnetic transition.
+- [Cyanobacteria](cyanobacteria.md) — Photosynthetic bacteria.
+- [Cyclin](cyclin.md) — Cell cycle regulator.
+- [Cyclooxygenase](cyclooxygenase.md) — Prostaglandin enzyme.
+- [CYP450](cyp450.md) — Drug metabolism enzyme.
+- [Cyst](cyst.md) — Protective stage.
+- [Cytochrome](cytochrome.md) — Electron carrier.
+- [Cytogenetics](cytogenetics.md) — Chromosome study.
+- [Cytokine](cytokine.md) — Signaling protein.
+- [Cytokine Storm](cytokine-storm.md) — Excessive immune response.
+- [Cytology](cytology.md) — Cell study.
+- [Cytometry](cytometry.md) — Cell measurement.
+- [Cytoplasm](cytoplasm.md) — Nucleus outer fluid.
+- [Cytoskeleton](cytoskeleton.md) — Cell shape maintainer.
+- [Cytosol](cytosol.md) — Cytoplasm liquid.
+- [Cytotoxic T Cell](cytotoxic-t-cell.md) — Killer lymphocyte.
+- [DdATP](ddatp.md) — Deoxyadenosine triphosphate.
+- [DAPI](dapi.md) — DNA fluorescent stain.
+- [Dark Energy](dark-energy.md) — Universe expansion accelerator.
+- [Dark Matter](dark-matter.md) — Gravitational non-luminous.
+- [Davisson–Germer Experiment](davissongermer-experiment.md) — Electron diffraction.
+- [ddNTP](ddntp.md) — Chain-terminating nucleotide.
+- [De Broglie Hypothesis](de-broglie-hypothesis.md) — Matter wave-particle.
+- [De Novo](de-novo.md) — New synthesis.
+- [De Novo Mutation](de-novo-mutation.md) — New generation mutation.
+- [Deamidation](deamidation.md) — Amide to acid.
+- [Death Domain](death-domain.md) — Apoptosis signal.
+- [Decaprenyl-Phosphate](decaprenyl-phosphate.md) — Lipid carrier.
+- [Decarboxylase](decarboxylase.md) — CO2 remover.
+- [Deconvolution](deconvolution.md) — Signal separation.
+- [Decoy Receptor](decoy-receptor.md) — Ligand trap.
+- [Deep Learning](deep-learning.md) — Neural network ML.
+- [Degradation Method](degradation-method.md) — Sanger sequencing.
+- [Degradome](degradome.md) — Protease substrate set.
+- [Degron](degron.md) — Degradation signal.
+- [Dehalogenase](dehalogenase.md) — Halogen remover.
+- [Dehydration](dehydration.md) — Water loss.
+- [Dehydrogenase](dehydrogenase.md) — Hydrogen transfer.
+- [Deletions](deletions.md) — DNA segment loss.
+- [Delta Wave](delta-wave.md) — Sleep brainwave.
+- [Dementia](dementia.md) — Cognitive decline.
+- [Demethylase](demethylase.md) — Methyl remover.
+- [Dendrite](dendrite.md) — Neuron receiver.
+- [Dendritic Cell](dendritic-cell.md) — Antigen presenter.
+- [Dendritic Spine](dendritic-spine.md) — Synapse site.
+- [Denaturation](denaturation.md) — Protein unfolding.
+- [Dendrogram](dendrogram.md) — Cluster tree.
+- [Deoxyribonuclease (DNase)](deoxyribonuclease-dnase.md) — DNA cutter.
+- [Deoxyribonucleic Acid (DNA)](deoxyribonucleic-acid-dna.md) — Genetic material.
+- [Dephosphorylation](dephosphorylation.md) — Phosphate removal.
+- [Depolarization](depolarization.md) — Positive membrane change.
+- [Depression](depression.md) — Mood disorder.
+- [Depurination](depurination.md) — Purine loss.
+- [DES](des.md) — Data Encryption Standard.
+- [Designated Driver](designated-driver.md) — Sober transport.
+- [Desiccation](desiccation.md) — Drying.
+- [Desktop Publishing](desktop-publishing.md) — Layout software.
+- [Destabilization](destabilization.md) — Structure weakening.
+- [Detergent](detergent.md) — Membrane solubilizer.
+- [Determinant](determinant.md) — Matrix value.
+- [Detoxification](detoxification.md) — Toxin removal.
+- [Deubiquitinase](deubiquitinase.md) — Ubiquitin remover.
+- [Developmental Biology](developmental-biology.md) — Organism formation.
+- [Dextran](dextran.md) — Glucose polymer.
+- [Diabetes](diabetes.md) — Insulin disorder.
+- [Diagnostic](diagnostic.md) — Disease identifier.
+- [Dialysis](dialysis.md) — Kidney mimic.
+- [Diamagnetism](diamagnetism.md) — Field opposing.
+- [Diaphragm](diaphragm.md) — Breathing muscle.
+- [Dichotomy](dichotomy.md) — Two-part division.
+- [Dicistronic mRNA](dicistronic-mrna.md) — Two-gene transcript.
+- [Dielectric](dielectric.md) — Non-conductor.
+- [Differential Centrifugation](differential-centrifugation.md) — Size separation.
+- [Differential Expression](differential-expression.md) — Condition-specific gene.
+- [Differential Interference Contrast](differential-interference-contrast.md) — Microscopy contrast.
+- [Differentiation](differentiation.md) — Cell specialization.
+- [Diffusion](diffusion.md) — Concentration spread.
+- [Diffusion Coefficient](diffusion-coefficient.md) — Spread rate.
+- [Digital PCR](digital-pcr.md) — Absolute quantification.
+- [Dihybrid](dihybrid.md) — Two-trait cross.
+- [Dimer](dimer.md) — Two-unit complex.
+- [Dinitrogenase](dinitrogenase.md) — Nitrogen fixer.
+- [Diploid](diploid.md) — Two chromosome sets.
+- [Direct Repeats](direct-repeats.md) — Adjacent same sequences.
+- [Directional Selection](directional-selection.md) — Extreme trait favor.
+- [Disaccharide](disaccharide.md) — Two-sugar.
+- [Disinfection](disinfection.md) — Microbe kill.
+- [Disruptive Innovation](disruptive-innovation.md) — Market change tech.
+- [Dissociation Constant (Kd)](dissociation-constant-kd.md) — Binding strength.
+- [Distal](distal.md) — Far end.
+- [Dithionite](dithionite.md) — Reducer.
+- [Divergent Evolution](divergent-evolution.md) — Trait split.
+- [Diversification](diversification.md) — Risk spread.
+- [Diverticulitis](diverticulitis.md) — Pouch inflammation.
+- [DMEM](dmem.md) — Cell culture medium.
+- [DNA](dna.md) — Deoxyribonucleic acid.
+- [DNA Array](dna-array.md) — Gene expression chip.
+- [DNA Barcoding](dna-barcoding.md) — Species ID sequence.
+- [DNA Damage](dna-damage.md) — Lesion repair target.
+- [DNA Footprinting](dna-footprinting.md) — Protein-binding site.
+- [DNA Helicase](dna-helicase.md) — Strand unwinder.
+- [DNA Ligase](dna-ligase.md) — Strand joiner.
+- [DNA Microarray](dna-microarray.md) — Gene chip.
+- [DNA Methylation](dna-methylation.md) — Epigenetic mark.
+- [DNA Polymerase](dna-polymerase.md) — Chain extender.
+- [DNA Probe](dna-probe.md) — Sequence detector.
+- [DNA Repair](dna-repair.md) — Lesion fix.
+- [DNA Replication](dna-replication.md) — Copying.
+- [DNA Sequencing](dna-sequencing.md) — Order determination.
+- [DNA Transfection](dna-transfection.md) — Cell entry.
+- [DNase](dnase.md) — DNA cutter.
+- [Docking](docking.md) — Protein interaction prediction.
+- [Domain (Protein)](domain-protein.md) — Functional unit.
+- [Dominant Negative](dominant-negative.md) — Mutant inhibitor.
+- [Dominant Trait](dominant-trait.md) — Expressed allele.
+- [Dopamine](dopamine.md) — Reward neurotransmitter.
+- [Dose-Response](dose-response.md) — Effect vs amount.
+- [Double Helix](double-helix.md) — DNA structure.
+- [Double Mutants](double-mutants.md) — Two mutations.
+- [Down Syndrome](down-syndrome.md) — Trisomy 21.
+- [Downstream](downstream.md) — Gene direction.
+- [Doxycycline](doxycycline.md) — Tetracycline antibiotic.
+- [DPPC](dppc.md) — Lung surfactant lipid.
+- [Drag Coefficient](drag-coefficient.md) — Fluid resistance.
+- [Drosophila](drosophila.md) — Fruit fly model.
+- [Drug Design](drug-design.md) — Rational molecule creation.
+- [Drug Resistance](drug-resistance.md) — Efficacy loss.
+- [Drug Target](drug-target.md) — Interaction site.
+- [Dry Lab](dry-lab.md) — Computational biotech.
+- [Dual-Specificity Phosphatase](dual-specificity-phosphatase.md) — Dual dephosphorylator.
+- [Duchenne Muscular Dystrophy](duchenne-muscular-dystrophy.md) — Dystrophin defect.
+- [Ductility](ductility.md) — Stretching ability.
+- [Dune](dune.md) — Wind sand hill.
+- [Duplex DNA](duplex-dna.md) — Double strand.
+- [Dura Mater](dura-mater.md) — Tough meningeal layer.
+- [Dwarfism](dwarfism.md) — Growth hormone defect.
+- [Dynein](dynein.md) — Motor protein.
+- [Dysbiosis](dysbiosis.md) — Microbiome imbalance.
+- [Dyslexia](dyslexia.md) — Reading difficulty.
+- [Dystrophin](dystrophin.md) — Muscle stabilizer.
+- [Dystrophy](dystrophy.md) — Degenerative disease.
+- [EE. coli](ee-coli.md) — Model bacterium.
+- [E-Promoter](e-promoter.md) — Estrogen-responsive.
+- [E1 Ubiquitin-Activating Enzyme](e1-ubiquitin-activating-enzyme.md) — Activation step.
+- [E2 Ubiquitin-Conjugating Enzyme](e2-ubiquitin-conjugating-enzyme.md) — Transfer step.
+- [E3 Ubiquitin Ligase](e3-ubiquitin-ligase.md) — Specificity step.
+- [E4 Polyubiquitin Ligase](e4-polyubiquitin-ligase.md) — Chain extender.
+- [Ecdysone](ecdysone.md) — Insect hormone.
+- [Echovirus](echovirus.md) — Enteric cytopathic human orphan.
+- [EcoRI](ecori.md) — Restriction enzyme.
+- [Ectopic Expression](ectopic-expression.md) — Wrong place gene.
+- [ED50](ed50.md) — Half-maximal effect dose.
+- [EDTA](edta.md) — Chelator.
+- [EEG](eeg.md) — Brain electrical recording.
+- [Effector Cell](effector-cell.md) — Response executor.
+- [Efferent](efferent.md) — Outgoing.
+- [EGF](egf.md) — Epidermal growth factor.
+- [Egress Filtering](egress-filtering.md) — Outbound restriction.
+- [Eicosanoid](eicosanoid.md) — Lipid mediator.
+- [Eigenvalue](eigenvalue.md) — Matrix characteristic.
+- [Ejection Fraction](ejection-fraction.md) — Heart pump measure.
+- [Elastase](elastase.md) — Elastin digester.
+- [Elastomer](elastomer.md) — Rubber-like.
+- [Electroblotting](electroblotting.md) — Protein transfer.
+- [Electrode](electrode.md) — Conduction point.
+- [Electrolyte](electrolyte.md) — Ion solution.
+- [Electromagnetic Field](electromagnetic-field.md) — E/B waves.
+- [Electromyography (EMG)](electromyography-emg.md) — Muscle electrical.
+- [Electron Microscopy](electron-microscopy.md) — High-res imaging.
+- [Electroporation](electroporation.md) — Electric pore creation.
+- [Element](element.md) — Pure substance.
+- [ELISA](elisa.md) — Enzyme immunoassay.
+- [Elongation Factor](elongation-factor.md) — Protein synthesis helper.
+- [Embryo](embryo.md) — Early development.
+- [Embryonic Stem Cell](embryonic-stem-cell.md) — Pluripotent cell.
+- [EMG](emg.md) — Muscle activity record.
+- [Emission Spectrum](emission-spectrum.md) — Light wavelengths.
+- [End Label](end-label.md) — Terminal tag.
+- [Endemic](endemic.md) — Local disease.
+- [Endonuclease](endonuclease.md) — Internal cutter.
+- [Endoplasmic Reticulum](endoplasmic-reticulum.md) — Protein modifier.
+- [Endosome](endosome.md) — Internalized vesicle.
+- [Endothelial Cell](endothelial-cell.md) — Vessel liner.
+- [Endotoxin](endotoxin.md) — Bacterial toxin.
+- [Energy](energy.md) — Work capacity.
+- [Enhancer](enhancer.md) — Gene activator.
+- [Enolase](enolase.md) — Glycolysis enzyme.
+- [Enrichment](enrichment.md) — Target concentration.
+- [Enterovirus](enterovirus.md) — RNA virus.
+- [Enzyme](enzyme.md) — Catalyst protein.
+- [Enzyme Kinetics](enzyme-kinetics.md) — Reaction rate.
+- [Enzyme-Linked Immunosorbent Assay (ELISA)](enzyme-linked-immunosorbent-assay-elisa.md) — Detection assay.
+- [Epidemic](epidemic.md) — Widespread outbreak.
+- [Epidemiology](epidemiology.md) — Disease pattern.
+- [Epigenetics](epigenetics.md) — Heritable non-DNA change.
+- [Epigenome](epigenome.md) — Methylation map.
+- [Epilepsy](epilepsy.md) — Seizure disorder.
+- [Episomal Vector](episomal-vector.md) — Non-integrated plasmid.
+- [Epitope](epitope.md) — Antigen part.
+- [Epitope Mapping](epitope-mapping.md) — Site identification.
+- [Epitope Tagging](epitope-tagging.md) — Protein label.
+- [EPSP](epsp.md) — Excitatory potential.
+- [Ergonomics](ergonomics.md) — Human-tech design.
+- [ER Stress](er-stress.md) — Unfolded response.
+- [Escherichia coli](escherichia-coli.md) — Gut bacterium.
+- [Essential Amino Acid](essential-amino-acid.md) — Dietary required.
+- [Estrogen](estrogen.md) — Female hormone.
+- [Ethidium Bromide](ethidium-bromide.md) — DNA stain.
+- [Eukaryote](eukaryote.md) — Nucleus cell.
+- [Eukaryotic Vector](eukaryotic-vector.md) — Shuttle plasmid.
+- [Evolution](evolution.md) — Change over time.
+- [Excitatory](excitatory.md) — Neuron firing increaser.
+- [Excitotoxicity](excitotoxicity.md) — Glutamate overkill.
+- [Exon](exon.md) — Coding sequence.
+- [Exonuclease](exonuclease.md) — End cutter.
+- [Exosome](exosome.md) — Extracellular vesicle.
+- [Exotoxin](exotoxin.md) — Secreted toxin.
+- [Expansion Microscopy](expansion-microscopy.md) — Sample enlargement.
+- [Expression Vector](expression-vector.md) — Gene producer.
+- [Extinction](extinction.md) — Trait loss.
+- [Extracellular Matrix](extracellular-matrix.md) — Cell support.
+- [Extrachromosomal Element](extrachromosomal-element.md) — Non-chromosome DNA.
+- [Extravasation](extravasation.md) — Vessel leak.
+- [FF0F1-ATPase](ff0f1-atpase.md) — Proton pump.
+- [Fab Fragment](fab-fragment.md) — Antibody arm.
+- [Factor VIII](factor-viii.md) — Clotting protein.
+- [FACS](facs.md) — Fluorescence sorting.
+- [FAD](fad.md) — Flavin coenzyme.
+- [Fahrenheit](fahrenheit.md) — Temperature scale.
+- [False Positive](false-positive.md) — Incorrect detection.
+- [Fanconi Anemia](fanconi-anemia.md) — DNA repair defect.
+- [Fast Neutron](fast-neutron.md) — High-energy neutron.
+- [Fc Receptor](fc-receptor.md) — Antibody tail binder.
+- [FcRn](fcrn.md) — Neonatal receptor.
+- [Feedback Inhibition](feedback-inhibition.md) — Product end regulation.
+- [Fermentation](fermentation.md) — Anaerobic metabolism.
+- [Ferredoxin](ferredoxin.md) — Iron-sulfur protein.
+- [Fertility](fertility.md) — Reproduction ability.
+- [Fetal Alcohol Syndrome](fetal-alcohol-syndrome.md) — Alcohol exposure defect.
+- [FGF](fgf.md) — Fibroblast growth factor.
+- [Fiber Optic](fiber-optic.md) — Light guide.
+- [Fibroblast](fibroblast.md) — Connective cell.
+- [Fibronectin](fibronectin.md) — Matrix glycoprotein.
+- [Field Effect Transistor](field-effect-transistor.md) — Biotech sensor.
+- [Filamentous Phage](filamentous-phage.md) — Rod-shaped virus.
+- [Fimbria](fimbria.md) — Adhesion structure.
+- [Fine Mapping](fine-mapping.md) — Gene location refine.
+- [FISH (Fluorescence In Situ Hybridization)](fish-fluorescence-in-situ-hybridization.md) — Chromosome probe.
+- [Fission](fission.md) — Nucleus split.
+- [Fixation](fixation.md) — Sample preserve.
+- [Flagellum](flagellum.md) — Motility appendage.
+- [Flow Cytometry](flow-cytometry.md) — Cell analysis.
+- [Fluorescence](fluorescence.md) — Light emission.
+- [Fluorescence-Activated Cell Sorting (FACS)](fluorescence-activated-cell-sorting-facs.md) — Cell sort.
+- [Fluorophore](fluorophore.md) — Fluorescent molecule.
+- [fMRI](fmri.md) — Functional brain imaging.
+- [Foamy Virus](foamy-virus.md) — Lentiviral vector.
+- [Folate](folate.md) — Vitamin B9.
+- [Folding Funnel](folding-funnel.md) — Protein path.
+- [Food and Drug Administration (FDA)](food-and-drug-administration-fda.md) — Regulator.
+- [Footprinting](footprinting.md) — Binding site map.
+- [Förster Resonance Energy Transfer (FRET)](forster-resonance-energy-transfer-fret.md) — Distance measure.
+- [Forward Genetics](forward-genetics.md) — Phenotype to gene.
+- [Founder Effect](founder-effect.md) — Population bottleneck.
+- [Frameshift Mutation](frameshift-mutation.md) — Insertion/deletion shift.
+- [Free Radical](free-radical.md) — Unpaired electron.
+- [Freeze-Drying](freeze-drying.md) — Water removal.
+- [Frequency](frequency.md) — Cycles per time.
+- [Frontotemporal Dementia](frontotemporal-dementia.md) — Lobe degeneration.
+- [FRT Site](frt-site.md) — Recombination target.
+- [Functional Genomics](functional-genomics.md) — Expression study.
+- [Functional Magnetic Resonance Imaging (fMRI)](functional-magnetic-resonance-imaging-fmri.md) — Blood flow activity.
+- [Fura-2](fura-2.md) — Calcium indicator.
+- [Fusion Protein](fusion-protein.md) — Chimeric molecule.
+- [Fusion Tag](fusion-tag.md) — Expression aid.
+- [GG Protein](gg-protein.md) — Signal transducer.
+- [G0 Phase](g0-phase.md) — Quiescent cell.
+- [G1 Phase](g1-phase.md) — Growth phase.
+- [G2 Phase](g2-phase.md) — Pre-mitosis.
+- [GABA](gaba.md) — Inhibitory neurotransmitter.
+- [GABA Receptor](gaba-receptor.md) — Chloride channel.
+- [Galactosidase](galactosidase.md) — Sugar hydrolase.
+- [Gal4](gal4.md) — Yeast transcription activator.
+- [Galanin](galanin.md) — Neuropeptide.
+- [Ganglion](ganglion.md) — Neuron cluster.
+- [Gap Junction](gap-junction.md) — Cell direct link.
+- [Gas Chromatography](gas-chromatography.md) — Volatile separation.
+- [Gastrulation](gastrulation.md) — Layer formation.
+- [GCN4](gcn4.md) — Yeast leucine zipper.
+- [Gel Electrophoresis](gel-electrophoresis.md) — Size separation.
+- [Gel Filtration](gel-filtration.md) — Size chromatography.
+- [Gene](gene.md) — Hereditary unit.
+- [Gene Amplification](gene-amplification.md) — Copy increase.
+- [Gene Annotation](gene-annotation.md) — Function assign.
+- [Gene Delivery](gene-delivery.md) — Vector insertion.
+- [Gene Dosage](gene-dosage.md) — Copy number effect.
+- [Gene Duplication](gene-duplication.md) — Copy event.
+- [Gene Editing](gene-editing.md) — CRISPR modification.
+- [Gene Expression](gene-expression.md) — Transcription/translation.
+- [Gene Family](gene-family.md) — Related genes.
+- [Gene Library](gene-library.md) — Clone collection.
+- [Gene Silencing](gene-silencing.md) — Expression block.
+- [Gene Therapy](gene-therapy.md) — Disease gene fix.
+- [Gene Trap](gene-trap.md) — Insertional mutagenesis.
+- [Genealogy](genealogy.md) — Ancestry study.
+- [General Transcription Factor](general-transcription-factor.md) — RNA pol recruiter.
+- [Genetic Code](genetic-code.md) — Codon-amino mapping.
+- [Genetic Counseling](genetic-counseling.md) — Risk advice.
+- [Genetic Drift](genetic-drift.md) — Random change.
+- [Genetic Engineering](genetic-engineering.md) — DNA manipulation.
+- [Genetic Marker](genetic-marker.md) — Linked variation.
+- [Genetic Screening](genetic-screening.md) — Risk detection.
+- [Genome](genome.md) — Organism DNA.
+- [Genome Assembly](genome-assembly.md) — Sequence join.
+- [Genome Editing](genome-editing.md) — Precise change.
+- [Genome Sequencing](genome-sequencing.md) — Full read.
+- [Genomic Library](genomic-library.md) — Fragment collection.
+- [Genomics](genomics.md) — Genome study.
+- [Genotype](genotype.md) — Allele set.
+- [GFP (Green Fluorescent Protein)](gfp-green-fluorescent-protein.md) — Reporter.
+- [Ghost Peak](ghost-peak.md) — Chromatography artifact.
+- [Giant Magnetoresistance](giant-magnetoresistance.md) — Sensor tech.
+- [Gilbert's Syndrome](gilberts-syndrome.md) — Bilirubin disorder.
+- [Glycoprotein](glycoprotein.md) — Sugar-protein.
+- [Glycosylation](glycosylation.md) — Sugar addition.
+- [GM-CSF](gm-csf.md) — Growth factor.
+- [GMO](gmo.md) — Genetically modified organism.
+- [Golgi Apparatus](golgi-apparatus.md) — Protein modifier.
+- [Graft-Versus-Host Disease](graft-versus-host-disease.md) — Transplant reaction.
+- [Gram Stain](gram-stain.md) — Bacteria classification.
+- [Granulocyte](granulocyte.md) — White blood cell.
+- [Green Chemistry](green-chemistry.md) — Sustainable synthesis.
+- [Green Fluorescent Protein (GFP)](green-fluorescent-protein-gfp.md) — Bioluminescent tag.
+- [Growth Cone](growth-cone.md) — Axon tip.
+- [Growth Factor](growth-factor.md) — Mitogen.
+- [GTPase](gtpase.md) — GTP hydrolase.
+- [Guanylate Cyclase](guanylate-cyclase.md) — cGMP producer.
+- [Guide RNA](guide-rna.md) — CRISPR director.
+- [Guillain-Barré Syndrome](guillain-barre-syndrome.md) — Autoimmune neuropathy.
+- [Gutta-Percha](gutta-percha.md) — Tree resin.
+- [GWAS](gwas.md) — Genome-wide association study.
+- [HH2B](hh2b.md) — Histone.
+- [H5N1](h5n1.md) — Avian flu.
+- [Hairy Root](hairy-root.md) — Agrobacterium culture.
+- [Half-Life](half-life.md) — Decay time.
+- [Hamiltonian](hamiltonian.md) — Energy operator.
+- [Haploid](haploid.md) — One chromosome set.
+- [Haploinsufficiency](haploinsufficiency.md) — Single copy insufficient.
+- [Haplotype](haplotype.md) — Linked alleles.
+- [Hardy-Weinberg Equilibrium](hardy-weinberg-equilibrium.md) — No evolution population.
+- [Hashimoto's Thyroiditis](hashimotos-thyroiditis.md) — Autoimmune thyroid.
+- [HAT (Histone Acetyltransferase)](hat-histone-acetyltransferase.md) — Acetyl adder.
+- [HAT Medium](hat-medium.md) — Cell selection.
+- [HDAC](hdac.md) — Histone deacetylase.
+- [Heat Shock Protein](heat-shock-protein.md) — Stress protector.
+- [Helicase](helicase.md) — Strand separator.
+- [Helix-Turn-Helix](helix-turn-helix.md) — DNA-binding motif.
+- [Helper T Cell](helper-t-cell.md) — Coordinator.
+- [Hemagglutinin](hemagglutinin.md) — Viral attachment.
+- [Hematopoiesis](hematopoiesis.md) — Blood cell formation.
+- [Hemoglobin](hemoglobin.md) — Oxygen carrier.
+- [Hemophilia](hemophilia.md) — Clotting defect.
+- [Heparin](heparin.md) — Anticoagulant.
+- [Hepatitis B](hepatitis-b.md) — Liver virus.
+- [Hepatocyte](hepatocyte.md) — Liver cell.
+- [Herceptin](herceptin.md) — Breast cancer antibody.
+- [Heredity](heredity.md) — Trait transmission.
+- [Heteroduplex](heteroduplex.md) — Mismatched strands.
+- [Heterokaryon](heterokaryon.md) — Mixed nuclei.
+- [Heterologous Expression](heterologous-expression.md) — Foreign host production.
+- [Heterozygote](heterozygote.md) — Different alleles.
+- [Hexokinase](hexokinase.md) — Glucose phosphorylator.
+- [Hi-C](hi-c.md) — Chromosome conformation.
+- [HIF](hif.md) — Hypoxia factor.
+- [High-Throughput Screening](high-throughput-screening.md) — Mass assay.
+- [Hinge Region](hinge-region.md) — Antibody flexible.
+- [Histamine](histamine.md) — Allergic mediator.
+- [Histone](histone.md) — DNA packer.
+- [Histone Code](histone-code.md) — Modification language.
+- [HIV](hiv.md) — Human immunodeficiency virus.
+- [HLA](hla.md) — Human leukocyte antigen.
+- [Hodgkin's Lymphoma](hodgkins-lymphoma.md) — Lymph node cancer.
+- [Homeobox](homeobox.md) — Development gene.
+- [Homeostasis](homeostasis.md) — Internal balance.
+- [Homologous Recombination](homologous-recombination.md) — Similar sequence repair.
+- [Homology Modeling](homology-modeling.md) — Structure prediction.
+- [Homozygote](homozygote.md) — Same alleles.
+- [Hormone](hormone.md) — Signaling molecule.
+- [Hormone Replacement Therapy](hormone-replacement-therapy.md) — Deficiency supplement.
+- [Host](host.md) — Organism with parasite.
+- [Hot Spot](hot-spot.md) — Mutation prone.
+- [HPLC](hplc.md) — High-performance liquid chromatography.
+- [HRP](hrp.md) — Horseradish peroxidase.
+- [HSV](hsv.md) — Herpes simplex virus.
+- [Human Genome Project](human-genome-project.md) — Sequencing effort.
+- [Humanized Antibody](humanized-antibody.md) — Chimeric therapeutic.
+- [Humoral Immunity](humoral-immunity.md) — Antibody response.
+- [Hunter Syndrome](hunter-syndrome.md) — Mucopolysaccharidosis.
+- [Hybridization](hybridization.md) — Probe binding.
+- [Hybridoma](hybridoma.md) — Antibody factory.
+- [Hydrolase](hydrolase.md) — Water-using enzyme.
+- [Hydrolysis](hydrolysis.md) — Bond water break.
+- [Hydrophilic](hydrophilic.md) — Water-loving.
+- [Hydrophobic](hydrophobic.md) — Water-fearing.
+- [Hydroxyapatite](hydroxyapatite.md) — Bone mineral.
+- [Hyperchromicity](hyperchromicity.md) — DNA melting shift.
+- [Hypermutation](hypermutation.md) — Somatic change.
+- [Hypersensitivity](hypersensitivity.md) — Over reaction.
+- [Hypertension](hypertension.md) — High blood pressure.
+- [Hypothalamus](hypothalamus.md) — Homeostasis regulator.
+- [Hypoxia](hypoxia.md) — Low oxygen.
+- [IiPSC](iipsc.md) — Induced pluripotent stem cell.
+- [IAA](iaa.md) — Indole acetic acid.
+- [IC50](ic50.md) — Half inhibition.
+- [Ice Nucleation](ice-nucleation.md) — Bacterial protein.
+- [IDH](idh.md) — Isocitrate dehydrogenase.
+- [IgA](iga.md) — Mucosal antibody.
+- [IgD](igd.md) — B cell receptor.
+- [IgE](ige.md) — Allergic antibody.
+- [IgG](igg.md) — Main serum antibody.
+- [IgM](igm.md) — First response antibody.
+- [ImageJ](imagej.md) — Analysis software.
+- [Immobilized Metal Affinity Chromatography (IMAC)](immobilized-metal-affinity-chromatography-imac.md) — His-tag purification.
+- [Immune Checkpoint](immune-checkpoint.md) — T cell brake.
+- [Immune Complex](immune-complex.md) — Antigen-antibody.
+- [Immune Tolerance](immune-tolerance.md) — Self non-reaction.
+- [Immunity](immunity.md) — Disease resistance.
+- [Immunoaffinity](immunoaffinity.md) — Antibody purification.
+- [Immunoassay](immunoassay.md) — Detection method.
+- [Immunoblot](immunoblot.md) — Protein transfer.
+- [Immunoconjugate](immunoconjugate.md) — Antibody-drug.
+- [Immunofluorescence](immunofluorescence.md) — Fluorescent antibody.
+- [Immunogen](immunogen.md) — Response inducer.
+- [Immunoglobulin](immunoglobulin.md) — Antibody class.
+- [Immunohistochemistry](immunohistochemistry.md) — Tissue stain.
+- [Immunomodulator](immunomodulator.md) — Immune adjuster.
+- [Immunoprecipitation](immunoprecipitation.md) — Complex pull-down.
+- [Immunosuppressant](immunosuppressant.md) — Immune suppressor.
+- [Implantation](implantation.md) — Embryo attachment.
+- [In Silico](in-silico.md) — Computational.
+- [In Situ](in-situ.md) — Original place.
+- [In Vitro](in-vitro.md) — Glass test tube.
+- [In Vivo](in-vivo.md) — Living organism.
+- [Inclusion Body](inclusion-body.md) — Protein aggregate.
+- [Indel](indel.md) — Insertion/deletion mutation.
+- [Indole](indole.md) — Tryptophan derivative.
+- [Induced Fit](induced-fit.md) — Enzyme conformation change.
+- [Inducer](inducer.md) — Repressor deactivator.
+- [Induction](induction.md) — Signal response.
+- [Inflammation](inflammation.md) — Immune response.
+- [Inflammatory Bowel Disease](inflammatory-bowel-disease.md) — Gut chronic.
+- [Influenza](influenza.md) — Flu virus.
+- [Informed Consent](informed-consent.md) — Voluntary agreement.
+- [Inhibin](inhibin.md) — FSH inhibitor.
+- [Inhibitor](inhibitor.md) — Reaction blocker.
+- [Initiation Codon](initiation-codon.md) — AUG start.
+- [Initiation Factor](initiation-factor.md) — Translation starter.
+- [Insertion Sequence](insertion-sequence.md) — Mobile element.
+- [Insulin](insulin.md) — Blood sugar regulator.
+- [Insulin-Like Growth Factor](insulin-like-growth-factor.md) — Growth promoter.
+- [Integrase](integrase.md) — Virus DNA inserter.
+- [Integrated Pest Management](integrated-pest-management.md) — Eco control.
+- [Interferon](interferon.md) — Antiviral cytokine.
+- [Interleukin](interleukin.md) — Immune cytokine.
+- [Internal Transcribed Spacer](internal-transcribed-spacer.md) — rRNA spacer.
+- [Interphase](interphase.md) — Non-division cycle.
+- [Intracellular](intracellular.md) — Inside cell.
+- [Intron](intron.md) — Non-coding sequence.
+- [Invasive Species](invasive-species.md) — Harmful non-native.
+- [Inverted Repeat](inverted-repeat.md) — Palindromic sequence.
+- [Ion Channel](ion-channel.md) — Ion pore.
+- [Ion Exchange Chromatography](ion-exchange-chromatography.md) — Charge separation.
+- [Ion Torrent](ion-torrent.md) — Sequencing by pH.
+- [IP3](ip3.md) — Second messenger.
+- [IPSP](ipsp.md) — Inhibitory potential.
+- [Irisin](irisin.md) — Exercise hormone.
+- [Ischemia](ischemia.md) — Oxygen lack.
+- [Isoelectric Focusing](isoelectric-focusing.md) — pI separation.
+- [Isoenzyme](isoenzyme.md) — Same function variant.
+- [Isoform](isoform.md) — Protein variant.
+- [Isograft](isograft.md) — Identical twin graft.
+- [Isolator](isolator.md) — Containment device.
+- [Isothermal Amplification](isothermal-amplification.md) — Constant temp PCR.
+- [Isotope](isotope.md) — Same proton different neutron.
+- [Isotopomer](isotopomer.md) — Isotope position.
+- [Iteron](iteron.md) — Replication origin.
+- [JJ Chain](jj-chain.md) — IgM/IgA linker.
+- [JAK-STAT](jak-stat.md) — Cytokine signaling.
+- [Jansen Metaphyseal Chondrodysplasia](jansen-metaphyseal-chondrodysplasia.md) — PTH1R mutation.
+- [Janus Kinase](janus-kinase.md) — Cytokine receptor.
+- [Jellyfish GFP](jellyfish-gfp.md) — Aequorea victoria source.
+- [JNK](jnk.md) — Stress kinase.
+- [Jobling](jobling.md) — No term, skip.
+- [Joint Attention](joint-attention.md) — Shared focus.
+- [Jumping Gene](jumping-gene.md) — Transposon.
+- [Junk DNA](junk-dna.md) — Non-coding.
+- [KK-Channel](kk-channel.md) — Potassium channel.
+- [K-12](k-12.md) — E. coli lab strain.
+- [Kappa Chain](kappa-chain.md) — Light chain.
+- [Karyotype](karyotype.md) — Chromosome picture.
+- [KDEL](kdel.md) — ER retention signal.
+- [Keratoconjunctivitis](keratoconjunctivitis.md) — Eye inflammation.
+- [Ketone](ketone.md) — Metabolic fuel.
+- [Keystone Species](keystone-species.md) — Ecosystem key.
+- [Khorana](khorana.md) — Code cracker.
+- [Kidney Stone](kidney-stone.md) — Calcium deposit.
+- [Killer T Cell](killer-t-cell.md) — Cytotoxic lymphocyte.
+- [Kinetochore](kinetochore.md) — Chromosome attachment.
+- [Kinetic Energy](kinetic-energy.md) — Motion energy.
+- [Kinesin](kinesin.md) — Microtubule motor.
+- [Kinome](kinome.md) — Kinase family.
+- [Kirby-Bauer](kirby-bauer.md) — Disk diffusion test.
+- [Klebsiella](klebsiella.md) — Opportunistic pathogen.
+- [Knockdown](knockdown.md) — RNAi reduction.
+- [Knockin](knockin.md) — Insert mutation.
+- [Knockout](knockout.md) — Gene disable.
+- [Koch's Postulates](kochs-postulates.md) — Causation proof.
+- [Krabbe Disease](krabbe-disease.md) — Galactocerebrosidase defect.
+- [Krebs Cycle](krebs-cycle.md) — Citric acid cycle.
+- [Kruppel](kruppel.md) — Gap gene.
+- [Kymograph](kymograph.md) — Motion record.
+- [Kyoto Encyclopedia of Genes and Genomes (KEGG)](kyoto-encyclopedia-of-genes-and-genomes-kegg.md) — Pathway database.
+- [LLambda Phage](llambda-phage.md) — E. coli virus.
+- [Laminaria](laminaria.md) — Seaweed abortifacient.
+- [Laminin](laminin.md) — Basement membrane.
+- [LAMP](lamp.md) — Loop amplification.
+- [Langerhans Cell](langerhans-cell.md) — Skin antigen presenter.
+- [Laparoscopy](laparoscopy.md) — Minimally invasive surgery.
+- [Large Granular Lymphocyte](large-granular-lymphocyte.md) — NK cell.
+- [Laser Capture Microdissection](laser-capture-microdissection.md) — Cell isolation.
+- [Latency](latency.md) — Virus dormant.
+- [Lateral Flow Assay](lateral-flow-assay.md) — Strip test.
+- [Latex Agglutination](latex-agglutination.md) — Particle clumping.
+- [LC-MS](lc-ms.md) — Liquid chromatography-mass spec.
+- [LD50](ld50.md) — Lethal dose half.
+- [Leading Edge](leading-edge.md) — Migration front.
+- [Leading Strand](leading-strand.md) — Continuous replication.
+- [Lectins](lectins.md) — Sugar binder.
+- [Leishmania](leishmania.md) — Parasite.
+- [Lentivirus](lentivirus.md) — Retroviral vector.
+- [Leptin](leptin.md) — Appetite regulator.
+- [Lesch-Nyhan Syndrome](lesch-nyhan-syndrome.md) — Purine disorder.
+- [Lethal Equivalent](lethal-equivalent.md) — Mutation load.
+- [Leucine Zipper](leucine-zipper.md) — Dimerization motif.
+- [Leukemia](leukemia.md) — Blood cancer.
+- [Leukotriene](leukotriene.md) — Inflammatory lipid.
+- [Lichen](lichen.md) — Symbiotic organism.
+- [Ligation](ligation.md) — DNA join.
+- [Ligase](ligase.md) — Joining enzyme.
+- [Light Chain](light-chain.md) — Antibody part.
+- [Lignin](lignin.md) — Plant wall polymer.
+- [Limulus Amebocyte Lysate](limulus-amebocyte-lysate.md) — Endotoxin test.
+- [Linkage Disequilibrium](linkage-disequilibrium.md) — Non-random alleles.
+- [Lipase](lipase.md) — Fat digester.
+- [Lipid Raft](lipid-raft.md) — Membrane domain.
+- [Lipofection](lipofection.md) — Lipid delivery.
+- [Lipopolysaccharide (LPS)](lipopolysaccharide-lps.md) — Bacterial endotoxin.
+- [Liposome](liposome.md) — Lipid vesicle.
+- [Liquid Crystal Display (LCD)](liquid-crystal-display-lcd.md) — Screen tech.
+- [Liquid Handling Robot](liquid-handling-robot.md) — Pipetting automation.
+- [Listeria](listeria.md) — Foodborne bacterium.
+- [Liver X Receptor](liver-x-receptor.md) — Cholesterol regulator.
+- [LMNA](lmna.md) — Lamin gene.
+- [LOH](loh.md) — Loss of heterozygosity.
+- [Long Non-Coding RNA (lncRNA)](long-non-coding-rna-lncrna.md) — Regulatory RNA.
+- [Loop-Mediated Isothermal Amplification (LAMP)](loop-mediated-isothermal-amplification-lamp.md) — Constant temp amplification.
+- [Lumen](lumen.md) — Vessel interior.
+- [Lung Surfactant](lung-surfactant.md) — Breathing aid.
+- [Luteinizing Hormone](luteinizing-hormone.md) — Ovulation trigger.
+- [Lymph Node](lymph-node.md) — Immune filter.
+- [Lymphocyte](lymphocyte.md) — Immune cell.
+- [Lymphoma](lymphoma.md) — Lymph cancer.
+- [Lyophilization](lyophilization.md) — Freeze-drying.
+- [Lysate](lysate.md) — Cell content.
+- [Lysosome](lysosome.md) — Digestion organelle.
+- [Lysozyme](lysozyme.md) — Bacterial wall enzyme.
+- [MM Phase](mm-phase.md) — Mitosis.
+- [M Protein](m-protein.md) — Multiple myeloma marker.
+- [M13 Phage](m13-phage.md) — Filamentous vector.
+- [MAGE](mage.md) — Multiplex automated editing.
+- [Magnetic Resonance Imaging (MRI)](magnetic-resonance-imaging-mri.md) — Magnetic brain scan.
+- [Major Histocompatibility Complex (MHC)](major-histocompatibility-complex-mhc.md) — Antigen presenter.
+- [Malaria](malaria.md) — Plasmodium disease.
+- [Maltose](maltose.md) — Disaccharide.
+- [Mammalian Target of Rapamycin (mTOR)](mammalian-target-of-rapamycin-mtor.md) — Growth regulator.
+- [Manganese](manganese.md) — Cofactor.
+- [MAPK](mapk.md) — Mitogen-activated kinase.
+- [Marker Gene](marker-gene.md) — Selectable trait.
+- [Mass Spectrometry](mass-spectrometry.md) — Molecule mass.
+- [Mast Cell](mast-cell.md) — Allergic mediator.
+- [Matrix Metalloproteinase](matrix-metalloproteinase.md) — ECM remodeler.
+- [Maxam-Gilbert Sequencing](maxam-gilbert-sequencing.md) — Chemical cleavage.
+- [Mean](mean.md) — Average.
+- [Measles](measles.md) — Paramyxovirus.
+- [Median](median.md) — Middle value.
+- [Mediator Complex](mediator-complex.md) — Transcription coactivator.
+- [Medium](medium.md) — Culture nutrient.
+- [Meiosis](meiosis.md) — Gamete formation.
+- [Melanin](melanin.md) — Pigment.
+- [Melting Curve](melting-curve.md) — PCR product analysis.
+- [Membrane Potential](membrane-potential.md) — Charge difference.
+- [Membrane Protein](membrane-protein.md) — Embedded protein.
+- [Memory B Cell](memory-b-cell.md) — Long-lived antibody.
+- [Memory T Cell](memory-t-cell.md) — Recall response.
+- [Mendelian Inheritance](mendelian-inheritance.md) — Single gene trait.
+- [Menten Equation](menten-equation.md) — Enzyme kinetics.
+- [Mesenchymal Stem Cell](mesenchymal-stem-cell.md) — Multipotent stromal.
+- [Messenger RNA (mRNA)](messenger-rna-mrna.md) — Protein code.
+- [Metabolic Engineering](metabolic-engineering.md) — Pathway redesign.
+- [Metabolite](metabolite.md) — Small molecule.
+- [Metabolomics](metabolomics.md) — Metabolome study.
+- [Metagenomics](metagenomics.md) — Community genome.
+- [Metalloprotein](metalloprotein.md) — Metal protein.
+- [Metastasis](metastasis.md) — Cancer spread.
+- [Methicillin-Resistant Staphylococcus Aureus (MRSA)](methicillin-resistant-staphylococcus-aureus-mrsa.md) — Resistant bacterium.
+- [Methylation](methylation.md) — Epigenetic addition.
+- [MHC Class I/II](mhc-class-i-ii.md) — Antigen types.
+- [Michaelis Constant](michaelis-constant.md) — Substrate affinity.
+- [Microarray](microarray.md) — High-density probe.
+- [Microbiome](microbiome.md) — Microbial community.
+- [Microcephaly](microcephaly.md) — Small head.
+- [Microfilament](microfilament.md) — Actin fiber.
+- [Microfluidics](microfluidics.md) — Small fluid manipulation.
+- [Microinjection](microinjection.md) — Needle delivery.
+- [Microorganism](microorganism.md) — Tiny organism.
+- [MicroRNA (miRNA)](microrna-mirna.md) — Regulatory small RNA.
+- [Microsatellites](microsatellites.md) — Repeat markers.
+- [Microtubule](microtubule.md) — Tubulin polymer.
+- [Migration](migration.md) — Cell movement.
+- [Minichromosome](minichromosome.md) — Small chromosome.
+- [Minigene](minigene.md) — Small gene construct.
+- [Mismatch Repair](mismatch-repair.md) — Error correction.
+- [Missense Mutation](missense-mutation.md) — Amino acid change.
+- [Mitochondria](mitochondria.md) — Energy organelle.
+- [Mitogen](mitogen.md) — Cell divider.
+- [Mitosis](mitosis.md) — Cell division.
+- [Mixed Lineage Kinase](mixed-lineage-kinase.md) — Stress sensor.
+- [Mobile Genetic Element](mobile-genetic-element.md) — Transposon.
+- [Mode](mode.md) — Most frequent.
+- [Model Organism](model-organism.md) — Research subject.
+- [Modifier Gene](modifier-gene.md) — Effect alterer.
+- [Molecular Beacon](molecular-beacon.md) — Probe quencher.
+- [Molecular Biology](molecular-biology.md) — Macromolecule study.
+- [Molecular Cloning](molecular-cloning.md) — DNA insert.
+- [Molecular Dynamics](molecular-dynamics.md) — Atom simulation.
+- [Molecular Marker](molecular-marker.md) — Genetic tag.
+- [Molecular Modeling](molecular-modeling.md) — Structure prediction.
+- [Molecular Pharming](molecular-pharming.md) — Therapeutic plant production.
+- [Monoclonal Antibody](monoclonal-antibody.md) — Single clone.
+- [Monocyte](monocyte.md) — Immune precursor.
+- [Monogenic](monogenic.md) — Single gene.
+- [Monosaccharide](monosaccharide.md) — Simple sugar.
+- [Morphogen](morphogen.md) — Gradient signal.
+- [Morpholino](morpholino.md) — Antisense oligo.
+- [Mosquito Vector](mosquito-vector.md) — Disease carrier.
+- [Motif](motif.md) — Sequence pattern.
+- [Motor Cortex](motor-cortex.md) — Movement control.
+- [Motor Neuron](motor-neuron.md) — Muscle signaler.
+- [mRNA Display](mrna-display.md) — In vitro selection.
+- [mRNA Vaccine](mrna-vaccine.md) — RNA instruction.
+- [MSH](msh.md) — Melanocyte hormone.
+- [MSI](msi.md) — Microsatellite instability.
+- [MTase](mtase.md) — Methyltransferase.
+- [Mucopolysaccharide](mucopolysaccharide.md) — Glycosaminoglycan.
+- [Multidrug Resistance](multidrug-resistance.md) — Multiple drug tolerance.
+- [Multiplex PCR](multiplex-pcr.md) — Multiple target amplification.
+- [Mutation](mutation.md) — Sequence change.
+- [Mutagenesis](mutagenesis.md) — Induced change.
+- [Mutualism](mutualism.md) — Beneficial symbiosis.
+- [Myelin](myelin.md) — Axon insulator.
+- [Myelination](myelination.md) — Sheath formation.
+- [Myeloma](myeloma.md) — Plasma cell cancer.
+- [Myosin](myosin.md) — Muscle protein.
+- [Mysterious Dark Matter](mysterious-dark-matter.md) — Biotech unknown.
+- [Myxoma Virus](myxoma-virus.md) — Rabbit poxvirus.
+- [NN-Glycosylation](nn-glycosylation.md) — Asparagine sugar.
+- [N-Terminus](n-terminus.md) — Protein end.
+- [NAC (N-Acetylcysteine)](nac-n-acetylcysteine.md) — Antioxidant.
+- [NAD](nad.md) — Coenzyme.
+- [Nano](nano.md) — 10⁻⁹ scale.
+- [Nanobiotechnology](nanobiotechnology.md) — Nano-biotech.
+- [Nanoparticle](nanoparticle.md) — Small particle.
+- [Nanopore Sequencing](nanopore-sequencing.md) — Pore read.
+- [Nanosensor](nanosensor.md) — Nano detector.
+- [Nasal Cavity](nasal-cavity.md) — Smell area.
+- [Natural Killer Cell](natural-killer-cell.md) — Innate killer.
+- [Necrosis](necrosis.md) — Uncontrolled death.
+- [Negative Control](negative-control.md) — No treatment.
+- [Negative Feedback](negative-feedback.md) — Self-regulation.
+- [Negative Staining](negative-staining.md) — Electron microscopy.
+- [Neomycin](neomycin.md) — Aminoglycoside antibiotic.
+- [Neonatal](neonatal.md) — Newborn.
+- [Neoplasm](neoplasm.md) — New growth.
+- [Neprilysin](neprilysin.md) — Amyloid degrader.
+- [Nernst Equation](nernst-equation.md) — Potential calculation.
+- [Nervous System](nervous-system.md) — Neural network.
+- [Neural Crest](neural-crest.md) — Development cell.
+- [Neural Network](neural-network.md) — Neuron model.
+- [Neural Prosthesis](neural-prosthesis.md) — Device replacement.
+- [Neural Stem Cell](neural-stem-cell.md) — CNS progenitor.
+- [Neural Tube](neural-tube.md) — CNS precursor.
+- [Neurexin](neurexin.md) — Synapse organizer.
+- [Neurodegeneration](neurodegeneration.md) — Neuron loss.
+- [Neurofibrillary Tangle](neurofibrillary-tangle.md) — Tau aggregate.
+- [Neurogenesis](neurogenesis.md) — New neuron.
+- [Neuroimaging](neuroimaging.md) — Brain scan.
+- [Neuroinformatics](neuroinformatics.md) — Neural data.
+- [Neurointerface](neurointerface.md) — Brain-device.
+- [Neuroplasticity](neuroplasticity.md) — Brain adapt.
+- [Neuropilin](neuropilin.md) — VEGF receptor.
+- [Neuroscience](neuroscience.md) — Nervous system study.
+- [Neurotechnology](neurotechnology.md) — Neural tech.
+- [Neurotransmitter](neurotransmitter.md) — Synapse chemical.
+- [Neutral Mutation](neutral-mutation.md) — No effect.
+- [Neutron](neutron.md) — Uncharged particle.
+- [New Drug Application (NDA)](new-drug-application-nda.md) — Approval request.
+- [Nicotinamide](nicotinamide.md) — NAD precursor.
+- [Nicking Enzyme](nicking-enzyme.md) — Single strand cut.
+- [Nicotinic Receptor](nicotinic-receptor.md) — Ion channel.
+- [Nihilism](nihilism.md) — No meaning.
+- [Nitric Oxide](nitric-oxide.md) — Vasodilator.
+- [Nitrocellulose](nitrocellulose.md) — Blot membrane.
+- [NMR](nmr.md) — Nuclear magnetic resonance.
+- [No-Cloning Theorem](no-cloning-theorem.md) — State copy impossible.
+- [Node of Ranvier](node-of-ranvier.md) — Myelin gap.
+- [Non-Coding RNA](non-coding-rna.md) — Regulatory RNA.
+- [Non-Competitive Inhibition](non-competitive-inhibition.md) — Allosteric block.
+- [Non-Covalent Bond](non-covalent-bond.md) — Weak interaction.
+- [Non-Deterministic](non-deterministic.md) — Unpredictable.
+- [Non-Hodgkin's Lymphoma](non-hodgkins-lymphoma.md) — Lymph cancer.
+- [Non-Ribosomal Peptide](non-ribosomal-peptide.md) — Enzyme-synthesized.
+- [Northern Blot](northern-blot.md) — RNA detection.
+- [Notch Signaling](notch-signaling.md) — Development pathway.
+- [Nuclease](nuclease.md) — Nucleic acid cutter.
+- [Nucleic Acid](nucleic-acid.md) — DNA/RNA.
+- [Nucleolus](nucleolus.md) — rRNA site.
+- [Nucleophile](nucleophile.md) — Electron donor.
+- [Nucleoside](nucleoside.md) — Base-sugar.
+- [Nucleotide](nucleotide.md) — Base-sugar-phosphate.
+- [Nucleus](nucleus.md) — Control center.
+- [Null Hypothesis](null-hypothesis.md) — No effect.
+- [Nutrient](nutrient.md) — Growth requirement.
+- [Nutrigenomics](nutrigenomics.md) — Diet-gene interaction.
+- [Nylon Membrane](nylon-membrane.md) — Blot support.
+- [OO-Glycosylation](oo-glycosylation.md) — Serine sugar.
+- [Oligo(dT)](oligo-dt.md) — Poly A primer.
+- [Oligonucleotide](oligonucleotide.md) — Short DNA/RNA.
+- [Omics](omics.md) — High-throughput study.
+- [Oncogene](oncogene.md) — Cancer gene.
+- [Oncogenic Virus](oncogenic-virus.md) — Tumor causer.
+- [One-Hybrid](one-hybrid.md) — Protein-DNA interaction.
+- [Open Reading Frame (ORF)](open-reading-frame-orf.md) — Coding sequence.
+- [Operon](operon.md) — Bacterial gene cluster.
+- [Opioid](opioid.md) — Pain reliever.
+- [Optogenetics](optogenetics.md) — Light neuron control.
+- [Organelle](organelle.md) — Cell compartment.
+- [Organoid](organoid.md) — Mini-organ.
+- [Origin of Replication](origin-of-replication.md) — Copy start.
+- [Ornithine](ornithine.md) — Amino intermediate.
+- [Ortholog](ortholog.md) — Functional homolog.
+- [Osmosis](osmosis.md) — Water diffusion.
+- [Osteoblast](osteoblast.md) — Bone builder.
+- [Osteoclast](osteoclast.md) — Bone breaker.
+- [Osteogenesis Imperfecta](osteogenesis-imperfecta.md) — Collagen defect.
+- [Outcrossing](outcrossing.md) — Hybrid breeding.
+- [Overdominance](overdominance.md) — Heterozygote advantage.
+- [Overexpression](overexpression.md) — High gene product.
+- [Oxidase](oxidase.md) — Oxygen user.
+- [Oxidative Phosphorylation](oxidative-phosphorylation.md) — ATP producer.
+- [Oxygenase](oxygenase.md) — Oxygen inserter.
+- [Ozone Layer](ozone-layer.md) — UV protector.
+- [PP Element](pp-element.md) — Drosophila transposon.
+- [P53](p53.md) — Tumor suppressor.
+- [P53 Gene](p53-gene.md) — Guardian of genome.
+- [PAGE](page.md) — Polyacrylamide gel electrophoresis.
+- [Pair Production](pair-production.md) — Photon to pair.
+- [Palindromic Sequence](palindromic-sequence.md) — Symmetric DNA.
+- [Pandemic](pandemic.md) — Global epidemic.
+- [Pancreas](pancreas.md) — Insulin gland.
+- [Pangenome](pangenome.md) — Species gene set.
+- [Paracrine](paracrine.md) — Local signaling.
+- [Paraffin](paraffin.md) — Wax embed.
+- [Paralogs](paralogs.md) — Duplicate genes.
+- [Paraplegia](paraplegia.md) — Leg paralysis.
+- [Parasite](parasite.md) — Host exploiter.
+- [Paratope](paratope.md) — Antibody site.
+- [Parkinson's Disease](parkinsons-disease.md) — Dopamine loss.
+- [Parsimony](parsimony.md) — Simple explanation.
+- [Partial Pressure](partial-pressure.md) — Gas component.
+- [Passive Immunity](passive-immunity.md) — Antibody transfer.
+- [Patch Clamp](patch-clamp.md) — Ion channel record.
+- [Pathogen](pathogen.md) — Disease causer.
+- [Pathway Analysis](pathway-analysis.md) — Network study.
+- [PCR](pcr.md) — Polymerase chain reaction.
+- [PD-1](pd-1.md) — Checkpoint inhibitor.
+- [PDMS](pdms.md) — Silicone polymer.
+- [PEG](peg.md) — Polyethylene glycol.
+- [Penicillin](penicillin.md) — Beta-lactam antibiotic.
+- [Pentose Phosphate Pathway](pentose-phosphate-pathway.md) — NADPH producer.
+- [Pepsin](pepsin.md) — Stomach protease.
+- [Peptide](peptide.md) — Short protein.
+- [Peptide Bond](peptide-bond.md) — Amino link.
+- [Peptidoglycan](peptidoglycan.md) — Bacterial wall.
+- [Peptidyl Transferase](peptidyl-transferase.md) — Ribosome site.
+- [Percolation](percolation.md) — Fluid flow.
+- [Perfusion](perfusion.md) — Tissue blood flow.
+- [Periplasm](periplasm.md) — Bacterial space.
+- [Permease](permease.md) — Transporter.
+- [Personalized Medicine](personalized-medicine.md) — Individual treatment.
+- [Pervanadate](pervanadate.md) — Tyrosine phosphatase inhibitor.
+- [Pesticide](pesticide.md) — Pest killer.
+- [PFGE](pfge.md) — Pulsed field gel.
+- [pH](ph.md) — Acidity measure.
+- [Phage Display](phage-display.md) — Peptide library.
+- [Phage Lambda](phage-lambda.md) — Cloning vector.
+- [Phagocyte](phagocyte.md) — Engulfer.
+- [Phagocytosis](phagocytosis.md) — Particle intake.
+- [Pharmacogenomics](pharmacogenomics.md) — Drug-gene interaction.
+- [Phase Contrast Microscopy](phase-contrast-microscopy.md) — Unstained view.
+- [Phase Variation](phase-variation.md) — Expression switch.
+- [Phenotype](phenotype.md) — Observable trait.
+- [Phenylalanine](phenylalanine.md) — Amino acid.
+- [Phenylketonuria (PKU)](phenylketonuria-pku.md) — Metabolic disorder.
+- [Pheromone](pheromone.md) — Chemical signal.
+- [Phosphatase](phosphatase.md) — Phosphate remover.
+- [Phosphodiester Bond](phosphodiester-bond.md) — DNA backbone.
+- [Phosphoinositide](phosphoinositide.md) — Signaling lipid.
+- [Phospholipase](phospholipase.md) — Lipid cutter.
+- [Phosphoramidite](phosphoramidite.md) — Synthesis monomer.
+- [Phosphorylation](phosphorylation.md) — Phosphate addition.
+- [Photoactivation](photoactivation.md) — Light trigger.
+- [Photoaffinity Labeling](photoaffinity-labeling.md) — UV cross-link.
+- [Photoautotroph](photoautotroph.md) — Light carbon fixer.
+- [Photobioreactor](photobioreactor.md) — Algae grower.
+- [Photodynamic Therapy](photodynamic-therapy.md) — Light-activated drug.
+- [Photorespiration](photorespiration.md) — Oxygen fixation.
+- [Photosynthesis](photosynthesis.md) — Light energy conversion.
+- [Photosystem](photosystem.md) — Pigment complex.
+- [Phylogenetics](phylogenetics.md) — Evolution tree.
+- [Physical Map](physical-map.md) — Restriction site.
+- [Phytoalexin](phytoalexin.md) — Plant defense.
+- [Phytochrome](phytochrome.md) — Light sensor.
+- [PI3K](pi3k.md) — Lipid kinase.
+- [Pico](pico.md) — 10⁻¹².
+- [Pioneer Factor](pioneer-factor.md) — Chromatin opener.
+- [Pipeline](pipeline.md) — Process sequence.
+- [Plasmid](plasmid.md) — Circular DNA.
+- [Plasminogen Activator](plasminogen-activator.md) — Clot dissolver.
+- [Plastid](plastid.md) — Plant organelle.
+- [Platelet](platelet.md) — Clotting cell.
+- [Plating Efficiency](plating-efficiency.md) — Colony formation.
+- [Pleiotropy](pleiotropy.md) — Multi-effect gene.
+- [Ploidy](ploidy.md) — Chromosome set number.
+- [Pluripotent](pluripotent.md) — All cell types.
+- [Plus-End Tracking Protein](plus-end-tracking-protein.md) — Microtubule binder.
+- [PMF](pmf.md) — Proton motive force.
+- [Pneumococcus](pneumococcus.md) — Streptococcus pneumoniae.
+- [Point Mutation](point-mutation.md) — Single change.
+- [Polar Body](polar-body.md) — Oocyte discard.
+- [Polarity](polarity.md) — Charge separation.
+- [Polyclonal Antibody](polyclonal-antibody.md) — Mixed clone.
+- [Polygenic](polygenic.md) — Multi-gene trait.
+- [Polymerase](polymerase.md) — Nucleic acid synthesizer.
+- [Polymorphism](polymorphism.md) — Variant form.
+- [Polysaccharide](polysaccharide.md) — Sugar polymer.
+- [Polyunsaturated Fatty Acid](polyunsaturated-fatty-acid.md) — Multiple double bond.
+- [Population Genetics](population-genetics.md) — Allele frequency.
+- [Porin](porin.md) — Beta-barrel channel.
+- [Positive Control](positive-control.md) — Known effect.
+- [Post-Translational Modification](post-translational-modification.md) — Protein alter.
+- [Posterior](posterior.md) — Back/toward tail.
+- [Potassium Channel](potassium-channel.md) — K⁺ pore.
+- [Potential Energy](potential-energy.md) — Stored.
+- [PPAR](ppar.md) — Nuclear receptor.
+- [Prebiotic](prebiotic.md) — Non-digestible food.
+- [Pre-mRNA](pre-mrna.md) — Intron-containing.
+- [Prenatal Diagnosis](prenatal-diagnosis.md) — Fetus test.
+- [Presenilin](presenilin.md) — Alzheimer protease.
+- [Primer](primer.md) — Synthesis starter.
+- [Primordial Soup](primordial-soup.md) — Origin hypothesis.
+- [Probe](probe.md) — Sequence detector.
+- [Probiotic](probiotic.md) — Beneficial microbe.
+- [Processivity](processivity.md) — Enzyme steps.
+- [Prodrug](prodrug.md) — Activated form.
+- [Productivity](productivity.md) — Yield measure.
+- [Progesterone](progesterone.md) — Pregnancy hormone.
+- [Prokaryote](prokaryote.md) — No nucleus.
+- [Promoter](promoter.md) — Transcription start.
+- [Proofreading](proofreading.md) — Error correction.
+- [Prophage](prophage.md) — Lysogenic phage.
+- [Prostaglandin](prostaglandin.md) — Inflammatory lipid.
+- [Protease](protease.md) — Protein cutter.
+- [Protease Inhibitor](protease-inhibitor.md) — Blockade.
+- [Proteasome](proteasome.md) — Degradation machine.
+- [Protein](protein.md) — Amino chain.
+- [Protein A](protein-a.md) — IgG binder.
+- [Protein Array](protein-array.md) — Interaction screen.
+- [Protein Crystallography](protein-crystallography.md) — Structure X-ray.
+- [Protein Domain](protein-domain.md) — Functional fold.
+- [Protein Engineering](protein-engineering.md) — Design alter.
+- [Protein Folding](protein-folding.md) — 3D formation.
+- [Protein Kinase](protein-kinase.md) — Phosphorylator.
+- [Protein Microarray](protein-microarray.md) — High-throughput assay.
+- [Protein Sequencing](protein-sequencing.md) — Amino order.
+- [Proteinopathy](proteinopathy.md) — Misfold disease.
+- [Proteomics](proteomics.md) — Protein study.
+- [Protist](protist.md) — Eukaryotic microbe.
+- [Proto-Oncogene](proto-oncogene.md) — Cancer potential.
+- [Protoplast](protoplast.md) — Wall-less cell.
+- [Protozoan](protozoan.md) — Animal-like protist.
+- [Provirus](provirus.md) — Integrated virus.
+- [Proximal](proximal.md) — Near end.
+- [Pseudogene](pseudogene.md) — Non-functional copy.
+- [Pseudomonas](pseudomonas.md) — Opportunistic pathogen.
+- [Pseudopodium](pseudopodium.md) — Temporary extension.
+- [Pulmonary Artery](pulmonary-artery.md) — Lung vessel.
+- [Pulse Field Gel Electrophoresis (PFGE)](pulse-field-gel-electrophoresis-pfge.md) — Large DNA separate.
+- [Pump](pump.md) — Active transport.
+- [Punnett Square](punnett-square.md) — Genotype predict.
+- [Purification](purification.md) — Impurity removal.
+- [Pyelonephritis](pyelonephritis.md) — Kidney infection.
+- [Pyrogen](pyrogen.md) — Fever inducer.
+- [Pyruvate](pyruvate.md) — Glycolysis product.
+- [Pyruvate Kinase](pyruvate-kinase.md) — Final glycolysis.
+- [QqPCR](qqpcr.md) — Quantitative PCR.
+- [Quadrant](quadrant.md) — Four-part division.
+- [Quality Control](quality-control.md) — Standard meet.
+- [Quantification](quantification.md) — Amount measure.
+- [Quantitative Trait Locus (QTL)](quantitative-trait-locus-qtl.md) — Trait gene location.
+- [Quantum Dot](quantum-dot.md) — Fluorescent nano.
+- [Quaternary Structure](quaternary-structure.md) — Subunit assembly.
+- [Quenching](quenching.md) — Fluorescence stop.
+- [Quorum Sensing](quorum-sensing.md) — Density communication.
+- [Quinolone](quinolone.md) — DNA gyrase inhibitor.
+- [RR Group](rr-group.md) — Amino side chain.
+- [rAAV](raav.md) — Recombinant adeno-associated virus.
+- [RABV](rabv.md) — Rabies virus.
+- [Race](race.md) — Population variant.
+- [Radial Glia](radial-glia.md) — Neural progenitor.
+- [Radioactivity](radioactivity.md) — Spontaneous decay.
+- [Radioimmunoassay](radioimmunoassay.md) — Isotope antibody.
+- [Radioisotope](radioisotope.md) — Unstable isotope.
+- [Radiolabel](radiolabel.md) — Isotope tag.
+- [Raf Kinase](raf-kinase.md) — MAPK activator.
+- [Random Coil](random-coil.md) — Unfolded protein.
+- [Random Forest](random-forest.md) — Ensemble ML.
+- [Random Primer](random-primer.md) — Non-specific synthesis.
+- [Randomized Controlled Trial (RCT)](randomized-controlled-trial-rct.md) — Gold standard study.
+- [Ras](ras.md) — Oncogene.
+- [Rb Protein](rb-protein.md) — Tumor suppressor.
+- [Reactome](reactome.md) — Pathway database.
+- [Reading Frame](reading-frame.md) — Codon triplet.
+- [Real-Time PCR](real-time-pcr.md) — Amplification monitor.
+- [Reannealing](reannealing.md) — Strand rejoin.
+- [Receptor](receptor.md) — Signal binder.
+- [Receptor Tyrosine Kinase](receptor-tyrosine-kinase.md) — Growth signal.
+- [Recombinant](recombinant.md) — Engineered DNA.
+- [Recombinant DNA](recombinant-dna.md) — Joined molecules.
+- [Recombination](recombination.md) — Crossing over.
+- [Recombination Frequency](recombination-frequency.md) — Linkage measure.
+- [Red Blood Cell](red-blood-cell.md) — Oxygen carrier.
+- [Redundancy](redundancy.md) — Backup function.
+- [Reduction Division](reduction-division.md) — Meiosis.
+- [Reference Genome](reference-genome.md) — Standard sequence.
+- [Refolding](refolding.md) — Protein renature.
+- [Regulatory RNA](regulatory-rna.md) — Non-coding controller.
+- [Regulatory Sequence](regulatory-sequence.md) — Gene control.
+- [Relapsing Fever](relapsing-fever.md) — Borrelia disease.
+- [Renal](renal.md) — Kidney related.
+- [Replication Fork](replication-fork.md) — DNA open site.
+- [Reporter Gene](reporter-gene.md) — Activity indicator.
+- [Repression](repression.md) — Expression block.
+- [Reproductive Cloning](reproductive-cloning.md) — Identical organism.
+- [Reserpine](reserpine.md) — Deplete neurotransmitter.
+- [Residual Body](residual-body.md) — Lysosome remnant.
+- [Resolution](resolution.md) — Detail level.
+- [Resource](resource.md) — Input for process.
+- [Restriction Digest](restriction-digest.md) — Enzyme cut.
+- [Restriction Enzyme](restriction-enzyme.md) — Site cutter.
+- [Restriction Fragment Length Polymorphism (RFLP)](restriction-fragment-length-polymorphism-rflp.md) — Variant length.
+- [Restriction Site](restriction-site.md) — Recognition sequence.
+- [Retrotransposon](retrotransposon.md) — Mobile element.
+- [Retrovirus](retrovirus.md) — RNA virus.
+- [Reverse Genetics](reverse-genetics.md) — Function from sequence.
+- [Reverse Transcriptase](reverse-transcriptase.md) — RNA to DNA.
+- [RFLP](rflp.md) — Variant marker.
+- [Rheumatoid Arthritis](rheumatoid-arthritis.md) — Autoimmune joint.
+- [Rhizobium](rhizobium.md) — Nitrogen fixer.
+- [Rhizosphere](rhizosphere.md) — Root microbe zone.
+- [Rho Factor](rho-factor.md) — Transcription terminator.
+- [Ribonuclease](ribonuclease.md) — RNA cutter.
+- [Ribonucleic Acid (RNA)](ribonucleic-acid-rna.md) — Single strand.
+- [Ribose](ribose.md) — RNA sugar.
+- [Ribosomal RNA (rRNA)](ribosomal-rna-rrna.md) — Ribosome component.
+- [Ribosome](ribosome.md) — Protein factory.
+- [Ribozyme](ribozyme.md) — Catalytic RNA.
+- [Ribulose Bisphosphate](ribulose-bisphosphate.md) — CO2 fixer.
+- [Rickettsia](rickettsia.md) — Obligate intracellular.
+- [Rifampicin](rifampicin.md) — RNA pol inhibitor.
+- [Risk Assessment](risk-assessment.md) — Hazard evaluate.
+- [RNA](rna.md) — Ribonucleic acid.
+- [RNA Editing](rna-editing.md) — Post-transcript change.
+- [RNA Interference (RNAi)](rna-interference-rnai.md) — Gene silence.
+- [RNA Polymerase](rna-polymerase.md) — Transcript enzyme.
+- [RNA Splicing](rna-splicing.md) — Intron removal.
+- [RNA World](rna-world.md) — RNA origin hypothesis.
+- [RNase](rnase.md) — RNAase.
+- [Rolling Circle Replication](rolling-circle-replication.md) — Concatemer production.
+- [Root Nodule](root-nodule.md) — Symbiotic structure.
+- [Rothmund-Thomson Syndrome](rothmund-thomson-syndrome.md) — DNA repair defect.
+- [RT-PCR](rt-pcr.md) — Reverse transcription PCR.
+- [rU5](ru5.md) — Retroviral sequence.
+- [Ryanodine Receptor](ryanodine-receptor.md) — Calcium channel.
+- [SS Phase](ss-phase.md) — DNA synthesis.
+- [Saccharomyces](saccharomyces.md) — Yeast model.
+- [Salmonella](salmonella.md) — Food pathogen.
+- [Salt Bridge](salt-bridge.md) — Ionic protein link.
+- [Salting Out](salting-out.md) — Protein precipitate.
+- [Sample Prep](sample-prep.md) — Sequencing input.
+- [Sandwich Assay](sandwich-assay.md) — Capture-detection.
+- [Sanger Sequencing](sanger-sequencing.md) — Chain termination.
+- [Saponin](saponin.md) — Steroid glycoside.
+- [Sarcoidosis](sarcoidosis.md) — Granuloma disease.
+- [Satellite DNA](satellite-dna.md) — Repetitive sequence.
+- [Scaffold](scaffold.md) — Tissue support.
+- [Scanning Electron Microscopy (SEM)](scanning-electron-microscopy-sem.md) — Surface imaging.
+- [Scrapie](scrapie.md) — Prion disease.
+- [Screening](screening.md) — Variant selection.
+- [SDS-PAGE](sds-page.md) — Denaturing gel.
+- [Second Messenger](second-messenger.md) — Signal amplifier.
+- [Secondary Antibody](secondary-antibody.md) — Detection tag.
+- [Secondary Metabolite](secondary-metabolite.md) — Non-essential product.
+- [Secretagogue](secretagogue.md) — Secretion stimulator.
+- [Secretory Pathway](secretory-pathway.md) — ER-Golgi-vesicle.
+- [Selection Marker](selection-marker.md) — Survivability gene.
+- [Selective Permeability](selective-permeability.md) — Controlled passage.
+- [Selenocysteine](selenocysteine.md) — 21st amino acid.
+- [Self-Assembly](self-assembly.md) — Spontaneous structure.
+- [Self-Organization](self-organization.md) — Emergent order.
+- [Semiconservative Replication](semiconservative-replication.md) — Hybrid daughter.
+- [Semiconductor](semiconductor.md) — Doped conductor.
+- [Sense Strand](sense-strand.md) — Coding template.
+- [Sensitization](sensitization.md) — Response increase.
+- [Sensor](sensor.md) — Detector.
+- [Sensory Neuron](sensory-neuron.md) — Stimulus transmitter.
+- [Sepiapterin](sepiapterin.md) — Tetrahydrobiopterin precursor.
+- [Sequencing](sequencing.md) — Order determination.
+- [Sequencing by Synthesis](sequencing-by-synthesis.md) — Fluorescent addition.
+- [Serial Dilution](serial-dilution.md) — Concentration reduce.
+- [Serine Protease](serine-protease.md) — Serine hydrolase.
+- [Serotonin](serotonin.md) — Mood neurotransmitter.
+- [Serpin](serpin.md) — Protease inhibitor.
+- [Serratia marcescens](serratia-marcescens.md) — Pigmented bacterium.
+- [Serum](serum.md) — Blood liquid.
+- [Severe Acute Respiratory Syndrome (SARS)](severe-acute-respiratory-syndrome-sars.md) — Coronavirus.
+- [Sex Chromosome](sex-chromosome.md) — X/Y.
+- [Sex-Linked](sex-linked.md) — Chromosome gene.
+- [Sextet](sextet.md) — Six-electron system.
+- [Shigella](shigella.md) — Dysentery bacterium.
+- [Shine-Dalgarno Sequence](shine-dalgarno-sequence.md) — Ribosome binder.
+- [Short Hairpin RNA (shRNA)](short-hairpin-rna-shrna.md) — RNAi precursor.
+- [Short Tandem Repeat (STR)](short-tandem-repeat-str.md) — Forensic marker.
+- [Shotgun Sequencing](shotgun-sequencing.md) — Random fragment.
+- [Shuttle Vector](shuttle-vector.md) — Multi-host plasmid.
+- [Sickle Cell Anemia](sickle-cell-anemia.md) — Hemoglobin mutation.
+- [Sigma Factor](sigma-factor.md) — Promoter recognizer.
+- [Signal Peptide](signal-peptide.md) — ER target.
+- [Signal Transduction](signal-transduction.md) — Receptor to response.
+- [Silencer](silencer.md) — Gene repressor.
+- [Silencing](silencing.md) — Expression off.
+- [Silicone](silicone.md) — Implant material.
+- [Silkworm](silkworm.md) — Sericin producer.
+- [Silver Stain](silver-stain.md) — Protein visualize.
+- [Simple Sequence Repeat (SSR)](simple-sequence-repeat-ssr.md) — Microsatellite.
+- [Single-Cell RNA Sequencing (scRNA-seq)](single-cell-rna-sequencing-scrna-seq.md) — Individual transcript.
+- [Single-Nucleotide Polymorphism (SNP)](single-nucleotide-polymorphism-snp.md) — Single variant.
+- [Single-Stranded DNA (ssDNA)](single-stranded-dna-ssdna.md) — Non-double.
+- [Sirtuin](sirtuin.md) — Deacetylase.
+- [Sister Chromatid](sister-chromatid.md) — Replicate pair.
+- [Site-Directed Mutagenesis](site-directed-mutagenesis.md) — Targeted change.
+- [Size-Exclusion Chromatography](size-exclusion-chromatography.md) — Pore separation.
+- [Skewed X Inactivation](skewed-x-inactivation.md) — Uneven X silence.
+- [SLC (Solute Carrier)](slc-solute-carrier.md) — Transporter family.
+- [Sleeping Sickness](sleeping-sickness.md) — Trypanosome disease.
+- [Slow Virus](slow-virus.md) — Long incubation.
+- [Small Interfering RNA (siRNA)](small-interfering-rna-sirna.md) — RNAi effector.
+- [Small Nuclear RNA (snRNA)](small-nuclear-rna-snrna.md) — Splicing factor.
+- [Smooth Endoplasmic Reticulum](smooth-endoplasmic-reticulum.md) — Lipid synthesis.
+- [SNP Array](snp-array.md) — Variant chip.
+- [Sodium Dodecyl Sulfate (SDS)](sodium-dodecyl-sulfate-sds.md) — Denaturant.
+- [Solenoid](solenoid.md) — Nucleosome coil.
+- [Somatic Cell](somatic-cell.md) — Body cell.
+- [Somatic Hypermutation](somatic-hypermutation.md) — Affinity maturation.
+- [Somatic Mutation](somatic-mutation.md) — Non-germline.
+- [Somatostatin](somatostatin.md) — Inhibitory hormone.
+- [Southern Blot](southern-blot.md) — DNA hybrid.
+- [Southern Transfer](southern-transfer.md) — Membrane move.
+- [Spallation](spallation.md) — Particle collision.
+- [Spatholobus](spatholobus.md) — Plant extract.
+- [Spermatogenesis](spermatogenesis.md) — Sperm production.
+- [Sphingolipid](sphingolipid.md) — Membrane lipid.
+- [Spike Protein](spike-protein.md) — Viral entry.
+- [Spindle](spindle.md) — Chromosome puller.
+- [Splice Site](splice-site.md) — Intron boundary.
+- [Splicing](splicing.md) — Exon join.
+- [Sporulation](sporulation.md) — Endospore formation.
+- [Sporozoite](sporozoite.md) — Malaria stage.
+- [Stable Transfection](stable-transfection.md) — Integrated gene.
+- [Stainless Steel](stainless-steel.md) — Corrosion-resistant alloy.
+- [Standard Deviation](standard-deviation.md) — Spread measure.
+- [Staphylococcus aureus](staphylococcus-aureus.md) — Skin bacterium.
+- [STAT](stat.md) — Transcription factor.
+- [Stem Cell](stem-cell.md) — Undifferentiated.
+- [Stem Cell Niche](stem-cell-niche.md) — Maintenance site.
+- [Stereochemistry](stereochemistry.md) — 3D arrangement.
+- [Sterile](sterile.md) — Microbe-free.
+- [Steroid Hormone](steroid-hormone.md) — Lipid signal.
+- [Sticky End](sticky-end.md) — Overhang DNA.
+- [Stop Codon](stop-codon.md) — Translation end.
+- [Strain](strain.md) — Variant isolate.
+- [Streptomycin](streptomycin.md) — Aminoglycoside.
+- [Stress Response](stress-response.md) — Adaptation.
+- [Streptavidin](streptavidin.md) — Biotin binder.
+- [Streptomyces](streptomyces.md) — Antibiotic producer.
+- [Stroma](stroma.md) — Support tissue.
+- [Structural Biology](structural-biology.md) — 3D structure.
+- [Subcloning](subcloning.md) — Fragment transfer.
+- [Substrate](substrate.md) — Enzyme reactant.
+- [Sucrose](sucrose.md) — Table sugar.
+- [Sulfhydryl](sulfhydryl.md) — Thiol group.
+- [Sulfotransferase](sulfotransferase.md) — Sulfur adder.
+- [Supercoiling](supercoiling.md) — DNA twist.
+- [Superinfection](superinfection.md) — Secondary infection.
+- [Superoxide Dismutase](superoxide-dismutase.md) — Radical scavenger.
+- [Suppressor Mutation](suppressor-mutation.md) — Compensator.
+- [Surface Plasmon Resonance (SPR)](surface-plasmon-resonance-spr.md) — Binding kinetics.
+- [Surfactant](surfactant.md) — Surface tension reducer.
+- [Sustainability](sustainability.md) — Resource preserve.
+- [Svedberg Unit](svedberg-unit.md) — Sedimentation rate.
+- [SV40](sv40.md) — Viral promoter.
+- [Synapse](synapse.md) — Neuron junction.
+- [Synaptic Plasticity](synaptic-plasticity.md) — Strength change.
+- [Synaptic Vesicle](synaptic-vesicle.md) — Neurotransmitter store.
+- [Syncytium](syncytium.md) — Multi-nucleus cell.
+- [Syndecan](syndecan.md) — Heparan sulfate proteoglycan.
+- [Synthetic Biology](synthetic-biology.md) — Design organism.
+- [Synthetic Lethal](synthetic-lethal.md) — Pair death.
+- [Syphilis](syphilis.md) — Treponema disease.
+- [System Biology](system-biology.md) — Network approach.
+- [Systems Vaccinology](systems-vaccinology.md) — Immune response study.
+- [TT Cell](tt-cell.md) — Thymus lymphocyte.
+- [T Cell Receptor](t-cell-receptor.md) — Antigen recognizer.
+- [T Plasmid](t-plasmid.md) — Plant vector.
+- [T7 Promoter](t7-promoter.md) — Phage RNA pol.
+- [Taq Polymerase](taq-polymerase.md) — Thermostable enzyme.
+- [Targeted Therapy](targeted-therapy.md) — Specific drug.
+- [TATA Box](tata-box.md) — Promoter element.
+- [Tau Protein](tau-protein.md) — Microtubule stabilizer.
+- [Taxol](taxol.md) — Cancer drug.
+- [TCR](tcr.md) — T cell receptor.
+- [Telomerase](telomerase.md) — End extender.
+- [Telomere](telomere.md) — Chromosome cap.
+- [Temperate Phage](temperate-phage.md) — Lysogenic virus.
+- [Template](template.md) — Copy source.
+- [Template Switching](template-switching.md) — Reverse transcription.
+- [Termination Codon](termination-codon.md) — Stop.
+- [Termination Factor](termination-factor.md) — Release protein.
+- [Terpenoid](terpenoid.md) — Isoprene polymer.
+- [Tertiary Structure](tertiary-structure.md) — 3D fold.
+- [Test Cross](test-cross.md) — Genotype reveal.
+- [Tetanus](tetanus.md) — Clostridium toxin.
+- [Tetracycline](tetracycline.md) — Protein synthesis inhibitor.
+- [Tetrahymena](tetrahymena.md) — Model ciliate.
+- [Tetraploid](tetraploid.md) — Four sets.
+- [Tetrapyrrole](tetrapyrrole.md) — Porphyrin ring.
+- [Th1 Cell](th1-cell.md) — Cell-mediated.
+- [Th2 Cell](th2-cell.md) — Humoral.
+- [Th17 Cell](th17-cell.md) — Inflammatory.
+- [Thalamus](thalamus.md) — Sensory relay.
+- [Therapeutic Cloning](therapeutic-cloning.md) — Stem cell source.
+- [Thermal Cycler](thermal-cycler.md) — PCR machine.
+- [Thermodynamics](thermodynamics.md) — Energy laws.
+- [Thermophile](thermophile.md) — Heat lover.
+- [Thermoplasmonic](thermoplasmonic.md) — Heat nano.
+- [Thermostable](thermostable.md) — Heat resistant.
+- [Thiamine](thiamine.md) — Vitamin B1.
+- [Thioester](thioester.md) — Sulfur ester.
+- [Thiol](thiol.md) — Sulfhydryl.
+- [Threonine](threonine.md) — Amino acid.
+- [Thrombus](thrombus.md) — Blood clot.
+- [Thymidine](thymidine.md) — DNA nucleoside.
+- [Thymine](thymine.md) — Pyrimidine base.
+- [Thymocyte](thymocyte.md) — Thymus cell.
+- [Thymus](thymus.md) — T cell organ.
+- [Thyroid Hormone](thyroid-hormone.md) — Metabolism regulator.
+- [Time of Flight (TOF)](time-of-flight-tof.md) — Mass spec.
+- [Ti Plasmid](ti-plasmid.md) — Agrobacterium vector.
+- [Tissue Culture](tissue-culture.md) — Ex vivo growth.
+- [Tissue Engineering](tissue-engineering.md) — Scaffold construct.
+- [Titer](titer.md) — Concentration measure. Virus amount.
+- [Togaviridae](togaviridae.md) — RNA virus family.
+- [Tol2](tol2.md) — Fish transposon.
+- [Tolerance](tolerance.md) — Immune non-reaction.
+- [Tol Plasmid](tol-plasmid.md) — Catabolism.
+- [Topoisomerase](topoisomerase.md) — Strand reliever.
+- [Toxin-Antitoxin](toxin-antitoxin.md) — Stability system.
+- [Toxin Gene](toxin-gene.md) — Bt insecticide.
+- [TPP](tpp.md) — Thiamine pyrophosphate.
+- [Trace Element](trace-element.md) — Micro nutrient.
+- [Trans-Acting](trans-acting.md) — Distant control.
+- [Transcription](transcription.md) — DNA to RNA.
+- [Transcription Factor](transcription-factor.md) — Regulator protein.
+- [Transcriptome](transcriptome.md) — All RNA.
+- [Transduction](transduction.md) — Phage gene transfer.
+- [Transfection](transfection.md) — Non-viral entry.
+- [Transfer RNA (tRNA)](transfer-rna-trna.md) — Amino carrier.
+- [Transformation](transformation.md) — DNA uptake.
+- [Transgene](transgene.md) — Inserted gene.
+- [Transgenic](transgenic.md) — Foreign gene organism.
+- [Transition Mutation](transition-mutation.md) — Purine-pyrimidine.
+- [Translation](translation.md) — RNA to protein.
+- [Translocation](translocation.md) — Chromosome segment move.
+- [Transmembrane Domain](transmembrane-domain.md) — Membrane span.
+- [Transmission Electron Microscopy (TEM)](transmission-electron-microscopy-tem.md) — Internal imaging.
+- [Transposase](transposase.md) — Element mover.
+- [Transposon](transposon.md) — Jumping gene.
+- [Trastuzumab](trastuzumab.md) — Herceptin antibody.
+- [Triacylglycerol](triacylglycerol.md) — Fat storage.
+- [Triplet Repeat](triplet-repeat.md) — Expansion disease.
+- [Trisomy](trisomy.md) — Extra chromosome.
+- [tRNA](trna.md) — Transfer RNA.
+- [Troponin](troponin.md) — Muscle regulator.
+- [Trypanosome](trypanosome.md) — Parasite.
+- [Trypsin](trypsin.md) — Protease.
+- [Tryptophan](tryptophan.md) — Amino acid.
+- [Tumor Suppressor](tumor-suppressor.md) — Growth inhibitor.
+- [Tumorigenesis](tumorigenesis.md) — Cancer formation.
+- [Tumor Necrosis Factor](tumor-necrosis-factor.md) — Inflammatory cytokine.
+- [Two-Dimensional Gel Electrophoresis (2DE)](two-dimensional-gel-electrophoresis-2de.md) — Protein separate.
+- [Type 1 Diabetes](type-1-diabetes.md) — Autoimmune insulin.
+- [Type II Secretion](type-ii-secretion.md) — Gram-negative export.
+- [Tyrosine Kinase](tyrosine-kinase.md) — Phosphorylator.
+- [Tyrosine Phosphatase](tyrosine-phosphatase.md) — Dephosphorylator.
+- [UUbiquinone](uubiquinone.md) — Electron carrier.
+- [Ubiquitin](ubiquitin.md) — Degradation tag.
+- [Ubiquitination](ubiquitination.md) — Poly chain.
+- [UDP](udp.md) — Uridine diphosphate.
+- [Ulcerative Colitis](ulcerative-colitis.md) — Gut inflammation.
+- [Ultracentrifugation](ultracentrifugation.md) — High-speed separate.
+- [Ultrasound](ultrasound.md) — Sound imaging.
+- [Untranslated Region (UTR)](untranslated-region-utr.md) — Non-coding mRNA.
+- [Upstream](upstream.md) — Gene opposite.
+- [Uracil](uracil.md) — RNA base.
+- [Urea Cycle](urea-cycle.md) — Ammonia detox.
+- [Uridine](uridine.md) — RNA nucleoside.
+- [Uronic Acid](uronic-acid.md) — Sugar acid.
+- [Uropathogenic E. coli](uropathogenic-e-coli.md) — UTI bacterium.
+- [Ustilago maydis](ustilago-maydis.md) — Corn smut fungus.
+- [VV Gene](vv-gene.md) — Variable antibody.
+- [Vaccine](vaccine.md) — Immunity inducer.
+- [Vacuole](vacuole.md) — Storage organelle.
+- [Vagus Nerve](vagus-nerve.md) — Parasympathetic.
+- [Valence Electron](valence-electron.md) — Outer shell.
+- [Van der Waals Force](van-der-waals-force.md) — Weak attraction.
+- [Variable Number Tandem Repeat (VNTR)](variable-number-tandem-repeat-vntr.md) — Forensic marker.
+- [Variant Creutzfeldt-Jakob Disease](variant-creutzfeldt-jakob-disease.md) — Prion from BSE.
+- [Vector](vector.md) — DNA carrier.
+- [VEGF](vegf.md) — Vascular growth factor.
+- [Velcro Model](velcro-model.md) — Dynamic adhesion.
+- [Viral Vector](viral-vector.md) — Gene delivery virus.
+- [Virion](virion.md) — Virus particle.
+- [Viroid](viroid.md) — RNA pathogen.
+- [Virus](virus.md) — Obligate parasite.
+- [Vitamin](vitamin.md) — Organic nutrient.
+- [Vitronectin](vitronectin.md) — Adhesion protein.
+- [VNTR](vntr.md) — Tandem repeat.
+- [Vogt-Koyanagi-Harada Syndrome](vogt-koyanagi-harada-syndrome.md) — Autoimmune uveitis.
+- [Voltage Clamp](voltage-clamp.md) — Potential fix.
+- [Vortex Mixer](vortex-mixer.md) — Sample mix.
+- [VSV](vsv.md) — Vesicular stomatitis virus.
+- [WWestern Blot](wwestern-blot.md) — Protein detect.
+- [White Matter](white-matter.md) — Myelinated axon.
+- [Wild Type](wild-type.md) — Normal allele.
+- [Wilms' Tumor](wilms-tumor.md) — Kidney cancer.
+- [Wobble Hypothesis](wobble-hypothesis.md) — Codon flexibility.
+- [Wolbachia](wolbachia.md) — Insect endosymbiont.
+- [Wound Healing](wound-healing.md) — Tissue repair.
+- [WT1](wt1.md) — Wilms tumor gene.
+- [XX Chromosome](xx-chromosome.md) — Female sex.
+- [X-Gal](x-gal.md) — Beta-gal substrate.
+- [X-Ray Crystallography](x-ray-crystallography.md) — Atomic structure.
+- [Xenograft](xenograft.md) — Cross-species graft.
+- [Xeroderma Pigmentosum](xeroderma-pigmentosum.md) — Repair defect.
+- [Xist RNA](xist-rna.md) — X inactivation.
+- [YYAC](yyac.md) — Yeast artificial chromosome.
+- [Yeast Two-Hybrid](yeast-two-hybrid.md) — Protein interaction.
+- [Yeast Extract](yeast-extract.md) — Nutrient source.
+- [Yersinia pestis](yersinia-pestis.md) — Plague bacterium.
+- [Yolk Sac](yolk-sac.md) — Early nutrition.
+- [Yttrium](yttrium.md) — Rare earth.
+- [ZZ-DNA](zz-dna.md) — Left-handed helix.
+- [Zebrafish](zebrafish.md) — Model organism.
+- [Zinc Finger](zinc-finger.md) — DNA binder.
+- [Zinc Finger Nuclease](zinc-finger-nuclease.md) — Gene cutter.
+- [Zinc](zinc.md) — Cofactor.
+- [Zingiber officinale](zingiber-officinale.md) — Ginger.
+- [Zirconium](zirconium.md) — Alloy.
+- [Zona Pellucida](zona-pellucida.md) — Egg coat.
+- [Zoonosis](zoonosis.md) — Animal to human.
+- [Zymogen](zymogen.md) — Inactive enzyme.

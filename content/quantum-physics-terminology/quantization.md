@@ -1,0 +1,3 @@
+# Quantization
+
+Allowed discrete values.

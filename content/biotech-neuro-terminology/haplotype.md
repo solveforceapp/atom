@@ -1,0 +1,3 @@
+# Haplotype
+
+Linked alleles.

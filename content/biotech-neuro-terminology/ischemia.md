@@ -1,0 +1,3 @@
+# Ischemia
+
+Oxygen lack.

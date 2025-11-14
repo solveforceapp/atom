@@ -1,0 +1,3 @@
+# Epitope Tagging
+
+Protein label.

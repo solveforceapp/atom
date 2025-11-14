@@ -1,0 +1,3 @@
+# Rho Factor
+
+Transcription terminator.

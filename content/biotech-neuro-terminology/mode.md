@@ -1,0 +1,3 @@
+# Mode
+
+Most frequent.

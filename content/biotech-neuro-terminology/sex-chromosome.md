@@ -1,0 +1,3 @@
+# Sex Chromosome
+
+X/Y.

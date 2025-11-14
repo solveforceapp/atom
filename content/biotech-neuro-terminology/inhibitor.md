@@ -1,0 +1,3 @@
+# Inhibitor
+
+Reaction blocker.

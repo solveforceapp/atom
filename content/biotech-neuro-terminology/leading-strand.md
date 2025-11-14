@@ -1,0 +1,3 @@
+# Leading Strand
+
+Continuous replication.

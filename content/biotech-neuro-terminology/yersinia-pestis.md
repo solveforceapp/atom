@@ -1,0 +1,3 @@
+# Yersinia pestis
+
+Plague bacterium.

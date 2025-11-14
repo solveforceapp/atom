@@ -1,0 +1,3 @@
+# Quantisation
+
+Discrete property values.

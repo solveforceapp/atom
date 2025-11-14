@@ -1,0 +1,3 @@
+# Endosome
+
+Internalized vesicle.

@@ -1,0 +1,3 @@
+# Autosome
+
+Non-sex chromosome.

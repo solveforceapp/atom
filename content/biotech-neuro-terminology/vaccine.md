@@ -1,0 +1,3 @@
+# Vaccine
+
+Immunity inducer.

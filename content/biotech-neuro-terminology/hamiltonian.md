@@ -1,0 +1,3 @@
+# Hamiltonian
+
+Energy operator.

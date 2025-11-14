@@ -1,0 +1,3 @@
+# Temperate Phage
+
+Lysogenic virus.

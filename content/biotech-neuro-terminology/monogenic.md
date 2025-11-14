@@ -1,0 +1,3 @@
+# Monogenic
+
+Single gene.
