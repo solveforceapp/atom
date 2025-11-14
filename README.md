@@ -62,6 +62,8 @@ This repo is designed as the reference template for all future SolveForce micros
 │  └─ quantum-physics-terminology/
 │     ├─ index.md
 │     └─ *.md
+│  └─ edge-modules/
+│     └─ fiber-intelligence.md
 ├─ docs/
 │  ├─ index.md
 │  ├─ architecture.md
@@ -112,6 +114,11 @@ Then open: [http://localhost:8080](http://localhost:8080)
   `content/biotech-neuro-terminology/`, ensuring each term’s standalone file is kept
   synchronized with the directory index for consistent linking across SolveForce
   properties.
+- Edit `web/index.html`, `styles.css`, and `scripts.js` for the public site.
+- Edit `index.html` in the repository root after updating `web/index.html` so the
+  homepage at `/` mirrors the canonical microsite content. Copy the markup from
+  `web/index.html` and adjust the stylesheet/script paths to point at `web/`.
+- Edit `content/*.md` for long-form descriptions, service catalogs, and playbooks.
 - Use `docs/architecture.md` and ADRs to record structural decisions.
 
 Run tests (placeholder):

@@ -10,6 +10,9 @@ if str(REPO_ROOT) not in sys.path:
 from tools import ROOT, SCRIPT_FILE, SYNCED_FILES, WEB_DIR
 
 SCRIPT_TAG = f'<script src="{SCRIPT_FILE}"></script>'
+from tools import ROOT, SYNCED_FILES, WEB_DIR
+
+SCRIPT_FILE = next((name for name in SYNCED_FILES if name.endswith(".js")), "scripts.js")
 
 
 @pytest.mark.parametrize("relative", SYNCED_FILES)
@@ -31,3 +34,15 @@ def test_root_asset_matches_web(relative: str) -> None:
         )
         assert SCRIPT_TAG in root_text, message
         assert SCRIPT_TAG in web_text, message
+    # Normalize CRLF vs LF and ignore a final trailing newline so minor differences
+    # in how files are written don't make the test fail.
+    root_normalized = root_text.replace('\r\n', '\n').rstrip('\n')
+    web_normalized = web_text.replace('\r\n', '\n').rstrip('\n')
+
+    assert root_normalized == web_normalized
+
+    if relative == "index.html":
+        expected_tag = f'<script src="{SCRIPT_FILE}"></script>'
+        assert (
+            expected_tag in root_text
+        ), f"index.html should reference {SCRIPT_FILE} via {expected_tag!r}"
