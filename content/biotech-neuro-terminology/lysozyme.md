@@ -1,0 +1,3 @@
+# Lysozyme
+
+Bacterial wall enzyme.

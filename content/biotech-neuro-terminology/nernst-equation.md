@@ -1,0 +1,3 @@
+# Nernst Equation
+
+Potential calculation.

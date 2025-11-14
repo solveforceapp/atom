@@ -1,0 +1,3 @@
+# Membrane Potential
+
+Charge difference.

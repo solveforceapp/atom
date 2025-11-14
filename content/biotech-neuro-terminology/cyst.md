@@ -1,0 +1,3 @@
+# Cyst
+
+Protective stage.

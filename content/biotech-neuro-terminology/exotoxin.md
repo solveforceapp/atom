@@ -1,0 +1,3 @@
+# Exotoxin
+
+Secreted toxin.

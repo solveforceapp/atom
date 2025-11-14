@@ -1,0 +1,3 @@
+# Galactosidase
+
+Sugar hydrolase.

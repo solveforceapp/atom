@@ -1,0 +1,3 @@
+# Palindromic Sequence
+
+Symmetric DNA.

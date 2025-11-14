@@ -1,0 +1,3 @@
+# Recombination Frequency
+
+Linkage measure.

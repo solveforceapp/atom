@@ -1,0 +1,3 @@
+# Heteroduplex
+
+Mismatched strands.

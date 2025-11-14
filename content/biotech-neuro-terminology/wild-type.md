@@ -1,0 +1,3 @@
+# Wild Type
+
+Normal allele.

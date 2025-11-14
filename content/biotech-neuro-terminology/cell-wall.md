@@ -1,0 +1,3 @@
+# Cell Wall
+
+Bacterial protection.

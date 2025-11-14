@@ -1,0 +1,3 @@
+# Thalamus
+
+Sensory relay.

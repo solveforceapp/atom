@@ -1,0 +1,3 @@
+# Satellite DNA
+
+Repetitive sequence.

@@ -1,0 +1,3 @@
+# Lipid Raft
+
+Membrane domain.

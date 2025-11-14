@@ -1,0 +1,3 @@
+# Fusion Protein
+
+Chimeric molecule.

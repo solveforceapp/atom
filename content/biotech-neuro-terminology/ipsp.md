@@ -1,0 +1,3 @@
+# IPSP
+
+Inhibitory potential.

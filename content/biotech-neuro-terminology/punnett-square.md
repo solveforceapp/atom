@@ -1,0 +1,3 @@
+# Punnett Square
+
+Genotype predict.

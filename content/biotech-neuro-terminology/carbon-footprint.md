@@ -1,0 +1,3 @@
+# Carbon Footprint
+
+GHG emissions.

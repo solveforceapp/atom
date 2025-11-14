@@ -1,0 +1,3 @@
+# Stroma
+
+Support tissue.

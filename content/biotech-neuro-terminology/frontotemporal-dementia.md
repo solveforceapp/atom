@@ -1,0 +1,3 @@
+# Frontotemporal Dementia
+
+Lobe degeneration.

@@ -1,0 +1,3 @@
+# Photoautotroph
+
+Light carbon fixer.

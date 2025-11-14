@@ -1,0 +1,3 @@
+# Sarcoidosis
+
+Granuloma disease.

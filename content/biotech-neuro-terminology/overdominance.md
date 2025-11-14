@@ -1,0 +1,3 @@
+# Overdominance
+
+Heterozygote advantage.

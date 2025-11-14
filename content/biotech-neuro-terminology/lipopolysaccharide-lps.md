@@ -1,0 +1,3 @@
+# Lipopolysaccharide (LPS)
+
+Bacterial endotoxin.

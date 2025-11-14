@@ -1,0 +1,3 @@
+# Cauchy Distribution
+
+Probability distribution.

@@ -1,0 +1,3 @@
+# Concanavalin A
+
+Lectin binder.

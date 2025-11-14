@@ -1,0 +1,3 @@
+# Albedo
+
+Reflected light fraction.

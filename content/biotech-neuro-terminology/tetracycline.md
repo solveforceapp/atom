@@ -1,0 +1,3 @@
+# Tetracycline
+
+Protein synthesis inhibitor.

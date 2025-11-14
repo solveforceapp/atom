@@ -1,0 +1,3 @@
+# Sanger Sequencing
+
+Chain termination.

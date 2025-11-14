@@ -1,0 +1,3 @@
+# Synapse
+
+Neuron junction.

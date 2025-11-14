@@ -1,0 +1,3 @@
+# Potassium Channel
+
+K⁺ pore.

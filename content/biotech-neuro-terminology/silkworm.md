@@ -1,0 +1,3 @@
+# Silkworm
+
+Sericin producer.

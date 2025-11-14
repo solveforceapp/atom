@@ -1,0 +1,3 @@
+# TATA Box
+
+Promoter element.

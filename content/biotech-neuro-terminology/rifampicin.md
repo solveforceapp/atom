@@ -1,0 +1,3 @@
+# Rifampicin
+
+RNA pol inhibitor.

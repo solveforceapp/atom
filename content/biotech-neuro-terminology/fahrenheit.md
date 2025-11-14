@@ -1,0 +1,3 @@
+# Fahrenheit
+
+Temperature scale.

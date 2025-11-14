@@ -1,0 +1,3 @@
+# Destabilization
+
+Structure weakening.

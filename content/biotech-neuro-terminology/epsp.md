@@ -1,0 +1,3 @@
+# EPSP
+
+Excitatory potential.

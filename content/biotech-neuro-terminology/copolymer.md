@@ -1,0 +1,3 @@
+# Copolymer
+
+Mixed monomer polymer.

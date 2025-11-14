@@ -53,6 +53,9 @@ This repo is designed as the reference template for all future SolveForce micros
 │  ├─ solveforce-network-map.md
 │  ├─ edge-modules/
 │  │  └─ fiber-intelligence.md
+│  ├─ biotech-neuro-terminology/
+│  │  ├─ index.md
+│  │  └─ *.md
 │  ├─ quantum-terminology/
 │  │  ├─ index.md
 │  │  └─ *.md
@@ -107,6 +110,10 @@ Then open: [http://localhost:8080](http://localhost:8080)
 - Contribute new or refined quantum and atomic physics definitions in
   `content/quantum-physics-terminology/`, where each term lives in its own file for
   precise linking across SolveForce properties.
+- Maintain the biotechnology and neurotechnology reference set in
+  `content/biotech-neuro-terminology/`, ensuring each term’s standalone file is kept
+  synchronized with the directory index for consistent linking across SolveForce
+  properties.
 - Edit `web/index.html`, `styles.css`, and `scripts.js` for the public site.
 - Edit `index.html` in the repository root after updating `web/index.html` so the
   homepage at `/` mirrors the canonical microsite content. Copy the markup from

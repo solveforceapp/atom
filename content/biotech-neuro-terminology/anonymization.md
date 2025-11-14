@@ -1,0 +1,3 @@
+# Anonymization
+
+Identifier removal.

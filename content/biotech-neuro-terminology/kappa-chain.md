@@ -1,0 +1,3 @@
+# Kappa Chain
+
+Light chain.

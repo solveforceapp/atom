@@ -1,0 +1,3 @@
+# Sensory Neuron
+
+Stimulus transmitter.

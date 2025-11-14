@@ -1,0 +1,3 @@
+# Chromatid
+
+Replicated chromosome arm.

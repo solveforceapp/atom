@@ -1,0 +1,3 @@
+# Giant Magnetoresistance
+
+Sensor tech.

@@ -1,0 +1,3 @@
+# Minigene
+
+Small gene construct.

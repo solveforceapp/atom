@@ -1,0 +1,3 @@
+# Ortholog
+
+Functional homolog.

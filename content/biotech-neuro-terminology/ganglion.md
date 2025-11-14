@@ -1,0 +1,3 @@
+# Ganglion
+
+Neuron cluster.

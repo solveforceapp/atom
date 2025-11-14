@@ -1,0 +1,3 @@
+# GABA Receptor
+
+Chloride channel.

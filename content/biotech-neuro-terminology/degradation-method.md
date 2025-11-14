@@ -1,0 +1,3 @@
+# Degradation Method
+
+Sanger sequencing.

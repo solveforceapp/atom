@@ -1,0 +1,3 @@
+# Syndecan
+
+Heparan sulfate proteoglycan.

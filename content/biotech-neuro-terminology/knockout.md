@@ -1,0 +1,3 @@
+# Knockout
+
+Gene disable.

@@ -1,0 +1,3 @@
+# Agonist
+
+Receptor-activating mimic.

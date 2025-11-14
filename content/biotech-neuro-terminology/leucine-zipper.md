@@ -1,0 +1,3 @@
+# Leucine Zipper
+
+Dimerization motif.

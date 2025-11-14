@@ -1,0 +1,3 @@
+# Guide RNA
+
+CRISPR director.

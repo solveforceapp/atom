@@ -1,0 +1,3 @@
+# Ethidium Bromide
+
+DNA stain.

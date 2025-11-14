@@ -1,0 +1,3 @@
+# Synaptic Vesicle
+
+Neurotransmitter store.

@@ -1,0 +1,3 @@
+# Corticosteroid
+
+Anti-inflammatory hormone.

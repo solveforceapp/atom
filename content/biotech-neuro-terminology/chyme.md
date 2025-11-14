@@ -1,0 +1,3 @@
+# Chyme
+
+Stomach-digested food.

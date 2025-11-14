@@ -1,0 +1,3 @@
+# Paraplegia
+
+Leg paralysis.

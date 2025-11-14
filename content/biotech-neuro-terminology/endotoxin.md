@@ -1,0 +1,3 @@
+# Endotoxin
+
+Bacterial toxin.

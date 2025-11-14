@@ -1,0 +1,3 @@
+# Inclusion Body
+
+Protein aggregate.

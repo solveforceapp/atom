@@ -25,6 +25,15 @@ def test_root_asset_matches_web(relative: str) -> None:
     root_text = root_file.read_text(encoding="utf-8")
     web_text = web_file.read_text(encoding="utf-8")
 
+    assert root_text == web_text
+
+    if relative == "index.html":
+        message = (
+            "index.html should include the shared script via "
+            f"{SCRIPT_TAG!r} so root and web copies stay aligned"
+        )
+        assert SCRIPT_TAG in root_text, message
+        assert SCRIPT_TAG in web_text, message
     # Normalize CRLF vs LF and ignore a final trailing newline so minor differences
     # in how files are written don't make the test fail.
     root_normalized = root_text.replace('\r\n', '\n').rstrip('\n')

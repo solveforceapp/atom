@@ -1,0 +1,3 @@
+# MAGE
+
+Multiplex automated editing.

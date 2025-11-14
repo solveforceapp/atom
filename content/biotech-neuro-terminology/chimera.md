@@ -1,0 +1,3 @@
+# Chimera
+
+Mixed genotype organism.

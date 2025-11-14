@@ -1,0 +1,3 @@
+# Pneumococcus
+
+Streptococcus pneumoniae.

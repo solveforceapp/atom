@@ -1,0 +1,3 @@
+# FRT Site
+
+Recombination target.

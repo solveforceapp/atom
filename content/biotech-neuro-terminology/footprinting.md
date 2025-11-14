@@ -1,0 +1,3 @@
+# Footprinting
+
+Binding site map.

@@ -1,0 +1,3 @@
+# Affymetrix
+
+Microarray tech company.

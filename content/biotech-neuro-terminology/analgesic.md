@@ -1,0 +1,3 @@
+# Analgesic
+
+Pain reliever.

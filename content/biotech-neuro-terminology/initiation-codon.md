@@ -1,0 +1,3 @@
+# Initiation Codon
+
+AUG start.

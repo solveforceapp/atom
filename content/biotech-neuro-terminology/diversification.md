@@ -1,0 +1,3 @@
+# Diversification
+
+Risk spread.

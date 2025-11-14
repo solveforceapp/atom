@@ -1,0 +1,3 @@
+# VNTR
+
+Tandem repeat.

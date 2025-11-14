@@ -1,0 +1,3 @@
+# Random Coil
+
+Unfolded protein.

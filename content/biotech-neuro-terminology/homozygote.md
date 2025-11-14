@@ -1,0 +1,3 @@
+# Homozygote
+
+Same alleles.

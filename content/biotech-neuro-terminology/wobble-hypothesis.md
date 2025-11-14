@@ -1,0 +1,3 @@
+# Wobble Hypothesis
+
+Codon flexibility.

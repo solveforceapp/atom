@@ -1,0 +1,3 @@
+# Serine Protease
+
+Serine hydrolase.

@@ -1,0 +1,3 @@
+# Receptor
+
+Signal binder.

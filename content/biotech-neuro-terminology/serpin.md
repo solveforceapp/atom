@@ -1,0 +1,3 @@
+# Serpin
+
+Protease inhibitor.

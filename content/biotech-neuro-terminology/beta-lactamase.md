@@ -1,0 +1,3 @@
+# Beta-Lactamase
+
+Antibiotic degrader.

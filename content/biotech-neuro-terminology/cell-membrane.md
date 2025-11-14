@@ -1,0 +1,3 @@
+# Cell Membrane
+
+Lipid bilayer.

@@ -1,0 +1,3 @@
+# Lignin
+
+Plant wall polymer.

@@ -1,0 +1,3 @@
+# Termination Factor
+
+Release protein.

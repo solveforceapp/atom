@@ -1,0 +1,3 @@
+# Streptomyces
+
+Antibiotic producer.

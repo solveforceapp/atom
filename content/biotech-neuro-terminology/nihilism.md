@@ -1,0 +1,3 @@
+# Nihilism
+
+No meaning.

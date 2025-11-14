@@ -1,0 +1,3 @@
+# Lichen
+
+Symbiotic organism.

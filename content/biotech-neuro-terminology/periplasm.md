@@ -1,0 +1,3 @@
+# Periplasm
+
+Bacterial space.

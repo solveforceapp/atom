@@ -1,0 +1,3 @@
+# Curie Point
+
+Ferromagnetic transition.

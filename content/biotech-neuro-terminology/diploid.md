@@ -1,0 +1,3 @@
+# Diploid
+
+Two chromosome sets.

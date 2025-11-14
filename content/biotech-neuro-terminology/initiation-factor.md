@@ -1,0 +1,3 @@
+# Initiation Factor
+
+Translation starter.

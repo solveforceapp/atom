@@ -1,0 +1,3 @@
+# Dehydration
+
+Water loss.

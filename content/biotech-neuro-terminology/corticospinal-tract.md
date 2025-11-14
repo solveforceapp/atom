@@ -1,0 +1,3 @@
+# Corticospinal Tract
+
+Motor pathway.
