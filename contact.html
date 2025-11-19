@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Contact — Atom by SolveForce</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/">Atom</a>
+      <nav class="nav">
+        <a href="/">Home</a>
+        <a href="services.html">Services</a>
+        <a href="pricing.html">Pricing</a>
+        <a href="about.html">About</a>
+        <a class="button" href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="page-head">
+      <h1>Contact us</h1>
+      <p class="muted">Tell us about your project and we'll respond within 2 business days.</p>
+    </section>
+
+    <section class="contact-grid">
+      <form id="contact-form" class="card contact-form" action="#" method="post" onsubmit="return submitContact(event)">
+        <label>
+          Name
+          <input type="text" name="name" id="name" required />
+        </label>
+
+        <label>
+          Email
+          <input type="email" name="email" id="email" required />
+        </label>
+
+        <label>
+          Organization
+          <input type="text" name="company" id="company" />
+        </label>
+
+        <label>
+          Project summary
+          <textarea name="message" id="message" rows="6" required></textarea>
+        </label>
+
+        <div class="form-actions">
+          <button type="submit" class="primary">Send message</button>
+          <a class="ghost" href="mailto:hello@solveforce.com">Email us directly</a>
+        </div>
+
+        <p id="form-status" class="muted" aria-live="polite"></p>
+      </form>
+
+      <aside class="card contact-info">
+        <h3>Office</h3>
+        <p>Atom / SolveForce</p>
+        <p><strong>Email:</strong> <a href="mailto:hello@solveforce.com">hello@solveforce.com</a></p>
+        <p><strong>Website:</strong> <a href="https://atom.solveforce.com">atom.solveforce.com</a></p>
+        <h4>Typical response time</h4>
+        <p>2 business days</p>
+      </aside>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">© SolveForce</div>
+  </footer>
+
+  <script src="scripts.js"></script>
+</body>
+</html>

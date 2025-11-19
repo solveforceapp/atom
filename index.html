@@ -1,96 +1,133 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <!-- Primary ATOM microsite markup. Run `python -m tools.sync_root` to refresh the repository root assets. -->
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <base href="/" />
-    <!-- Primary ATOM microsite markup. Keep synchronized with the repository root index.html. -->
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>ATOM | Adaptive Telecom Operations Module | SolveForce</title>
-    <link rel="stylesheet" href="styles.css" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Atom by SolveForce — Modern Apps & Services</title>
+  <meta name="description" content="Atom — app platform and services from SolveForce. We build desktop and web apps, UI, integrations and cloud deployments." />
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-    <header class="sf-header">
-        <div class="sf-container">
-            <h1>ATOM</h1>
-            <p class="subtitle">Adaptive Telecom Operations Module by SolveForce</p>
-            <nav class="sf-nav">
-                <a href="#overview">Overview</a>
-                <a href="#capabilities">Capabilities</a>
-                <a href="#coverage">Coverage</a>
-                <a href="#contact">Contact</a>
-            </nav>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/">Atom</a>
+      <nav class="nav" id="main-nav">
+        <a href="/">Home</a>
+        <a href="services.html">Services</a>
+        <a href="pricing.html">Pricing</a>
+        <a href="about.html">About</a>
+        <a href="docs/getting-started.md">Docs</a>
+        <a href="contact.html" class="button">Contact</a>
+      </nav>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-inner">
+        <h1>Build great desktop & web apps faster</h1>
+        <p class="lead">Atom is a modern platform and toolkit by SolveForce for building beautiful, performant desktop and web experiences — with expert services to accelerate delivery.</p>
+        <div class="hero-cta">
+          <a class="primary" href="services.html">Our Services</a>
+          <a class="ghost" href="docs/getting-started.md">Get Started</a>
         </div>
-    </header>
+      </div>
+    </section>
 
-    <main class="sf-main sf-container">
-        <section id="overview" class="sf-section">
-            <h2>What is ATOM?</h2>
-            <p>
-                ATOM is the intelligence layer of SolveForce’s telecom ecosystem:
-                a modular framework that maps connectivity, services, and infrastructure
-                into a coherent, language-aligned system. From fiber and wireless to
-                cloud and data centers, ATOM organizes the signals that keep businesses online.
-            </p>
-        </section>
+    <section class="services-preview container">
+      <h2>Services we offer</h2>
+      <p class="muted">From prototyping to production — specialized teams to ship and support your product.</p>
+      <div class="grid cards">
+        <article class="card">
+          <h3>Custom Desktop Apps (Electron)</h3>
+          <p>Cross-platform desktop applications using our Electron-based starter and production best practices.</p>
+          <a href="services.html#desktop" class="link">Learn more →</a>
+        </article>
 
-        <section id="capabilities" class="sf-section">
-            <h2>Core Capabilities</h2>
-            <div class="grid">
-                <div class="card">
-                    <h3>Carrier Intelligence</h3>
-                    <p>Index carriers, service tiers, and last-mile options with consistent terminology.</p>
-                </div>
-                <div class="card">
-                    <h3>Network Mapping</h3>
-                    <p>Model fiber, wireless, satellite, and hybrid connectivity paths across regions.</p>
-                </div>
-                <div class="card">
-                    <h3>Edge &amp; IoT Ready</h3>
-                    <p>Support for edge devices, sensors, and IoT endpoints in a unified framework.</p>
-                </div>
-                <div class="card">
-                    <h3>AI-Assisted Insights</h3>
-                    <p>Future-ready design for AI-based diagnostics, optimization, and capacity planning.</p>
-                </div>
-            </div>
-        </section>
+        <article class="card">
+          <h3>Web Applications</h3>
+          <p>Modern single-page apps and server-rendered sites with focus on performance and accessibility.</p>
+          <a href="services.html#web" class="link">Learn more →</a>
+        </article>
 
-        <section id="coverage" class="sf-section">
-            <h2>Coverage &amp; Reach</h2>
-            <p>
-                ATOM is designed to integrate with SolveForce’s nationwide and international
-                reach, aligning local access, long-haul, and cloud adjacency under a single
-                architectural language.
-            </p>
-            <ul>
-                <li>Nationwide fiber and broadband availability</li>
-                <li>Rural and metro wireless solutions</li>
-                <li>Cloud and data center access points</li>
-                <li>Support for future AMR-powered data center modules</li>
-            </ul>
-        </section>
+        <article class="card">
+          <h3>Design & UX</h3>
+          <p>Product design, UI systems, and design-to-code handoffs to keep engineering efficient.</p>
+          <a href="services.html#design" class="link">Learn more →</a>
+        </article>
 
-        <section id="contact" class="sf-section">
-            <h2>Connect with SolveForce</h2>
-            <p>
-                To learn how ATOM and SolveForce can support your telecom and infrastructure needs,
-                call <strong>(888) 765-8301</strong> or visit
-                <a href="https://solveforce.com" target="_blank" rel="noopener">solveforce.com</a>.
-            </p>
-        </section>
-    </main>
+        <article class="card">
+          <h3>Integrations & APIs</h3>
+          <p>Connect with third-party services, build secure APIs, and migrate data reliably.</p>
+          <a href="services.html#integrations" class="link">Learn more →</a>
+        </article>
 
-    <footer class="sf-footer">
-        <div class="sf-container">
-            <p>© 2025 SolveForce. ATOM — Adaptive Telecom Operations Module.</p>
+        <article class="card">
+          <h3>Cloud & DevOps</h3>
+          <p>Deployment automation, monitoring, and cost-optimized cloud architecture.</p>
+          <a href="services.html#cloud" class="link">Learn more →</a>
+        </article>
+
+        <article class="card">
+          <h3>Support & Maintenance</h3>
+          <p>Ongoing updates, security patches, and SLA-backed support plans.</p>
+          <a href="services.html#support" class="link">Learn more →</a>
+        </article>
+      </div>
+    </section>
+
+    <section class="why container">
+      <h2>Why teams choose Atom</h2>
+      <div class="grid why-grid">
+        <div>
+          <h3>Proven foundation</h3>
+          <p>Built with modern Electron patterns, optimized builds and production tooling so you don't reinvent the wheel.</p>
         </div>
-    </footer>
+        <div>
+          <h3>Flexible engagement</h3>
+          <p>Short-term consulting, feature-based engagements or long-term product partnerships.</p>
+        </div>
+        <div>
+          <h3>Developer-friendly</h3>
+          <p>Strong DX: consistent structure, integrated testing and CI templates to speed up development.</p>
+        </div>
+      </div>
+    </section>
 
-    <!-- Load the shared JavaScript asset referenced by both root and /web pages. -->
-    <script src="scripts.js"></script>
+    <aside class="testimonial container">
+      <blockquote>
+        "Atom helped us launch a cross-platform desktop app in weeks instead of months. The team knows Electron and UX deeply."
+        <cite>— Engineering Lead, Acme Corp</cite>
+      </blockquote>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="brand" href="/">Atom</a>
+        <p class="muted">© SolveForce — modern apps and services</p>
+      </div>
+      <div>
+        <h4>Product</h4>
+        <nav class="foot-nav">
+          <a href="services.html">Services</a>
+          <a href="pricing.html">Pricing</a>
+          <a href="docs/getting-started.md">Docs</a>
+        </nav>
+      </div>
+      <div>
+        <h4>Company</h4>
+        <nav class="foot-nav">
+          <a href="about.html">About</a>
+          <a href="contact.html">Contact</a>
+          <a href="https://atom.solveforce.com">Homepage</a>
+        </nav>
+      </div>
+    </div>
+  </footer>
+
+  <script src="scripts.js"></script>
 </body>
-</html>
 </html>
